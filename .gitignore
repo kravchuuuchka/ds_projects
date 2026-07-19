@@ -4,3 +4,4 @@ __pycache__
 berenhak*
 .vscode
 *.Identifier
+*.pkl
