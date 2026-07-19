@@ -1,0 +1,13 @@
+         611710 function calls (609119 primitive calls) in 6.693 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1607 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    6.693    6.693 /home/capybara/my_projects/DSB4_Package_management.ID_1577671-1/src/ex04/financial_enhanced.py:99(get_financial_data)
+        1    0.001    0.001    6.685    6.685 /home/capybara/my_projects/DSB4_Package_management.ID_1577671-1/src/ex04/financial_enhanced.py:9(fetch_page_requests)
+        1    5.000    5.000    5.000    5.000 {built-in method time.sleep}
+        1    0.000    0.000    1.454    1.454 /home/capybara/my_projects/berenhak/lib/python3.12/site-packages/httpx/_api.py:174(get)
+        1    0.000    0.000    1.454    1.454 /home/capybara/my_projects/berenhak/lib/python3.12/site-packages/httpx/_api.py:39(request)
+
+
