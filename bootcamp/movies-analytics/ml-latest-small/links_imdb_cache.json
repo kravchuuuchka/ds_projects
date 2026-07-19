@@ -1,0 +1,9107 @@
+{
+  "tt0114709": {
+    "title": "Toy Story",
+    "budget": 30000000,
+    "gross": 401157969,
+    "runtime": 81,
+    "directors": [
+      "John Lasseter"
+    ]
+  },
+  "tt0113497": {
+    "title": "Jumanji",
+    "budget": 65000000,
+    "gross": 262821940,
+    "runtime": 104,
+    "directors": [
+      "Joe Johnston"
+    ]
+  },
+  "tt0113228": {
+    "title": "Grumpier Old Men",
+    "budget": 25000000,
+    "gross": 71518503,
+    "runtime": 101,
+    "directors": [
+      "Howard Deutch"
+    ]
+  },
+  "tt0113041": {
+    "title": "Father of the Bride Part II",
+    "budget": 30000000,
+    "gross": 76594107,
+    "runtime": 106,
+    "directors": [
+      "Charles Shyer"
+    ]
+  },
+  "tt0113277": {
+    "title": "Heat",
+    "budget": 60000000,
+    "gross": 187436818,
+    "runtime": 170,
+    "directors": [
+      "Michael Mann"
+    ]
+  },
+  "tt0114885": {
+    "title": "Waiting to Exhale",
+    "budget": 16000000,
+    "gross": 81452156,
+    "runtime": 124,
+    "directors": [
+      "Forest Whitaker"
+    ]
+  },
+  "tt0114319": {
+    "title": "Sabrina",
+    "budget": 58000000,
+    "gross": 53696959,
+    "runtime": 127,
+    "directors": [
+      "Sydney Pollack"
+    ]
+  },
+  "tt0114576": {
+    "title": "Sudden Death",
+    "budget": 35000000,
+    "gross": 64350171,
+    "runtime": 111,
+    "directors": [
+      "Peter Hyams"
+    ]
+  },
+  "tt0112302": {
+    "title": "Tom and Huck",
+    "budget": 0,
+    "gross": 23920048,
+    "runtime": 97,
+    "directors": [
+      "Peter Hewitt"
+    ]
+  },
+  "tt0113189": {
+    "title": "GoldenEye",
+    "budget": 60000000,
+    "gross": 352194034,
+    "runtime": 130,
+    "directors": [
+      "Martin Campbell"
+    ]
+  },
+  "tt0112346": {
+    "title": "The American President",
+    "budget": 62000000,
+    "gross": 107879496,
+    "runtime": 114,
+    "directors": [
+      "Rob Reiner"
+    ]
+  },
+  "tt0112896": {
+    "title": "Dracula: Dead and Loving It",
+    "budget": 30000000,
+    "gross": 10772144,
+    "runtime": 90,
+    "directors": [
+      "Mel Brooks"
+    ]
+  },
+  "tt0112453": {
+    "title": "Balto",
+    "budget": 0,
+    "gross": 11349090,
+    "runtime": 78,
+    "directors": [
+      "Simon Wells"
+    ]
+  },
+  "tt0113987": {
+    "title": "Nixon",
+    "budget": 44000000,
+    "gross": 13681765,
+    "runtime": 192,
+    "directors": [
+      "Oliver Stone"
+    ]
+  },
+  "tt0112760": {
+    "title": "Cutthroat Island",
+    "budget": 98000000,
+    "gross": 10017322,
+    "runtime": 124,
+    "directors": [
+      "Renny Harlin"
+    ]
+  },
+  "tt0112641": {
+    "title": "Casino",
+    "budget": 52000000,
+    "gross": 116112375,
+    "runtime": 178,
+    "directors": [
+      "Martin Scorsese"
+    ]
+  },
+  "tt0114388": {
+    "title": "Sense and Sensibility",
+    "budget": 16000000,
+    "gross": 134836071,
+    "runtime": 136,
+    "directors": [
+      "Ang Lee"
+    ]
+  },
+  "tt0113101": {
+    "title": "Four Rooms",
+    "budget": 4000000,
+    "gross": 4257354,
+    "runtime": 98,
+    "directors": [
+      "Allison Anders",
+      "Alexandre Rockwell",
+      "Robert Rodriguez",
+      "Quentin Tarantino"
+    ]
+  },
+  "tt0112281": {
+    "title": "Ace Ventura: When Nature Calls",
+    "budget": 30000000,
+    "gross": 212385533,
+    "runtime": 90,
+    "directors": [
+      "Steve Oedekerk"
+    ]
+  },
+  "tt0113845": {
+    "title": "Money Train",
+    "budget": 68000000,
+    "gross": 35431113,
+    "runtime": 110,
+    "directors": [
+      "Joseph Ruben"
+    ]
+  },
+  "tt0113161": {
+    "title": "Get Shorty",
+    "budget": 30250000,
+    "gross": 115101622,
+    "runtime": 105,
+    "directors": [
+      "Barry Sonnenfeld"
+    ]
+  },
+  "tt0112722": {
+    "title": "Copycat",
+    "budget": 20000000,
+    "gross": 32051917,
+    "runtime": 123,
+    "directors": [
+      "Jon Amiel"
+    ]
+  },
+  "tt0112401": {
+    "title": "Assassins",
+    "budget": 50000000,
+    "gross": 30303072,
+    "runtime": 133,
+    "directors": [
+      "Richard Donner"
+    ]
+  },
+  "tt0114168": {
+    "title": "Powder",
+    "budget": 9500000,
+    "gross": 30862156,
+    "runtime": 111,
+    "directors": [
+      "Victor Salva"
+    ]
+  },
+  "tt0113627": {
+    "title": "Leaving Las Vegas",
+    "budget": 3600000,
+    "gross": 32049055,
+    "runtime": 111,
+    "directors": [
+      "Mike Figgis"
+    ]
+  },
+  "tt0114057": {
+    "title": "Othello",
+    "budget": 11000000,
+    "gross": 2844379,
+    "runtime": 123,
+    "directors": [
+      "Oliver Parker"
+    ]
+  },
+  "tt0114011": {
+    "title": "Now and Then",
+    "budget": 0,
+    "gross": 37591674,
+    "runtime": 102,
+    "directors": [
+      "Lesli Linka Glatter"
+    ]
+  },
+  "tt0114117": {
+    "title": "Persuasion",
+    "budget": 1000000,
+    "gross": 5269757,
+    "runtime": 103,
+    "directors": [
+      "Roger Michell"
+    ]
+  },
+  "tt0112682": {
+    "title": "The City of Lost Children",
+    "budget": 18000000,
+    "gross": 1784424,
+    "runtime": 112,
+    "directors": [
+      "Marc Caro",
+      "Jean-Pierre Jeunet"
+    ]
+  },
+  "tt0115012": {
+    "title": "Shanghai Triad",
+    "budget": 0,
+    "gross": 2086101,
+    "runtime": 108,
+    "directors": [
+      "Yimou Zhang"
+    ]
+  },
+  "tt0112792": {
+    "title": "Dangerous Minds",
+    "budget": 23000000,
+    "gross": 179519401,
+    "runtime": 99,
+    "directors": [
+      "John N. Smith"
+    ]
+  },
+  "tt0114746": {
+    "title": "12 Monkeys",
+    "budget": 29000000,
+    "gross": 168839459,
+    "runtime": 129,
+    "directors": [
+      "Terry Gilliam"
+    ]
+  },
+  "tt0112431": {
+    "title": "Babe",
+    "budget": 30000000,
+    "gross": 254134910,
+    "runtime": 91,
+    "directors": [
+      "Chris Noonan"
+    ]
+  },
+  "tt0112818": {
+    "title": "Dead Man Walking",
+    "budget": 11000000,
+    "gross": 39363635,
+    "runtime": 122,
+    "directors": [
+      "Tim Robbins"
+    ]
+  },
+  "tt0113442": {
+    "title": "It Takes Two",
+    "budget": 0,
+    "gross": 19474589,
+    "runtime": 101,
+    "directors": [
+      "Andy Tennant"
+    ]
+  },
+  "tt0112697": {
+    "title": "Clueless",
+    "budget": 12000000,
+    "gross": 56834574,
+    "runtime": 97,
+    "directors": [
+      "Amy Heckerling"
+    ]
+  },
+  "tt0112749": {
+    "title": "Cry, the Beloved Country",
+    "budget": 0,
+    "gross": 670727,
+    "runtime": 106,
+    "directors": [
+      "Darrell Roodt"
+    ]
+  },
+  "tt0114279": {
+    "title": "Richard III",
+    "budget": 6000000,
+    "gross": 2748518,
+    "runtime": 104,
+    "directors": [
+      "Richard Loncraine"
+    ]
+  },
+  "tt0112819": {
+    "title": "Dead Presidents",
+    "budget": 10000000,
+    "gross": 24147179,
+    "runtime": 119,
+    "directors": [
+      "Albert Hughes",
+      "Allen Hughes"
+    ]
+  },
+  "tt0114272": {
+    "title": "Restoration",
+    "budget": 19000000,
+    "gross": 4005941,
+    "runtime": 117,
+    "directors": [
+      "Michael Hoffman"
+    ]
+  },
+  "tt0113855": {
+    "title": "Mortal Kombat",
+    "budget": 18000000,
+    "gross": 122195920,
+    "runtime": 101,
+    "directors": [
+      "Paul W.S. Anderson"
+    ]
+  },
+  "tt0114681": {
+    "title": "To Die For",
+    "budget": 20000000,
+    "gross": 21289022,
+    "runtime": 106,
+    "directors": [
+      "Gus Van Sant"
+    ]
+  },
+  "tt0113347": {
+    "title": "How to Make an American Quilt",
+    "budget": 10000000,
+    "gross": 41200020,
+    "runtime": 117,
+    "directors": [
+      "Jocelyn Moorhouse"
+    ]
+  },
+  "tt0114369": {
+    "title": "Seven",
+    "budget": 33000000,
+    "gross": 329813591,
+    "runtime": 127,
+    "directors": [
+      "David Fincher"
+    ]
+  },
+  "tt0114148": {
+    "title": "Pocahontas",
+    "budget": 55000000,
+    "gross": 346079773,
+    "runtime": 81,
+    "directors": [
+      "Mike Gabriel",
+      "Eric Goldberg"
+    ]
+  },
+  "tt0114916": {
+    "title": "When Night Is Falling",
+    "budget": 0,
+    "gross": 919671,
+    "runtime": 94,
+    "directors": [
+      "Patricia Rozema"
+    ]
+  },
+  "tt0114814": {
+    "title": "The Usual Suspects",
+    "budget": 6000000,
+    "gross": 23342724,
+    "runtime": 106,
+    "directors": [
+      "Bryan Singer"
+    ]
+  },
+  "tt0113819": {
+    "title": "Mighty Aphrodite",
+    "budget": 15000000,
+    "gross": 6468498,
+    "runtime": 95,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0110299": {
+    "title": "Lamerica",
+    "budget": 0,
+    "gross": 4788331,
+    "runtime": 116,
+    "directors": [
+      "Gianni Amelio"
+    ]
+  },
+  "tt0112499": {
+    "title": "The Big Green",
+    "budget": 12000000,
+    "gross": 17736619,
+    "runtime": 100,
+    "directors": [
+      "Holly Goldberg Sloan"
+    ]
+  },
+  "tt0113158": {
+    "title": "Georgia",
+    "budget": 0,
+    "gross": 1110104,
+    "runtime": 115,
+    "directors": [
+      "Ulu Grosbard"
+    ]
+  },
+  "tt0113321": {
+    "title": "Home for the Holidays",
+    "budget": 20000000,
+    "gross": 17519169,
+    "runtime": 103,
+    "directors": [
+      "Jodie Foster"
+    ]
+  },
+  "tt0110877": {
+    "title": "The Postman",
+    "budget": 3000000,
+    "gross": 21902690,
+    "runtime": 108,
+    "directors": [
+      "Michael Radford"
+    ]
+  },
+  "tt0113419": {
+    "title": "The Indian in the Cupboard",
+    "budget": 45000000,
+    "gross": 35656131,
+    "runtime": 96,
+    "directors": [
+      "Frank Oz"
+    ]
+  },
+  "tt0113862": {
+    "title": "Mr. Holland's Opus",
+    "budget": 23000000,
+    "gross": 106269971,
+    "runtime": 144,
+    "directors": [
+      "Stephen Herek"
+    ]
+  },
+  "tt0116260": {
+    "title": "Eye for an Eye",
+    "budget": 20000000,
+    "gross": 26877589,
+    "runtime": 101,
+    "directors": [
+      "John Schlesinger"
+    ]
+  },
+  "tt0116126": {
+    "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+    "budget": 3800000,
+    "gross": 20949601,
+    "runtime": 89,
+    "directors": [
+      "Paris Barclay"
+    ]
+  },
+  "tt0118002": {
+    "title": "Two If by Sea",
+    "budget": 0,
+    "gross": 10658278,
+    "runtime": 96,
+    "directors": [
+      "Bill Bennett"
+    ]
+  },
+  "tt0115683": {
+    "title": "Bio-Dome",
+    "budget": 15000000,
+    "gross": 13427615,
+    "runtime": 88,
+    "directors": [
+      "Jason Bloom"
+    ]
+  },
+  "tt0116839": {
+    "title": "Lawnmower Man 2: Beyond Cyberspace",
+    "budget": 15000000,
+    "gross": 2409225,
+    "runtime": 93,
+    "directors": [
+      "Farhad Mann"
+    ]
+  },
+  "tt0113118": {
+    "title": "Friday",
+    "budget": 3500000,
+    "gross": 28215918,
+    "runtime": 91,
+    "directors": [
+      "F. Gary Gray"
+    ]
+  },
+  "tt0113149": {
+    "title": "French Twist",
+    "budget": 0,
+    "gross": 1026646,
+    "runtime": 104,
+    "directors": [
+      "Josiane Balasko"
+    ]
+  },
+  "tt0116367": {
+    "title": "From Dusk Till Dawn",
+    "budget": 19000000,
+    "gross": 25844721,
+    "runtime": 108,
+    "directors": [
+      "Robert Rodriguez"
+    ]
+  },
+  "tt0113010": {
+    "title": "Fair Game",
+    "budget": 50000000,
+    "gross": 11534477,
+    "runtime": 91,
+    "directors": [
+      "Andrew Sipes"
+    ]
+  },
+  "tt0113537": {
+    "title": "Kicking and Screaming",
+    "budget": 0,
+    "gross": 718490,
+    "runtime": 96,
+    "directors": [
+      "Noah Baumbach"
+    ]
+  },
+  "tt0113828": {
+    "title": "Les Misérables",
+    "budget": 0,
+    "gross": 740048,
+    "runtime": 175,
+    "directors": [
+      "Claude Lelouch"
+    ]
+  },
+  "tt0115676": {
+    "title": "Big Bully",
+    "budget": 15000000,
+    "gross": 2042530,
+    "runtime": 90,
+    "directors": [
+      "Steve Miner"
+    ]
+  },
+  "tt0115644": {
+    "title": "Bed of Roses",
+    "budget": 0,
+    "gross": 27315527,
+    "runtime": 87,
+    "directors": [
+      "Michael Goldenberg"
+    ]
+  },
+  "tt0114367": {
+    "title": "Screamers",
+    "budget": 20000000,
+    "gross": 5711695,
+    "runtime": 108,
+    "directors": [
+      "Christian Duguay"
+    ]
+  },
+  "tt0113973": {
+    "title": "Nico Icon",
+    "budget": 0,
+    "gross": 306691,
+    "runtime": 67,
+    "directors": [
+      "Susanne Ofteringer"
+    ]
+  },
+  "tt0112744": {
+    "title": "The Crossing Guard",
+    "budget": 9000000,
+    "gross": 868979,
+    "runtime": 111,
+    "directors": [
+      "Sean Penn"
+    ]
+  },
+  "tt0116731": {
+    "title": "The Juror",
+    "budget": 44000000,
+    "gross": 22754725,
+    "runtime": 118,
+    "directors": [
+      "Brian Gibson"
+    ]
+  },
+  "tt0112445": {
+    "title": "The White Balloon",
+    "budget": 150000,
+    "gross": 924940,
+    "runtime": 85,
+    "directors": [
+      "Jafar Panahi"
+    ]
+  },
+  "tt0114660": {
+    "title": "Things to Do in Denver When You're Dead",
+    "budget": 7000000,
+    "gross": 529766,
+    "runtime": 115,
+    "directors": [
+      "Gary Fleder"
+    ]
+  },
+  "tt0112379": {
+    "title": "Antonia's Line",
+    "budget": 1500000,
+    "gross": 4249321,
+    "runtime": 102,
+    "directors": [
+      "Marleen Gorris"
+    ]
+  },
+  "tt0114039": {
+    "title": "Once Upon a Time... When We Were Colored",
+    "budget": 0,
+    "gross": 2291255,
+    "runtime": 115,
+    "directors": [
+      "Tim Reid"
+    ]
+  },
+  "tt0112365": {
+    "title": "Angels and Insects",
+    "budget": 4997987,
+    "gross": 3414301,
+    "runtime": 116,
+    "directors": [
+      "Philip Haas"
+    ]
+  },
+  "tt0118158": {
+    "title": "White Squall",
+    "budget": 38000000,
+    "gross": 10292300,
+    "runtime": 129,
+    "directors": [
+      "Ridley Scott"
+    ]
+  },
+  "tt0116151": {
+    "title": "Dunston Checks In",
+    "budget": 20000000,
+    "gross": 9871065,
+    "runtime": 88,
+    "directors": [
+      "Ken Kwapis"
+    ]
+  },
+  "tt0115697": {
+    "title": "Black Sheep",
+    "budget": 0,
+    "gross": 32417995,
+    "runtime": 87,
+    "directors": [
+      "Penelope Spheeris"
+    ]
+  },
+  "tt0113972": {
+    "title": "Nick of Time",
+    "budget": 33000000,
+    "gross": 8175346,
+    "runtime": 89,
+    "directors": [
+      "John Badham"
+    ]
+  },
+  "tt0117002": {
+    "title": "Mary Reilly",
+    "budget": 47000000,
+    "gross": 12379402,
+    "runtime": 108,
+    "directors": [
+      "Stephen Frears"
+    ]
+  },
+  "tt0114825": {
+    "title": "Vampire in Brooklyn",
+    "budget": 20000000,
+    "gross": 19751736,
+    "runtime": 100,
+    "directors": [
+      "Wes Craven"
+    ]
+  },
+  "tt0115639": {
+    "title": "Beautiful Girls",
+    "budget": 0,
+    "gross": 10597759,
+    "runtime": 112,
+    "directors": [
+      "Ted Demme"
+    ]
+  },
+  "tt0115759": {
+    "title": "Broken Arrow",
+    "budget": 50000000,
+    "gross": 150270147,
+    "runtime": 108,
+    "directors": [
+      "John Woo"
+    ]
+  },
+  "tt0113403": {
+    "title": "A Midwinter's Tale",
+    "budget": 0,
+    "gross": 469571,
+    "runtime": 99,
+    "directors": [
+      "Kenneth Branagh"
+    ]
+  },
+  "tt0113247": {
+    "title": "La haine",
+    "budget": 2590000,
+    "gross": 771492,
+    "runtime": 98,
+    "directors": [
+      "Mathieu Kassovitz"
+    ]
+  },
+  "tt0113283": {
+    "title": "Heidi Fleiss: Hollywood Madam",
+    "budget": 0,
+    "gross": 34402,
+    "runtime": 106,
+    "directors": [
+      "Nick Broomfield"
+    ]
+  },
+  "tt0115907": {
+    "title": "City Hall",
+    "budget": 40000000,
+    "gross": 20340204,
+    "runtime": 111,
+    "directors": [
+      "Harold Becker"
+    ]
+  },
+  "tt0115734": {
+    "title": "Bottle Rocket",
+    "budget": 7000000,
+    "gross": 560069,
+    "runtime": 91,
+    "directors": [
+      "Wes Anderson"
+    ]
+  },
+  "tt0117102": {
+    "title": "Mr. Wrong",
+    "budget": 0,
+    "gross": 12825141,
+    "runtime": 96,
+    "directors": [
+      "Nick Castle"
+    ]
+  },
+  "tt0118040": {
+    "title": "Unforgettable",
+    "budget": 18000000,
+    "gross": 2821671,
+    "runtime": 117,
+    "directors": [
+      "John Dahl"
+    ]
+  },
+  "tt0116483": {
+    "title": "Happy Gilmore",
+    "budget": 12000000,
+    "gross": 41422354,
+    "runtime": 92,
+    "directors": [
+      "Dennis Dugan"
+    ]
+  },
+  "tt0112579": {
+    "title": "The Bridges of Madison County",
+    "budget": 24000000,
+    "gross": 182016617,
+    "runtime": 135,
+    "directors": [
+      "Clint Eastwood"
+    ]
+  },
+  "tt0110251": {
+    "title": "Nobody Loves Me",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 104,
+    "directors": [
+      "Doris Dörrie"
+    ]
+  },
+  "tt0117110": {
+    "title": "Muppet Treasure Island",
+    "budget": 0,
+    "gross": 34328434,
+    "runtime": 99,
+    "directors": [
+      "Brian Henson"
+    ]
+  },
+  "tt0112646": {
+    "title": "Catwalk",
+    "budget": 0,
+    "gross": 28672,
+    "runtime": 95,
+    "directors": [
+      "Milton Moses Ginsberg",
+      "Robert Leacock"
+    ]
+  },
+  "tt0112573": {
+    "title": "Braveheart",
+    "budget": 72000000,
+    "gross": 213216216,
+    "runtime": 178,
+    "directors": [
+      "Mel Gibson"
+    ]
+  },
+  "tt0075314": {
+    "title": "Taxi Driver",
+    "budget": 1300000,
+    "gross": 28979798,
+    "runtime": 114,
+    "directors": [
+      "Martin Scorsese"
+    ]
+  },
+  "tt0113326": {
+    "title": "Rumble in the Bronx",
+    "budget": 7500000,
+    "gross": 32392680,
+    "runtime": 87,
+    "directors": [
+      "Stanley Tong"
+    ]
+  },
+  "tt0115645": {
+    "title": "Before and After",
+    "budget": 35000000,
+    "gross": 8797839,
+    "runtime": 108,
+    "directors": [
+      "Barbet Schroeder"
+    ]
+  },
+  "tt0112373": {
+    "title": "Anne Frank Remembered",
+    "budget": 0,
+    "gross": 1310200,
+    "runtime": 117,
+    "directors": [
+      "Jon Blair"
+    ]
+  },
+  "tt0115033": {
+    "title": "The Young Poisoner's Handbook",
+    "budget": 0,
+    "gross": 536825,
+    "runtime": 99,
+    "directors": [
+      "Benjamin Ross"
+    ]
+  },
+  "tt0116606": {
+    "title": "If Lucy Fell",
+    "budget": 5000000,
+    "gross": 2420162,
+    "runtime": 92,
+    "directors": [
+      "Eric Schaeffer"
+    ]
+  },
+  "tt0114536": {
+    "title": "Steal Big Steal Little",
+    "budget": 35000000,
+    "gross": 3150170,
+    "runtime": 135,
+    "directors": [
+      "Andrew Davis"
+    ]
+  },
+  "tt0106473": {
+    "title": "The Boys of St. Vincent",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 93,
+    "directors": [
+      "John N. Smith"
+    ]
+  },
+  "tt0103859": {
+    "title": "Boomerang",
+    "budget": 42000000,
+    "gross": 131052444,
+    "runtime": 117,
+    "directors": [
+      "Reginald Hudlin"
+    ]
+  },
+  "tt0116324": {
+    "title": "Flirting with Disaster",
+    "budget": 7000000,
+    "gross": 14702438,
+    "runtime": 92,
+    "directors": [
+      "David O. Russell"
+    ]
+  },
+  "tt0109424": {
+    "title": "Chungking Express",
+    "budget": 0,
+    "gross": 3283532,
+    "runtime": 102,
+    "directors": [
+      "Wong Kar-Wai"
+    ]
+  },
+  "tt0110647": {
+    "title": "The NeverEnding Story III",
+    "budget": 17000000,
+    "gross": 0,
+    "runtime": 95,
+    "directors": [
+      "Peter MacDonald"
+    ]
+  },
+  "tt0114131": {
+    "title": "Pie in the Sky",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 95,
+    "directors": [
+      "Bryan Gordon"
+    ]
+  },
+  "tt0110217": {
+    "title": "Jupiter's Wife",
+    "budget": 0,
+    "gross": 10622,
+    "runtime": 87,
+    "directors": [
+      "Michel Negroponte"
+    ]
+  },
+  "tt0113451": {
+    "title": "Jade",
+    "budget": 50000000,
+    "gross": 9851639,
+    "runtime": 95,
+    "directors": [
+      "William Friedkin"
+    ]
+  },
+  "tt0116130": {
+    "title": "Down Periscope",
+    "budget": 31000000,
+    "gross": 37553752,
+    "runtime": 92,
+    "directors": [
+      "David S. Ward"
+    ]
+  },
+  "tt0113756": {
+    "title": "Man of the Year",
+    "budget": 0,
+    "gross": 209935,
+    "runtime": 86,
+    "directors": [
+      "Dirk Shafer"
+    ]
+  },
+  "tt0118055": {
+    "title": "Up Close & Personal",
+    "budget": 60000000,
+    "gross": 100688705,
+    "runtime": 124,
+    "directors": [
+      "Jon Avnet"
+    ]
+  },
+  "tt0115685": {
+    "title": "The Birdcage",
+    "budget": 31000000,
+    "gross": 185260553,
+    "runtime": 117,
+    "directors": [
+      "Mike Nichols"
+    ]
+  },
+  "tt0112585": {
+    "title": "The Brothers McMullen",
+    "budget": 238000,
+    "gross": 10426506,
+    "runtime": 98,
+    "directors": [
+      "Edward Burns"
+    ]
+  },
+  "tt0112442": {
+    "title": "Bad Boys",
+    "budget": 19000000,
+    "gross": 141407024,
+    "runtime": 119,
+    "directors": [
+      "Michael Bay"
+    ]
+  },
+  "tt0112342": {
+    "title": "The Amazing Panda Adventure",
+    "budget": 0,
+    "gross": 7506759,
+    "runtime": 84,
+    "directors": [
+      "Christopher Cain"
+    ]
+  },
+  "tt0112461": {
+    "title": "The Basketball Diaries",
+    "budget": 2000000,
+    "gross": 2402438,
+    "runtime": 102,
+    "directors": [
+      "Scott Kalvert"
+    ]
+  },
+  "tt0109093": {
+    "title": "Amateur",
+    "budget": 2300000,
+    "gross": 757088,
+    "runtime": 105,
+    "directors": [
+      "Hal Hartley"
+    ]
+  },
+  "tt0112427": {
+    "title": "An Awfully Big Adventure",
+    "budget": 4000000,
+    "gross": 259724,
+    "runtime": 112,
+    "directors": [
+      "Mike Newell"
+    ]
+  },
+  "tt0112384": {
+    "title": "Apollo 13",
+    "budget": 52000000,
+    "gross": 355770228,
+    "runtime": 140,
+    "directors": [
+      "Ron Howard"
+    ]
+  },
+  "tt0114287": {
+    "title": "Rob Roy",
+    "budget": 28000000,
+    "gross": 31596911,
+    "runtime": 139,
+    "directors": [
+      "Michael Caton-Jones"
+    ]
+  },
+  "tt0112288": {
+    "title": "The Addiction",
+    "budget": 0,
+    "gross": 307308,
+    "runtime": 82,
+    "directors": [
+      "Abel Ferrara"
+    ]
+  },
+  "tt0112462": {
+    "title": "Batman Forever",
+    "budget": 100000000,
+    "gross": 336567158,
+    "runtime": 121,
+    "directors": [
+      "Joel Schumacher"
+    ]
+  },
+  "tt0061395": {
+    "title": "Belle de Jour",
+    "budget": 0,
+    "gross": 4196743,
+    "runtime": 100,
+    "directors": [
+      "Luis Buñuel"
+    ]
+  },
+  "tt0112495": {
+    "title": "Beyond Rangoon",
+    "budget": 23000000,
+    "gross": 5750110,
+    "runtime": 100,
+    "directors": [
+      "John Boorman"
+    ]
+  },
+  "tt0112541": {
+    "title": "Blue in the Face",
+    "budget": 2000000,
+    "gross": 1268636,
+    "runtime": 83,
+    "directors": [
+      "Paul Auster",
+      "Wayne Wang",
+      "Harvey Wang"
+    ]
+  },
+  "tt0109370": {
+    "title": "Canadian Bacon",
+    "budget": 11000000,
+    "gross": 163971,
+    "runtime": 91,
+    "directors": [
+      "Michael Moore"
+    ]
+  },
+  "tt0112642": {
+    "title": "Casper",
+    "budget": 55000000,
+    "gross": 290277077,
+    "runtime": 100,
+    "directors": [
+      "Rob Letterman",
+      "Brad Silberling"
+    ]
+  },
+  "tt0112688": {
+    "title": "Clockers",
+    "budget": 25000000,
+    "gross": 13071518,
+    "runtime": 128,
+    "directors": [
+      "Spike Lee"
+    ]
+  },
+  "tt0112740": {
+    "title": "Crimson Tide",
+    "budget": 53000000,
+    "gross": 157387195,
+    "runtime": 116,
+    "directors": [
+      "Tony Scott"
+    ]
+  },
+  "tt0112715": {
+    "title": "Congo",
+    "budget": 50000000,
+    "gross": 152022101,
+    "runtime": 109,
+    "directors": [
+      "Frank Marshall"
+    ]
+  },
+  "tt0109508": {
+    "title": "Crumb",
+    "budget": 0,
+    "gross": 3041083,
+    "runtime": 119,
+    "directors": [
+      "Terry Zwigoff"
+    ]
+  },
+  "tt0112857": {
+    "title": "Devil in a Blue Dress",
+    "budget": 27000000,
+    "gross": 16141551,
+    "runtime": 102,
+    "directors": [
+      "Carl Franklin"
+    ]
+  },
+  "tt0112851": {
+    "title": "Desperado",
+    "budget": 7000000,
+    "gross": 25406386,
+    "runtime": 104,
+    "directors": [
+      "Robert Rodriguez"
+    ]
+  },
+  "tt0112887": {
+    "title": "The Doom Generation",
+    "budget": 0,
+    "gross": 287811,
+    "runtime": 83,
+    "directors": [
+      "Gregg Araki"
+    ]
+  },
+  "tt0112864": {
+    "title": "Die Hard: With a Vengeance",
+    "budget": 90000000,
+    "gross": 366101666,
+    "runtime": 128,
+    "directors": [
+      "John McTiernan"
+    ]
+  },
+  "tt0113071": {
+    "title": "First Knight",
+    "budget": 55000000,
+    "gross": 127600435,
+    "runtime": 134,
+    "directors": [
+      "Jerry Zucker"
+    ]
+  },
+  "tt0113114": {
+    "title": "Free Willy 2: The Adventure Home",
+    "budget": 0,
+    "gross": 30077111,
+    "runtime": 95,
+    "directors": [
+      "Dwight H. Little"
+    ]
+  },
+  "tt0113243": {
+    "title": "Hackers",
+    "budget": 20000000,
+    "gross": 7566199,
+    "runtime": 105,
+    "directors": [
+      "Iain Softley"
+    ]
+  },
+  "tt0113464": {
+    "title": "Jeffrey",
+    "budget": 0,
+    "gross": 3487767,
+    "runtime": 92,
+    "directors": [
+      "Christopher Ashley"
+    ]
+  },
+  "tt0113481": {
+    "title": "Johnny Mnemonic",
+    "budget": 26000000,
+    "gross": 19106118,
+    "runtime": 96,
+    "directors": [
+      "Robert Longo"
+    ]
+  },
+  "tt0113492": {
+    "title": "Judge Dredd",
+    "budget": 90000000,
+    "gross": 113493481,
+    "runtime": 96,
+    "directors": [
+      "Danny Cannon"
+    ]
+  },
+  "tt0113500": {
+    "title": "Jury Duty",
+    "budget": 0,
+    "gross": 17014653,
+    "runtime": 88,
+    "directors": [
+      "John Fortenberry"
+    ]
+  },
+  "tt0113540": {
+    "title": "Kids",
+    "budget": 1500000,
+    "gross": 7412216,
+    "runtime": 91,
+    "directors": [
+      "Larry Clark"
+    ]
+  },
+  "tt0113677": {
+    "title": "Living in Oblivion",
+    "budget": 500000,
+    "gross": 1111790,
+    "runtime": 90,
+    "directors": [
+      "Tom DiCillo"
+    ]
+  },
+  "tt0113690": {
+    "title": "Lord of Illusions",
+    "budget": 12000000,
+    "gross": 13294422,
+    "runtime": 109,
+    "directors": [
+      "Clive Barker"
+    ]
+  },
+  "tt0107447": {
+    "title": "Love and Human Remains",
+    "budget": 0,
+    "gross": 542985,
+    "runtime": 100,
+    "directors": [
+      "Denys Arcand"
+    ]
+  },
+  "tt0113729": {
+    "title": "Mad Love",
+    "budget": 0,
+    "gross": 15453274,
+    "runtime": 93,
+    "directors": [
+      "Antonia Bird"
+    ]
+  },
+  "tt0113749": {
+    "title": "Mallrats",
+    "budget": 8000000,
+    "gross": 2122561,
+    "runtime": 94,
+    "directors": [
+      "Kevin Smith"
+    ]
+  },
+  "tt0113820": {
+    "title": "Mighty Morphin Power Rangers: The Movie",
+    "budget": 20000000,
+    "gross": 66433194,
+    "runtime": 95,
+    "directors": [
+      "Bryan Spicer"
+    ]
+  },
+  "tt0110604": {
+    "title": "Mute Witness",
+    "budget": 2000000,
+    "gross": 1125910,
+    "runtime": 95,
+    "directors": [
+      "Anthony Waller"
+    ]
+  },
+  "tt0110620": {
+    "title": "Nadja",
+    "budget": 1000000,
+    "gross": 443169,
+    "runtime": 93,
+    "directors": [
+      "Michael Almereyda"
+    ]
+  },
+  "tt0113957": {
+    "title": "The Net",
+    "budget": 22000000,
+    "gross": 110627965,
+    "runtime": 114,
+    "directors": [
+      "Irwin Winkler"
+    ]
+  },
+  "tt0113986": {
+    "title": "Nine Months",
+    "budget": 0,
+    "gross": 138510230,
+    "runtime": 103,
+    "directors": [
+      "Chris Columbus"
+    ]
+  },
+  "tt0114095": {
+    "title": "Party Girl",
+    "budget": 150000,
+    "gross": 474738,
+    "runtime": 94,
+    "directors": [
+      "Daisy von Scherler Mayer"
+    ]
+  },
+  "tt0114241": {
+    "title": "Reckless",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 91,
+    "directors": [
+      "Norman René"
+    ]
+  },
+  "tt0114194": {
+    "title": "The Prophecy",
+    "budget": 8000000,
+    "gross": 16115878,
+    "runtime": 98,
+    "directors": [
+      "Gregory Widen"
+    ]
+  },
+  "tt0114323": {
+    "title": "Safe",
+    "budget": 1000000,
+    "gross": 512966,
+    "runtime": 119,
+    "directors": [
+      "Todd Haynes"
+    ]
+  },
+  "tt0114345": {
+    "title": "The Scarlet Letter",
+    "budget": 46000000,
+    "gross": 10382407,
+    "runtime": 135,
+    "directors": [
+      "Roland Joffé"
+    ]
+  },
+  "tt0114436": {
+    "title": "Showgirls",
+    "budget": 45000000,
+    "gross": 20372338,
+    "runtime": 131,
+    "directors": [
+      "Paul Verhoeven"
+    ]
+  },
+  "tt0114478": {
+    "title": "Smoke",
+    "budget": 7000000,
+    "gross": 8367636,
+    "runtime": 112,
+    "directors": [
+      "Wayne Wang"
+    ]
+  },
+  "tt0114496": {
+    "title": "Something to Talk About",
+    "budget": 0,
+    "gross": 50865589,
+    "runtime": 106,
+    "directors": [
+      "Lasse Hallström"
+    ]
+  },
+  "tt0114508": {
+    "title": "Species",
+    "budget": 35000000,
+    "gross": 113374103,
+    "runtime": 108,
+    "directors": [
+      "Roger Donaldson"
+    ]
+  },
+  "tt0114558": {
+    "title": "Strange Days",
+    "budget": 42000000,
+    "gross": 7962684,
+    "runtime": 145,
+    "directors": [
+      "Kathryn Bigelow"
+    ]
+  },
+  "tt0058450": {
+    "title": "The Umbrellas of Cherbourg",
+    "budget": 0,
+    "gross": 169570,
+    "runtime": 91,
+    "directors": [
+      "Jacques Demy"
+    ]
+  },
+  "tt0114663": {
+    "title": "Three Wishes",
+    "budget": 10000000,
+    "gross": 7027517,
+    "runtime": 115,
+    "directors": [
+      "Martha Coolidge"
+    ]
+  },
+  "tt0114702": {
+    "title": "Total Eclipse",
+    "budget": 8000000,
+    "gross": 340139,
+    "runtime": 111,
+    "directors": [
+      "Agnieszka Holland"
+    ]
+  },
+  "tt0114682": {
+    "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "budget": 30000000,
+    "gross": 47774193,
+    "runtime": 109,
+    "directors": [
+      "Beeban Kidron"
+    ]
+  },
+  "tt0114781": {
+    "title": "Under Siege 2: Dark Territory",
+    "budget": 60000000,
+    "gross": 104324083,
+    "runtime": 100,
+    "directors": [
+      "Geoff Murphy"
+    ]
+  },
+  "tt0114798": {
+    "title": "Unstrung Heroes",
+    "budget": 0,
+    "gross": 7929434,
+    "runtime": 93,
+    "directors": [
+      "Diane Keaton"
+    ]
+  },
+  "tt0114805": {
+    "title": "Unzipped",
+    "budget": 0,
+    "gross": 2875086,
+    "runtime": 73,
+    "directors": [
+      "Douglas Keeve"
+    ]
+  },
+  "tt0114887": {
+    "title": "A Walk in the Clouds",
+    "budget": 20000000,
+    "gross": 50008143,
+    "runtime": 102,
+    "directors": [
+      "Alfonso Arau"
+    ]
+  },
+  "tt0114898": {
+    "title": "Waterworld",
+    "budget": 175000000,
+    "gross": 264218220,
+    "runtime": 135,
+    "directors": [
+      "Kevin Reynolds"
+    ]
+  },
+  "tt0114928": {
+    "title": "White Man's Burden",
+    "budget": 7000000,
+    "gross": 3734870,
+    "runtime": 89,
+    "directors": [
+      "Desmond Nakano"
+    ]
+  },
+  "tt0114938": {
+    "title": "Wild Bill",
+    "budget": 30000000,
+    "gross": 2193982,
+    "runtime": 97,
+    "directors": [
+      "Walter Hill"
+    ]
+  },
+  "tt0109340": {
+    "title": "The Browning Version",
+    "budget": 0,
+    "gross": 487391,
+    "runtime": 97,
+    "directors": [
+      "Mike Figgis"
+    ]
+  },
+  "tt0112602": {
+    "title": "Bushwhacked",
+    "budget": 0,
+    "gross": 7919823,
+    "runtime": 90,
+    "directors": [
+      "Greg Beeman"
+    ]
+  },
+  "tt0111579": {
+    "title": "Burnt by the Sun",
+    "budget": 2800000,
+    "gross": 2313461,
+    "runtime": 135,
+    "directors": [
+      "Nikita Mikhalkov"
+    ]
+  },
+  "tt0110882": {
+    "title": "Before the Rain",
+    "budget": 1900000,
+    "gross": 763847,
+    "runtime": 113,
+    "directors": [
+      "Milcho Manchevski"
+    ]
+  },
+  "tt0112471": {
+    "title": "Before Sunrise",
+    "budget": 2500000,
+    "gross": 6581206,
+    "runtime": 101,
+    "directors": [
+      "Richard Linklater"
+    ]
+  },
+  "tt0112508": {
+    "title": "Billy Madison",
+    "budget": 10000000,
+    "gross": 26488734,
+    "runtime": 89,
+    "directors": [
+      "Tamra Davis"
+    ]
+  },
+  "tt0112438": {
+    "title": "The Babysitter",
+    "budget": 2000000,
+    "gross": 0,
+    "runtime": 88,
+    "directors": [
+      "Guy Ferland"
+    ]
+  },
+  "tt0112571": {
+    "title": "Boys on the Side",
+    "budget": 21000000,
+    "gross": 23440188,
+    "runtime": 115,
+    "directors": [
+      "Herbert Ross"
+    ]
+  },
+  "tt0112757": {
+    "title": "The Cure",
+    "budget": 0,
+    "gross": 2568425,
+    "runtime": 97,
+    "directors": [
+      "Peter Horton"
+    ]
+  },
+  "tt0112643": {
+    "title": "Castle Freak",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 90,
+    "directors": [
+      "Stuart Gordon"
+    ]
+  },
+  "tt0112679": {
+    "title": "Circle of Friends",
+    "budget": 0,
+    "gross": 23389975,
+    "runtime": 103,
+    "directors": [
+      "Pat O'Connor"
+    ]
+  },
+  "tt0109445": {
+    "title": "Clerks",
+    "budget": 27000,
+    "gross": 3158707,
+    "runtime": 92,
+    "directors": [
+      "Kevin Smith"
+    ]
+  },
+  "tt0112883": {
+    "title": "Don Juan DeMarco",
+    "budget": 25000000,
+    "gross": 68792531,
+    "runtime": 97,
+    "directors": [
+      "Jeremy Leven"
+    ]
+  },
+  "tt0109635": {
+    "title": "Disclosure",
+    "budget": 55000000,
+    "gross": 214015089,
+    "runtime": 128,
+    "directors": [
+      "Barry Levinson"
+    ]
+  },
+  "tt0109676": {
+    "title": "Drop Zone",
+    "budget": 45000000,
+    "gross": 28735315,
+    "runtime": 101,
+    "directors": [
+      "John Badham"
+    ]
+  },
+  "tt0112854": {
+    "title": "Destiny Turns on the Radio",
+    "budget": 0,
+    "gross": 1176982,
+    "runtime": 102,
+    "directors": [
+      "Jack Baran"
+    ]
+  },
+  "tt0109579": {
+    "title": "Death and the Maiden",
+    "budget": 12000000,
+    "gross": 3103716,
+    "runtime": 103,
+    "directors": [
+      "Roman Polanski"
+    ]
+  },
+  "tt0109642": {
+    "title": "Dolores Claiborne",
+    "budget": 0,
+    "gross": 24361867,
+    "runtime": 132,
+    "directors": [
+      "Taylor Hackford"
+    ]
+  },
+  "tt0109686": {
+    "title": "Dumb and Dumber",
+    "budget": 17000000,
+    "gross": 247290327,
+    "runtime": 107,
+    "directors": [
+      "Peter Farrelly",
+      "Bobby Farrelly"
+    ]
+  },
+  "tt0111797": {
+    "title": "Eat Drink Man Woman",
+    "budget": 0,
+    "gross": 7294403,
+    "runtime": 124,
+    "directors": [
+      "Ang Lee"
+    ]
+  },
+  "tt0109759": {
+    "title": "Exotica",
+    "budget": 2000000,
+    "gross": 4221036,
+    "runtime": 103,
+    "directors": [
+      "Atom Egoyan"
+    ]
+  },
+  "tt0109758": {
+    "title": "Exit to Eden",
+    "budget": 25000000,
+    "gross": 6841570,
+    "runtime": 113,
+    "directors": [
+      "Garry Marshall"
+    ]
+  },
+  "tt0109707": {
+    "title": "Ed Wood",
+    "budget": 18000000,
+    "gross": 5888353,
+    "runtime": 127,
+    "directors": [
+      "Tim Burton"
+    ]
+  },
+  "tt0113117": {
+    "title": "French Kiss",
+    "budget": 40000000,
+    "gross": 101982854,
+    "runtime": 111,
+    "directors": [
+      "Lawrence Kasdan"
+    ]
+  },
+  "tt0113097": {
+    "title": "Forget Paris",
+    "budget": 0,
+    "gross": 33177694,
+    "runtime": 101,
+    "directors": [
+      "Billy Crystal"
+    ]
+  },
+  "tt0113028": {
+    "title": "Far from Home: The Adventures of Yellow Dog",
+    "budget": 0,
+    "gross": 11642946,
+    "runtime": 81,
+    "directors": [
+      "Phillip Borsos"
+    ]
+  },
+  "tt0113198": {
+    "title": "A Goofy Movie",
+    "budget": 18000000,
+    "gross": 35353863,
+    "runtime": 78,
+    "directors": [
+      "Kevin Lima"
+    ]
+  },
+  "tt0113303": {
+    "title": "Hideaway",
+    "budget": 15000000,
+    "gross": 12201255,
+    "runtime": 106,
+    "directors": [
+      "Brett Leonard"
+    ]
+  },
+  "tt0113089": {
+    "title": "Fluke",
+    "budget": 15000000,
+    "gross": 3987768,
+    "runtime": 96,
+    "directors": [
+      "Carlo Carlei"
+    ]
+  },
+  "tt0113199": {
+    "title": "Gordy",
+    "budget": 0,
+    "gross": 3941146,
+    "runtime": 90,
+    "directors": [
+      "Mark Lewis"
+    ]
+  },
+  "tt0109771": {
+    "title": "Farinelli",
+    "budget": 0,
+    "gross": 1600226,
+    "runtime": 111,
+    "directors": [
+      "Gérard Corbiau"
+    ]
+  },
+  "tt0110057": {
+    "title": "Hoop Dreams",
+    "budget": 700000,
+    "gross": 11830611,
+    "runtime": 170,
+    "directors": [
+      "Steve James"
+    ]
+  },
+  "tt0110066": {
+    "title": "Houseguest",
+    "budget": 10500000,
+    "gross": 26325256,
+    "runtime": 113,
+    "directors": [
+      "Randall Miller"
+    ]
+  },
+  "tt0110116": {
+    "title": "Immortal Beloved",
+    "budget": 0,
+    "gross": 9914409,
+    "runtime": 121,
+    "directors": [
+      "Bernard Rose"
+    ]
+  },
+  "tt0110005": {
+    "title": "Heavenly Creatures",
+    "budget": 5000000,
+    "gross": 3049950,
+    "runtime": 99,
+    "directors": [
+      "Peter Jackson"
+    ]
+  },
+  "tt0113360": {
+    "title": "The Hunted",
+    "budget": 20000000,
+    "gross": 6609661,
+    "runtime": 110,
+    "directors": [
+      "J.F. Lawton"
+    ]
+  },
+  "tt0110006": {
+    "title": "Heavyweights",
+    "budget": 0,
+    "gross": 17689177,
+    "runtime": 97,
+    "directors": [
+      "Steven Brill"
+    ]
+  },
+  "tt0110099": {
+    "title": "I.Q.",
+    "budget": 25000000,
+    "gross": 26381221,
+    "runtime": 100,
+    "directors": [
+      "Fred Schepisi"
+    ]
+  },
+  "tt0110148": {
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "budget": 60000000,
+    "gross": 223664608,
+    "runtime": 123,
+    "directors": [
+      "Neil Jordan"
+    ]
+  },
+  "tt0113463": {
+    "title": "Jefferson in Paris",
+    "budget": 14000000,
+    "gross": 2473668,
+    "runtime": 139,
+    "directors": [
+      "James Ivory"
+    ]
+  },
+  "tt0110189": {
+    "title": "The Jerky Boys",
+    "budget": 7000000,
+    "gross": 7557877,
+    "runtime": 82,
+    "directors": [
+      "James Melkonian"
+    ]
+  },
+  "tt0110216": {
+    "title": "Junior",
+    "budget": 60000000,
+    "gross": 108431355,
+    "runtime": 109,
+    "directors": [
+      "Ivan Reitman"
+    ]
+  },
+  "tt0113552": {
+    "title": "Kiss of Death",
+    "budget": 40000000,
+    "gross": 14942422,
+    "runtime": 101,
+    "directors": [
+      "Barbet Schroeder"
+    ]
+  },
+  "tt0113501": {
+    "title": "Just Cause",
+    "budget": 0,
+    "gross": 36853222,
+    "runtime": 102,
+    "directors": [
+      "Arne Glimcher"
+    ]
+  },
+  "tt0113538": {
+    "title": "A Kid in King Arthur's Court",
+    "budget": 15000000,
+    "gross": 13406717,
+    "runtime": 89,
+    "directors": [
+      "Michael Gottlieb"
+    ]
+  },
+  "tt0110367": {
+    "title": "Little Women",
+    "budget": 18000000,
+    "gross": 50089975,
+    "runtime": 115,
+    "directors": [
+      "Gillian Armstrong"
+    ]
+  },
+  "tt0076759": {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "budget": 11000000,
+    "gross": 775398507,
+    "runtime": 121,
+    "directors": [
+      "George Lucas"
+    ]
+  },
+  "tt0113670": {
+    "title": "A Little Princess",
+    "budget": 17000000,
+    "gross": 10015449,
+    "runtime": 97,
+    "directors": [
+      "Alfonso Cuarón"
+    ]
+  },
+  "tt0110296": {
+    "title": "Ladybird Ladybird",
+    "budget": 38976598,
+    "gross": 152457,
+    "runtime": 101,
+    "directors": [
+      "Ken Loach"
+    ]
+  },
+  "tt0103994": {
+    "title": "Like Water for Chocolate",
+    "budget": 2000000,
+    "gross": 21744201,
+    "runtime": 105,
+    "directors": [
+      "Alfonso Arau"
+    ]
+  },
+  "tt0110322": {
+    "title": "Legends of the Fall",
+    "budget": 30000000,
+    "gross": 160638883,
+    "runtime": 133,
+    "directors": [
+      "Edward Zwick"
+    ]
+  },
+  "tt0110443": {
+    "title": "Major Payne",
+    "budget": 0,
+    "gross": 30112050,
+    "runtime": 95,
+    "directors": [
+      "Nick Castle"
+    ]
+  },
+  "tt0107566": {
+    "title": "My Crazy Life",
+    "budget": 0,
+    "gross": 3267313,
+    "runtime": 92,
+    "directors": [
+      "Allison Anders"
+    ]
+  },
+  "tt0110391": {
+    "title": "Love Affair",
+    "budget": 60000000,
+    "gross": 18272894,
+    "runtime": 108,
+    "directors": [
+      "Glenn Gordon Caron"
+    ]
+  },
+  "tt0113691": {
+    "title": "Losing Isaiah",
+    "budget": 17000000,
+    "gross": 7603766,
+    "runtime": 111,
+    "directors": [
+      "Stephen Gyllenhaal"
+    ]
+  },
+  "tt0110428": {
+    "title": "The Madness of King George",
+    "budget": 65897768,
+    "gross": 15238689,
+    "runtime": 110,
+    "directors": [
+      "Nicholas Hytner"
+    ]
+  },
+  "tt0109836": {
+    "title": "Frankenstein",
+    "budget": 45000000,
+    "gross": 112006296,
+    "runtime": 123,
+    "directors": [
+      "Kenneth Branagh"
+    ]
+  },
+  "tt0113755": {
+    "title": "Man of the House",
+    "budget": 0,
+    "gross": 40070995,
+    "runtime": 96,
+    "directors": [
+      "James Orr"
+    ]
+  },
+  "tt0110538": {
+    "title": "Mixed Nuts",
+    "budget": 15000000,
+    "gross": 6821850,
+    "runtime": 97,
+    "directors": [
+      "Nora Ephron"
+    ]
+  },
+  "tt0110516": {
+    "title": "Milk Money",
+    "budget": 0,
+    "gross": 18137661,
+    "runtime": 110,
+    "directors": [
+      "Richard Benjamin"
+    ]
+  },
+  "tt0110527": {
+    "title": "Miracle on 34th Street",
+    "budget": 0,
+    "gross": 46264384,
+    "runtime": 114,
+    "directors": [
+      "Les Mayfield"
+    ]
+  },
+  "tt0113808": {
+    "title": "Miami Rhapsody",
+    "budget": 0,
+    "gross": 5221281,
+    "runtime": 95,
+    "directors": [
+      "David Frankel"
+    ]
+  },
+  "tt0113896": {
+    "title": "My Family",
+    "budget": 5500000,
+    "gross": 11079373,
+    "runtime": 128,
+    "directors": [
+      "Gregory Nava"
+    ]
+  },
+  "tt0113870": {
+    "title": "Murder in the First",
+    "budget": 20000000,
+    "gross": 17381942,
+    "runtime": 122,
+    "directors": [
+      "Marc Rocco"
+    ]
+  },
+  "tt0110684": {
+    "title": "Nobody's Fool",
+    "budget": 20000000,
+    "gross": 39491975,
+    "runtime": 110,
+    "directors": [
+      "Robert Benton"
+    ]
+  },
+  "tt0110638": {
+    "title": "Nell",
+    "budget": 24500000,
+    "gross": 106683817,
+    "runtime": 112,
+    "directors": [
+      "Michael Apted"
+    ]
+  },
+  "tt0113967": {
+    "title": "New Jersey Drive",
+    "budget": 5000000,
+    "gross": 3565508,
+    "runtime": 98,
+    "directors": [
+      "Nick Gomez"
+    ]
+  },
+  "tt0117169": {
+    "title": "New York Cop",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 93,
+    "directors": [
+      "Tōru Murakawa"
+    ]
+  },
+  "tt0106402": {
+    "title": "Beyond Bedlam",
+    "budget": 3000000,
+    "gross": 0,
+    "runtime": 89,
+    "directors": [
+      "Vadim Jean"
+    ]
+  },
+  "tt0110671": {
+    "title": "Nina Takes a Lover",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 98,
+    "directors": [
+      "Alan Jacobs"
+    ]
+  },
+  "tt0110737": {
+    "title": "Only You",
+    "budget": 0,
+    "gross": 20059210,
+    "runtime": 109,
+    "directors": [
+      "Norman Jewison"
+    ]
+  },
+  "tt0110632": {
+    "title": "Natural Born Killers",
+    "budget": 34000000,
+    "gross": 50287457,
+    "runtime": 119,
+    "directors": [
+      "Oliver Stone"
+    ]
+  },
+  "tt0110729": {
+    "title": "Once Were Warriors",
+    "budget": 0,
+    "gross": 1608610,
+    "runtime": 102,
+    "directors": [
+      "Lee Tamahori"
+    ]
+  },
+  "tt0114151": {
+    "title": "Poison Ivy II",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 106,
+    "directors": [
+      "Anne Goursaud"
+    ]
+  },
+  "tt0114069": {
+    "title": "Outbreak",
+    "budget": 50000000,
+    "gross": 189859560,
+    "runtime": 128,
+    "directors": [
+      "Wolfgang Petersen"
+    ]
+  },
+  "tt0110413": {
+    "title": "Léon: The Professional",
+    "budget": 16000000,
+    "gross": 20330788,
+    "runtime": 110,
+    "directors": [
+      "Luc Besson"
+    ]
+  },
+  "tt0110912": {
+    "title": "Pulp Fiction",
+    "budget": 8000000,
+    "gross": 213928762,
+    "runtime": 154,
+    "directors": [
+      "Quentin Tarantino"
+    ]
+  },
+  "tt0114210": {
+    "title": "A Pyromaniac's Love Story",
+    "budget": 0,
+    "gross": 345972,
+    "runtime": 94,
+    "directors": [
+      "Joshua Brand"
+    ]
+  },
+  "tt0114113": {
+    "title": "The Perez Family",
+    "budget": 11000000,
+    "gross": 2832826,
+    "runtime": 113,
+    "directors": [
+      "Mira Nair"
+    ]
+  },
+  "tt0110889": {
+    "title": "Priest",
+    "budget": 0,
+    "gross": 4165845,
+    "runtime": 98,
+    "directors": [
+      "Antonia Bird"
+    ]
+  },
+  "tt0105652": {
+    "title": "Pushing Hands",
+    "budget": 400000,
+    "gross": 152322,
+    "runtime": 105,
+    "directors": [
+      "Ang Lee"
+    ]
+  },
+  "tt0110932": {
+    "title": "Quiz Show",
+    "budget": 31000000,
+    "gross": 24822619,
+    "runtime": 133,
+    "directors": [
+      "Robert Redford"
+    ]
+  },
+  "tt0110963": {
+    "title": "Queen Margot",
+    "budget": 42000000,
+    "gross": 1318659,
+    "runtime": 161,
+    "directors": [
+      "Patrice Chéreau"
+    ]
+  },
+  "tt0114129": {
+    "title": "Picture Bride",
+    "budget": 0,
+    "gross": 1238905,
+    "runtime": 94,
+    "directors": [
+      "Kayo Hatta"
+    ]
+  },
+  "tt0114214": {
+    "title": "The Quick and the Dead",
+    "budget": 32000000,
+    "gross": 18636834,
+    "runtime": 108,
+    "directors": [
+      "Sam Raimi"
+    ]
+  },
+  "tt0114296": {
+    "title": "Roommates",
+    "budget": 22000000,
+    "gross": 12096881,
+    "runtime": 108,
+    "directors": [
+      "Peter Yates"
+    ]
+  },
+  "tt0110907": {
+    "title": "Ready to Wear",
+    "budget": 18000000,
+    "gross": 11300653,
+    "runtime": 133,
+    "directors": [
+      "Robert Altman"
+    ]
+  },
+  "tt0111495": {
+    "title": "Three Colors: Red",
+    "budget": 0,
+    "gross": 3644319,
+    "runtime": 99,
+    "directors": [
+      "Krzysztof Kieślowski"
+    ]
+  },
+  "tt0108394": {
+    "title": "Three Colors: Blue",
+    "budget": 0,
+    "gross": 1555588,
+    "runtime": 98,
+    "directors": [
+      "Krzysztof Kieślowski"
+    ]
+  },
+  "tt0111507": {
+    "title": "Three Colors: White",
+    "budget": 0,
+    "gross": 1276036,
+    "runtime": 92,
+    "directors": [
+      "Krzysztof Kieślowski"
+    ]
+  },
+  "tt0114268": {
+    "title": "Rent-a-Kid",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 85,
+    "directors": [
+      "Fred Gerber"
+    ]
+  },
+  "tt0110965": {
+    "title": "Relative Fear",
+    "budget": 2500000,
+    "gross": 0,
+    "runtime": 94,
+    "directors": [
+      "George Mihalka"
+    ]
+  },
+  "tt0114571": {
+    "title": "Stuart Saves His Family",
+    "budget": 12000000,
+    "gross": 912082,
+    "runtime": 95,
+    "directors": [
+      "Harold Ramis"
+    ]
+  },
+  "tt0111333": {
+    "title": "The Swan Princess",
+    "budget": 45000000,
+    "gross": 9771658,
+    "runtime": 90,
+    "directors": [
+      "Richard Rich"
+    ]
+  },
+  "tt0111282": {
+    "title": "Stargate",
+    "budget": 55000000,
+    "gross": 196567262,
+    "runtime": 121,
+    "directors": [
+      "Roland Emmerich"
+    ]
+  },
+  "tt0111112": {
+    "title": "The Secret of Roan Inish",
+    "budget": 3000000,
+    "gross": 6160128,
+    "runtime": 103,
+    "directors": [
+      "John Sayles"
+    ]
+  },
+  "tt0111255": {
+    "title": "The Specialist",
+    "budget": 45000000,
+    "gross": 170362582,
+    "runtime": 110,
+    "directors": [
+      "Luis Llosa"
+    ]
+  },
+  "tt0111070": {
+    "title": "The Santa Clause",
+    "budget": 22000000,
+    "gross": 190539357,
+    "runtime": 97,
+    "directors": [
+      "John Pasquin"
+    ]
+  },
+  "tt0111149": {
+    "title": "Shallow Grave",
+    "budget": 2500000,
+    "gross": 8418797,
+    "runtime": 89,
+    "directors": [
+      "Danny Boyle"
+    ]
+  },
+  "tt0111161": {
+    "title": "The Shawshank Redemption",
+    "budget": 25000000,
+    "gross": 29420884,
+    "runtime": 142,
+    "directors": [
+      "Frank Darabont"
+    ]
+  },
+  "tt0108260": {
+    "title": "Suture",
+    "budget": 0,
+    "gross": 102780,
+    "runtime": 96,
+    "directors": [
+      "Scott McGehee",
+      "David Siegel"
+    ]
+  },
+  "tt0106966": {
+    "title": "Strawberry & Chocolate",
+    "budget": 0,
+    "gross": 2087569,
+    "runtime": 108,
+    "directors": [
+      "Tomás Gutiérrez Alea",
+      "Juan Carlos Tabío"
+    ]
+  },
+  "tt0114594": {
+    "title": "Swimming with Sharks",
+    "budget": 700000,
+    "gross": 382928,
+    "runtime": 93,
+    "directors": [
+      "George Huang"
+    ]
+  },
+  "tt0111309": {
+    "title": "The Sum of Us",
+    "budget": 3465000,
+    "gross": 766464,
+    "runtime": 100,
+    "directors": [
+      "Geoff Burton",
+      "Kevin Dowling"
+    ]
+  },
+  "tt0113936": {
+    "title": "National Lampoon's Senior Trip",
+    "budget": 0,
+    "gross": 4686937,
+    "runtime": 91,
+    "directors": [
+      "Kelly Makin"
+    ]
+  },
+  "tt0110081": {
+    "title": "To Live",
+    "budget": 0,
+    "gross": 2336238,
+    "runtime": 133,
+    "directors": [
+      "Yimou Zhang"
+    ]
+  },
+  "tt0114614": {
+    "title": "Tank Girl",
+    "budget": 25000000,
+    "gross": 4064495,
+    "runtime": 104,
+    "directors": [
+      "Rachel Talalay"
+    ]
+  },
+  "tt0114608": {
+    "title": "Tales from the Crypt: Demon Knight",
+    "budget": 13000000,
+    "gross": 21089560,
+    "runtime": 92,
+    "directors": [
+      "Ernest Dickerson"
+    ]
+  },
+  "tt0111280": {
+    "title": "Star Trek: Generations",
+    "budget": 35000000,
+    "gross": 118071125,
+    "runtime": 118,
+    "directors": [
+      "David Carson"
+    ]
+  },
+  "tt0111454": {
+    "title": "Tom & Viv",
+    "budget": 0,
+    "gross": 538534,
+    "runtime": 115,
+    "directors": [
+      "Brian Gilbert"
+    ]
+  },
+  "tt0114609": {
+    "title": "Tales from the Hood",
+    "budget": 6000000,
+    "gross": 11837928,
+    "runtime": 98,
+    "directors": [
+      "Rusty Cundieff"
+    ]
+  },
+  "tt0114852": {
+    "title": "Village of the Damned",
+    "budget": 22000000,
+    "gross": 9418365,
+    "runtime": 98,
+    "directors": [
+      "John Carpenter"
+    ]
+  },
+  "tt0114694": {
+    "title": "Tommy Boy",
+    "budget": 20000000,
+    "gross": 32679899,
+    "runtime": 97,
+    "directors": [
+      "Peter Segal"
+    ]
+  },
+  "tt0111590": {
+    "title": "Vanya on 42nd Street",
+    "budget": 0,
+    "gross": 1746050,
+    "runtime": 119,
+    "directors": [
+      "Louis Malle"
+    ]
+  },
+  "tt0114788": {
+    "title": "The Underneath",
+    "budget": 6500000,
+    "gross": 536023,
+    "runtime": 99,
+    "directors": [
+      "Steven Soderbergh"
+    ]
+  },
+  "tt0114888": {
+    "title": "The Walking Dead",
+    "budget": 15000000,
+    "gross": 6014341,
+    "runtime": 88,
+    "directors": [
+      "Preston A. Whitmore II"
+    ]
+  },
+  "tt0108550": {
+    "title": "What's Eating Gilbert Grape",
+    "budget": 11000000,
+    "gross": 10032845,
+    "runtime": 118,
+    "directors": [
+      "Lasse Hallström"
+    ]
+  },
+  "tt0114857": {
+    "title": "Virtuosity",
+    "budget": 30000000,
+    "gross": 24047675,
+    "runtime": 106,
+    "directors": [
+      "Brett Leonard"
+    ]
+  },
+  "tt0114924": {
+    "title": "While You Were Sleeping",
+    "budget": 17000000,
+    "gross": 182057016,
+    "runtime": 103,
+    "directors": [
+      "Jon Turteltaub"
+    ]
+  },
+  "tt0111667": {
+    "title": "The War",
+    "budget": 0,
+    "gross": 16928556,
+    "runtime": 126,
+    "directors": [
+      "Jon Avnet"
+    ]
+  },
+  "tt0109655": {
+    "title": "Double Happiness",
+    "budget": 0,
+    "gross": 759393,
+    "runtime": 87,
+    "directors": [
+      "Mina Shum"
+    ]
+  },
+  "tt0110598": {
+    "title": "Muriel's Wedding",
+    "budget": 9000000,
+    "gross": 15510889,
+    "runtime": 106,
+    "directors": [
+      "P.J. Hogan"
+    ]
+  },
+  "tt0109040": {
+    "title": "Ace Ventura: Pet Detective",
+    "budget": 15000000,
+    "gross": 107217396,
+    "runtime": 86,
+    "directors": [
+      "Tom Shadyac"
+    ]
+  },
+  "tt0112435": {
+    "title": "The Baby-Sitters Club",
+    "budget": 6500000,
+    "gross": 9685976,
+    "runtime": 94,
+    "directors": [
+      "Melanie Mayron"
+    ]
+  },
+  "tt0104779": {
+    "title": "Bitter Moon",
+    "budget": 5000000,
+    "gross": 1862805,
+    "runtime": 139,
+    "directors": [
+      "Roman Polanski"
+    ]
+  },
+  "tt0109045": {
+    "title": "The Adventures of Priscilla, Queen of the Desert",
+    "budget": 0,
+    "gross": 11309542,
+    "runtime": 104,
+    "directors": [
+      "Stephan Elliott"
+    ]
+  },
+  "tt0106339": {
+    "title": "Backbeat",
+    "budget": 0,
+    "gross": 4708451,
+    "runtime": 100,
+    "directors": [
+      "Iain Softley"
+    ]
+  },
+  "tt0109348": {
+    "title": "Bullets Over Broadway",
+    "budget": 20000000,
+    "gross": 13383747,
+    "runtime": 98,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0109444": {
+    "title": "Clear and Present Danger",
+    "budget": 62000000,
+    "gross": 215887717,
+    "runtime": 141,
+    "directors": [
+      "Phillip Noyce"
+    ]
+  },
+  "tt0109446": {
+    "title": "The Client",
+    "budget": 45000000,
+    "gross": 117615211,
+    "runtime": 119,
+    "directors": [
+      "Joel Schumacher"
+    ]
+  },
+  "tt0109504": {
+    "title": "Crooklyn",
+    "budget": 14000000,
+    "gross": 13642925,
+    "runtime": 115,
+    "directors": [
+      "Spike Lee"
+    ]
+  },
+  "tt0109484": {
+    "title": "Corrina, Corrina",
+    "budget": 15000000,
+    "gross": 20164171,
+    "runtime": 115,
+    "directors": [
+      "Jessie Nelson"
+    ]
+  },
+  "tt0109506": {
+    "title": "The Crow",
+    "budget": 23000000,
+    "gross": 50847152,
+    "runtime": 102,
+    "directors": [
+      "Alex Proyas"
+    ]
+  },
+  "tt0109813": {
+    "title": "The Flintstones",
+    "budget": 46000000,
+    "gross": 341631208,
+    "runtime": 91,
+    "directors": [
+      "Brian Levant"
+    ]
+  },
+  "tt0109450": {
+    "title": "Cobb",
+    "budget": 25500000,
+    "gross": 1007583,
+    "runtime": 128,
+    "directors": [
+      "Ron Shelton"
+    ]
+  },
+  "tt0109830": {
+    "title": "Forrest Gump",
+    "budget": 55000000,
+    "gross": 678226465,
+    "runtime": 142,
+    "directors": [
+      "Robert Zemeckis"
+    ]
+  },
+  "tt0113305": {
+    "title": "Higher Learning",
+    "budget": 0,
+    "gross": 38290723,
+    "runtime": 128,
+    "directors": [
+      "John Singleton"
+    ]
+  },
+  "tt0109831": {
+    "title": "Four Weddings and a Funeral",
+    "budget": 4400000,
+    "gross": 245700832,
+    "runtime": 117,
+    "directors": [
+      "Mike Newell"
+    ]
+  },
+  "tt0110091": {
+    "title": "I Like It Like That",
+    "budget": 0,
+    "gross": 1760527,
+    "runtime": 104,
+    "directors": [
+      "Darnell Martin"
+    ]
+  },
+  "tt0110167": {
+    "title": "It Could Happen to You",
+    "budget": 20000000,
+    "gross": 37939757,
+    "runtime": 101,
+    "directors": [
+      "Andrew Bergman"
+    ]
+  },
+  "tt0110093": {
+    "title": "I Love Trouble",
+    "budget": 45000000,
+    "gross": 30806194,
+    "runtime": 123,
+    "directors": [
+      "Charles Shyer"
+    ]
+  },
+  "tt0110213": {
+    "title": "The Jungle Book",
+    "budget": 27000000,
+    "gross": 52389402,
+    "runtime": 111,
+    "directors": [
+      "Stephen Sommers"
+    ]
+  },
+  "tt0107472": {
+    "title": "The Wonderful, Horrible Life of Leni Riefenstahl",
+    "budget": 0,
+    "gross": 449707,
+    "runtime": 183,
+    "directors": [
+      "Ray Müller"
+    ]
+  },
+  "tt0110357": {
+    "title": "The Lion King",
+    "budget": 45000000,
+    "gross": 979161632,
+    "runtime": 88,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ]
+  },
+  "tt0107426": {
+    "title": "Little Buddha",
+    "budget": 35000000,
+    "gross": 4885392,
+    "runtime": 123,
+    "directors": [
+      "Bernardo Bertolucci"
+    ]
+  },
+  "tt0110475": {
+    "title": "The Mask",
+    "budget": 23000000,
+    "gross": 351583407,
+    "runtime": 101,
+    "directors": [
+      "Chuck Russell"
+    ]
+  },
+  "tt0111686": {
+    "title": "New Nightmare",
+    "budget": 8000000,
+    "gross": 19721741,
+    "runtime": 112,
+    "directors": [
+      "Wes Craven"
+    ]
+  },
+  "tt0110478": {
+    "title": "Maverick",
+    "budget": 75000000,
+    "gross": 183031272,
+    "runtime": 127,
+    "directors": [
+      "Richard Donner"
+    ]
+  },
+  "tt0110622": {
+    "title": "Naked Gun 33 1/3: The Final Insult",
+    "budget": 30000000,
+    "gross": 51132598,
+    "runtime": 83,
+    "directors": [
+      "Peter Segal"
+    ]
+  },
+  "tt0110588": {
+    "title": "Mrs. Parker and the Vicious Circle",
+    "budget": 7000000,
+    "gross": 2144667,
+    "runtime": 125,
+    "directors": [
+      "Alan Rudolph"
+    ]
+  },
+  "tt0110771": {
+    "title": "The Paper",
+    "budget": 6000000,
+    "gross": 48424341,
+    "runtime": 112,
+    "directors": [
+      "Ron Howard"
+    ]
+  },
+  "tt0105226": {
+    "title": "Red Rock West",
+    "budget": 8000000,
+    "gross": 2502710,
+    "runtime": 98,
+    "directors": [
+      "John Dahl"
+    ]
+  },
+  "tt0110950": {
+    "title": "Reality Bites",
+    "budget": 11500000,
+    "gross": 33351557,
+    "runtime": 99,
+    "directors": [
+      "Ben Stiller"
+    ]
+  },
+  "tt0110989": {
+    "title": "Richie Rich",
+    "budget": 40000000,
+    "gross": 38087756,
+    "runtime": 95,
+    "directors": [
+      "Donald Petrie"
+    ]
+  },
+  "tt0110997": {
+    "title": "The River Wild",
+    "budget": 45000000,
+    "gross": 94216343,
+    "runtime": 111,
+    "directors": [
+      "Curtis Hanson"
+    ]
+  },
+  "tt0111257": {
+    "title": "Speed",
+    "budget": 30000000,
+    "gross": 350448145,
+    "runtime": 116,
+    "directors": [
+      "Jan de Bont"
+    ]
+  },
+  "tt0111256": {
+    "title": "Speechless",
+    "budget": 38000000,
+    "gross": 20667959,
+    "runtime": 99,
+    "directors": [
+      "Ron Underwood"
+    ]
+  },
+  "tt0111693": {
+    "title": "When a Man Loves a Woman",
+    "budget": 0,
+    "gross": 50021959,
+    "runtime": 126,
+    "directors": [
+      "Luis Mandoki"
+    ]
+  },
+  "tt0111438": {
+    "title": "Timecop",
+    "budget": 27000000,
+    "gross": 101646581,
+    "runtime": 99,
+    "directors": [
+      "Peter Hyams"
+    ]
+  },
+  "tt0111503": {
+    "title": "True Lies",
+    "budget": 115000000,
+    "gross": 378882411,
+    "runtime": 141,
+    "directors": [
+      "James Cameron"
+    ]
+  },
+  "tt0111742": {
+    "title": "Wolf",
+    "budget": 70000000,
+    "gross": 131002597,
+    "runtime": 125,
+    "directors": [
+      "Mike Nichols"
+    ]
+  },
+  "tt0111756": {
+    "title": "Wyatt Earp",
+    "budget": 63000000,
+    "gross": 25052000,
+    "runtime": 191,
+    "directors": [
+      "Lawrence Kasdan"
+    ]
+  },
+  "tt0112443": {
+    "title": "Bad Company",
+    "budget": 15000000,
+    "gross": 3674841,
+    "runtime": 108,
+    "directors": [
+      "Damian Harris"
+    ]
+  },
+  "tt0110455": {
+    "title": "A Man of No Importance",
+    "budget": 0,
+    "gross": 920916,
+    "runtime": 99,
+    "directors": [
+      "Suri Krishnamma"
+    ]
+  },
+  "tt0110399": {
+    "title": "A Low Down Dirty Shame",
+    "budget": 10000000,
+    "gross": 29392418,
+    "runtime": 100,
+    "directors": [
+      "Keenen Ivory Wayans"
+    ]
+  },
+  "tt0111048": {
+    "title": "S.F.W.",
+    "budget": 0,
+    "gross": 63513,
+    "runtime": 96,
+    "directors": [
+      "Jefery Levy"
+    ]
+  },
+  "tt0112570": {
+    "title": "Boys Life: Three Stories of Love, Lust, and Liberation",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 91,
+    "directors": [
+      "Robert Lee King",
+      "Raoul O'Connell",
+      "Brian Sloan"
+    ]
+  },
+  "tt0109454": {
+    "title": "Colonel Chabert",
+    "budget": 0,
+    "gross": 464284,
+    "runtime": 110,
+    "directors": [
+      "Yves Angelo"
+    ]
+  },
+  "tt0059170": {
+    "title": "Faster, Pussycat! Kill! Kill!",
+    "budget": 45000,
+    "gross": 0,
+    "runtime": 83,
+    "directors": [
+      "Russ Meyer"
+    ]
+  },
+  "tt0111301": {
+    "title": "Street Fighter",
+    "budget": 35000000,
+    "gross": 99433436,
+    "runtime": 102,
+    "directors": [
+      "Steven E. de Souza"
+    ]
+  },
+  "tt0110186": {
+    "title": "Jason's Lyric",
+    "budget": 7000000,
+    "gross": 20851521,
+    "runtime": 119,
+    "directors": [
+      "Doug McHenry"
+    ]
+  },
+  "tt0110027": {
+    "title": "Highlander: The Final Dimension",
+    "budget": 26000000,
+    "gross": 12303080,
+    "runtime": 99,
+    "directors": [
+      "Andrew Morahan"
+    ]
+  },
+  "tt0109785": {
+    "title": "Federal Hill",
+    "budget": 80000,
+    "gross": 514775,
+    "runtime": 97,
+    "directors": [
+      "Michael Corrente"
+    ]
+  },
+  "tt0113409": {
+    "title": "In the Mouth of Madness",
+    "budget": 8000000,
+    "gross": 8927131,
+    "runtime": 95,
+    "directors": [
+      "John Carpenter"
+    ]
+  },
+  "tt0109021": {
+    "title": "8 Seconds",
+    "budget": 7000000,
+    "gross": 19623396,
+    "runtime": 105,
+    "directors": [
+      "John G. Avildsen"
+    ]
+  },
+  "tt0109035": {
+    "title": "Above the Rim",
+    "budget": 3500000,
+    "gross": 16192320,
+    "runtime": 96,
+    "directors": [
+      "Jeff Pollack"
+    ]
+  },
+  "tt0106220": {
+    "title": "Addams Family Values",
+    "budget": 47000000,
+    "gross": 48919043,
+    "runtime": 94,
+    "directors": [
+      "Barry Sonnenfeld"
+    ]
+  },
+  "tt0106226": {
+    "title": "The Age of Innocence",
+    "budget": 34000000,
+    "gross": 32256140,
+    "runtime": 139,
+    "directors": [
+      "Martin Scorsese"
+    ]
+  },
+  "tt0109067": {
+    "title": "The Air Up There",
+    "budget": 17080000,
+    "gross": 21011318,
+    "runtime": 107,
+    "directors": [
+      "Paul Michael Glaser"
+    ]
+  },
+  "tt0109068": {
+    "title": "Airheads",
+    "budget": 15000000,
+    "gross": 5751882,
+    "runtime": 92,
+    "directors": [
+      "Michael Lehmann"
+    ]
+  },
+  "tt0106292": {
+    "title": "Another Stakeout",
+    "budget": 0,
+    "gross": 20208496,
+    "runtime": 108,
+    "directors": [
+      "John Badham"
+    ]
+  },
+  "tt0109219": {
+    "title": "Barcelona",
+    "budget": 3200000,
+    "gross": 7266973,
+    "runtime": 101,
+    "directors": [
+      "Whit Stillman"
+    ]
+  },
+  "tt0109198": {
+    "title": "Bad Girls",
+    "budget": 25000000,
+    "gross": 15240435,
+    "runtime": 99,
+    "directors": [
+      "Jonathan Kaplan"
+    ]
+  },
+  "tt0106379": {
+    "title": "Being Human",
+    "budget": 40000000,
+    "gross": 1519366,
+    "runtime": 122,
+    "directors": [
+      "Bill Forsyth"
+    ]
+  },
+  "tt0109254": {
+    "title": "Beverly Hills Cop III",
+    "budget": 50000000,
+    "gross": 119208989,
+    "runtime": 104,
+    "directors": [
+      "John Landis"
+    ]
+  },
+  "tt0106400": {
+    "title": "The Beverly Hillbillies",
+    "budget": 25000000,
+    "gross": 57405220,
+    "runtime": 92,
+    "directors": [
+      "Penelope Spheeris"
+    ]
+  },
+  "tt0109279": {
+    "title": "Black Beauty",
+    "budget": 15000000,
+    "gross": 4630377,
+    "runtime": 88,
+    "directors": [
+      "Caroline Thompson"
+    ]
+  },
+  "tt0109297": {
+    "title": "Blink",
+    "budget": 11000000,
+    "gross": 16696219,
+    "runtime": 106,
+    "directors": [
+      "Michael Apted"
+    ]
+  },
+  "tt0109303": {
+    "title": "Blown Away",
+    "budget": 28000000,
+    "gross": 30156002,
+    "runtime": 121,
+    "directors": [
+      "Stephen Hopkins"
+    ]
+  },
+  "tt0109305": {
+    "title": "Blue Chips",
+    "budget": 0,
+    "gross": 23070663,
+    "runtime": 108,
+    "directors": [
+      "William Friedkin"
+    ]
+  },
+  "tt0109306": {
+    "title": "Blue Sky",
+    "budget": 16000000,
+    "gross": 3359465,
+    "runtime": 101,
+    "directors": [
+      "Tony Richardson"
+    ]
+  },
+  "tt0106471": {
+    "title": "Boxing Helena",
+    "budget": 0,
+    "gross": 1796389,
+    "runtime": 107,
+    "directors": [
+      "Jennifer Lynch"
+    ]
+  },
+  "tt0106452": {
+    "title": "Body Snatchers",
+    "budget": 13000000,
+    "gross": 428868,
+    "runtime": 87,
+    "directors": [
+      "Abel Ferrara"
+    ]
+  },
+  "tt0106489": {
+    "title": "A Bronx Tale",
+    "budget": 22000000,
+    "gross": 17287898,
+    "runtime": 121,
+    "directors": [
+      "Robert De Niro"
+    ]
+  },
+  "tt0109361": {
+    "title": "Cabin Boy",
+    "budget": 9000000,
+    "gross": 3662459,
+    "runtime": 80,
+    "directors": [
+      "Adam Resnick"
+    ]
+  },
+  "tt0106505": {
+    "title": "Calendar Girl",
+    "budget": 13000000,
+    "gross": 2570550,
+    "runtime": 90,
+    "directors": [
+      "John Whitesell"
+    ]
+  },
+  "tt0106519": {
+    "title": "Carlito's Way",
+    "budget": 30000000,
+    "gross": 63848322,
+    "runtime": 144,
+    "directors": [
+      "Brian De Palma"
+    ]
+  },
+  "tt0109439": {
+    "title": "City Slickers II: The Legend of Curly's Gold",
+    "budget": 40000000,
+    "gross": 43622150,
+    "runtime": 116,
+    "directors": [
+      "Paul Weiland"
+    ]
+  },
+  "tt0109443": {
+    "title": "Clean Slate",
+    "budget": 18000000,
+    "gross": 7355425,
+    "runtime": 107,
+    "directors": [
+      "Mick Jackson"
+    ]
+  },
+  "tt0106582": {
+    "title": "Cliffhanger",
+    "budget": 70000000,
+    "gross": 255000211,
+    "runtime": 113,
+    "directors": [
+      "Renny Harlin"
+    ]
+  },
+  "tt0106598": {
+    "title": "Coneheads",
+    "budget": 30000000,
+    "gross": 21274717,
+    "runtime": 88,
+    "directors": [
+      "Steve Barron"
+    ]
+  },
+  "tt0109456": {
+    "title": "Color of Night",
+    "budget": 40000000,
+    "gross": 19726050,
+    "runtime": 121,
+    "directors": [
+      "Richard Rush"
+    ]
+  },
+  "tt0109480": {
+    "title": "Cops and Robbersons",
+    "budget": 0,
+    "gross": 11391093,
+    "runtime": 93,
+    "directors": [
+      "Michael Ritchie"
+    ]
+  },
+  "tt0109493": {
+    "title": "The Cowboy Way",
+    "budget": 35000000,
+    "gross": 20280016,
+    "runtime": 102,
+    "directors": [
+      "Gregg Champion"
+    ]
+  },
+  "tt0106673": {
+    "title": "Dave",
+    "budget": 28000000,
+    "gross": 63270710,
+    "runtime": 110,
+    "directors": [
+      "Ivan Reitman"
+    ]
+  },
+  "tt0106677": {
+    "title": "Dazed and Confused",
+    "budget": 6900000,
+    "gross": 8261512,
+    "runtime": 103,
+    "directors": [
+      "Richard Linklater"
+    ]
+  },
+  "tt0106697": {
+    "title": "Demolition Man",
+    "budget": 57000000,
+    "gross": 58056466,
+    "runtime": 115,
+    "directors": [
+      "Marco Brambilla"
+    ]
+  },
+  "tt0106834": {
+    "title": "Even Cowgirls Get the Blues",
+    "budget": 8000000,
+    "gross": 1708873,
+    "runtime": 106,
+    "directors": [
+      "Gus Van Sant"
+    ]
+  },
+  "tt0106881": {
+    "title": "Fearless",
+    "budget": 0,
+    "gross": 6995302,
+    "runtime": 122,
+    "directors": [
+      "Peter Weir"
+    ]
+  },
+  "tt0106873": {
+    "title": "Fatal Instinct",
+    "budget": 0,
+    "gross": 7839327,
+    "runtime": 91,
+    "directors": [
+      "Carl Reiner"
+    ]
+  },
+  "tt0106332": {
+    "title": "Farewell My Concubine",
+    "budget": 4000000,
+    "gross": 8549052,
+    "runtime": 171,
+    "directors": [
+      "Kaige Chen"
+    ]
+  },
+  "tt0106880": {
+    "title": "Fear of a Black Hat",
+    "budget": 999999,
+    "gross": 233824,
+    "runtime": 88,
+    "directors": [
+      "Rusty Cundieff"
+    ]
+  },
+  "tt0111732": {
+    "title": "With Honors",
+    "budget": 0,
+    "gross": 20016254,
+    "runtime": 101,
+    "directors": [
+      "Alek Keshishian"
+    ]
+  },
+  "tt0106926": {
+    "title": "Flesh and Bone",
+    "budget": 0,
+    "gross": 9709451,
+    "runtime": 126,
+    "directors": [
+      "Steve Kloves"
+    ]
+  },
+  "tt0111712": {
+    "title": "Widows' Peak",
+    "budget": 0,
+    "gross": 6243722,
+    "runtime": 101,
+    "directors": [
+      "John Irvin"
+    ]
+  },
+  "tt0106941": {
+    "title": "For Love or Money",
+    "budget": 30000000,
+    "gross": 11146270,
+    "runtime": 96,
+    "directors": [
+      "Barry Sonnenfeld"
+    ]
+  },
+  "tt0106918": {
+    "title": "The Firm",
+    "budget": 42000000,
+    "gross": 270248367,
+    "runtime": 154,
+    "directors": [
+      "Sydney Pollack"
+    ]
+  },
+  "tt0106965": {
+    "title": "Free Willy",
+    "budget": 20000000,
+    "gross": 153709806,
+    "runtime": 112,
+    "directors": [
+      "Simon Wincer"
+    ]
+  },
+  "tt0109842": {
+    "title": "Fresh",
+    "budget": 3500000,
+    "gross": 8094616,
+    "runtime": 114,
+    "directors": [
+      "Boaz Yakin"
+    ]
+  },
+  "tt0106977": {
+    "title": "The Fugitive",
+    "budget": 44000000,
+    "gross": 368875760,
+    "runtime": 130,
+    "directors": [
+      "Andrew Davis"
+    ]
+  },
+  "tt0107004": {
+    "title": "Geronimo: An American Legend",
+    "budget": 35000000,
+    "gross": 18635620,
+    "runtime": 115,
+    "directors": [
+      "Walter Hill"
+    ]
+  },
+  "tt0109890": {
+    "title": "The Getaway",
+    "budget": 0,
+    "gross": 30057974,
+    "runtime": 115,
+    "directors": [
+      "Roger Donaldson"
+    ]
+  },
+  "tt0109891": {
+    "title": "Getting Even with Dad",
+    "budget": 30000000,
+    "gross": 18869594,
+    "runtime": 109,
+    "directors": [
+      "Howard Deutch"
+    ]
+  },
+  "tt0109913": {
+    "title": "Go Fish",
+    "budget": 15000,
+    "gross": 2405285,
+    "runtime": 83,
+    "directors": [
+      "Rose Troche"
+    ]
+  },
+  "tt0107076": {
+    "title": "Hard Target",
+    "budget": 18000000,
+    "gross": 74189677,
+    "runtime": 97,
+    "directors": [
+      "John Woo"
+    ]
+  },
+  "tt0107144": {
+    "title": "Hot Shots! Part Deux",
+    "budget": 25000000,
+    "gross": 133752825,
+    "runtime": 86,
+    "directors": [
+      "Jim Abrahams"
+    ]
+  },
+  "tt0113674": {
+    "title": "Live Nude Girls",
+    "budget": 0,
+    "gross": 23808,
+    "runtime": 95,
+    "directors": [
+      "Julianna Lavin"
+    ]
+  },
+  "tt0112966": {
+    "title": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+    "budget": 40997769,
+    "gross": 10904930,
+    "runtime": 99,
+    "directors": [
+      "Christopher Monger"
+    ]
+  },
+  "tt0107151": {
+    "title": "The House of the Spirits",
+    "budget": 40000000,
+    "gross": 6265311,
+    "runtime": 145,
+    "directors": [
+      "Bille August"
+    ]
+  },
+  "tt0110064": {
+    "title": "House Party 3",
+    "budget": 0,
+    "gross": 19281235,
+    "runtime": 100,
+    "directors": [
+      "Eric Meza"
+    ]
+  },
+  "tt0110074": {
+    "title": "The Hudsucker Proxy",
+    "budget": 40000000,
+    "gross": 2816693,
+    "runtime": 111,
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ]
+  },
+  "tt0110097": {
+    "title": "I'll Do Anything",
+    "budget": 40000000,
+    "gross": 10424645,
+    "runtime": 115,
+    "directors": [
+      "James L. Brooks"
+    ]
+  },
+  "tt0110123": {
+    "title": "In the Army Now",
+    "budget": 0,
+    "gross": 28881266,
+    "runtime": 91,
+    "directors": [
+      "Daniel Petrie Jr."
+    ]
+  },
+  "tt0107206": {
+    "title": "In the Line of Fire",
+    "budget": 40000000,
+    "gross": 176997168,
+    "runtime": 128,
+    "directors": [
+      "Wolfgang Petersen"
+    ]
+  },
+  "tt0107207": {
+    "title": "In the Name of the Father",
+    "budget": 13000000,
+    "gross": 65796862,
+    "runtime": 133,
+    "directors": [
+      "Jim Sheridan"
+    ]
+  },
+  "tt0110137": {
+    "title": "The Inkwell",
+    "budget": 8000000,
+    "gross": 8880705,
+    "runtime": 110,
+    "directors": [
+      "Matty Rich"
+    ]
+  },
+  "tt0108551": {
+    "title": "What's Love Got to Do with It",
+    "budget": 15000000,
+    "gross": 39100956,
+    "runtime": 118,
+    "directors": [
+      "Brian Gibson"
+    ]
+  },
+  "tt0110197": {
+    "title": "Jimmy Hollywood",
+    "budget": 30000000,
+    "gross": 3783003,
+    "runtime": 112,
+    "directors": [
+      "Barry Levinson"
+    ]
+  },
+  "tt0107286": {
+    "title": "Judgment Night",
+    "budget": 21000000,
+    "gross": 12526677,
+    "runtime": 110,
+    "directors": [
+      "Stephen Hopkins"
+    ]
+  },
+  "tt0107290": {
+    "title": "Jurassic Park",
+    "budget": 63000000,
+    "gross": 1103110411,
+    "runtime": 127,
+    "directors": [
+      "Steven Spielberg"
+    ]
+  },
+  "tt0107302": {
+    "title": "Kalifornia",
+    "budget": 9000000,
+    "gross": 2395231,
+    "runtime": 117,
+    "directors": [
+      "Dominic Sena"
+    ]
+  },
+  "tt0110265": {
+    "title": "Killing Zoe",
+    "budget": 1500000,
+    "gross": 418961,
+    "runtime": 96,
+    "directors": [
+      "Roger Avary"
+    ]
+  },
+  "tt0107362": {
+    "title": "Last Action Hero",
+    "budget": 85000000,
+    "gross": 137298489,
+    "runtime": 130,
+    "directors": [
+      "John McTiernan"
+    ]
+  },
+  "tt0110305": {
+    "title": "Lassie",
+    "budget": 0,
+    "gross": 9994609,
+    "runtime": 94,
+    "directors": [
+      "Daniel Petrie"
+    ]
+  },
+  "tt0107413": {
+    "title": "Life with Mikey",
+    "budget": 0,
+    "gross": 12440858,
+    "runtime": 91,
+    "directors": [
+      "James Lapine"
+    ]
+  },
+  "tt0110353": {
+    "title": "Lightning Jack",
+    "budget": 36000000,
+    "gross": 16821273,
+    "runtime": 98,
+    "directors": [
+      "Simon Wincer"
+    ]
+  },
+  "tt0107468": {
+    "title": "M. Butterfly",
+    "budget": 17000000,
+    "gross": 1498795,
+    "runtime": 101,
+    "directors": [
+      "David Cronenberg"
+    ]
+  },
+  "tt0107478": {
+    "title": "Made in America",
+    "budget": 22000000,
+    "gross": 104942695,
+    "runtime": 111,
+    "directors": [
+      "Richard Benjamin"
+    ]
+  },
+  "tt0107497": {
+    "title": "Malice",
+    "budget": 20000000,
+    "gross": 46405336,
+    "runtime": 107,
+    "directors": [
+      "Harold Becker"
+    ]
+  },
+  "tt0107507": {
+    "title": "Manhattan Murder Mystery",
+    "budget": 13500000,
+    "gross": 11330911,
+    "runtime": 104,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0107501": {
+    "title": "The Man Without a Face",
+    "budget": 20000000,
+    "gross": 24760338,
+    "runtime": 115,
+    "directors": [
+      "Mel Gibson"
+    ]
+  },
+  "tt0107554": {
+    "title": "Menace II Society",
+    "budget": 3500000,
+    "gross": 27912072,
+    "runtime": 97,
+    "directors": [
+      "Albert Hughes",
+      "Allen Hughes"
+    ]
+  },
+  "tt0074102": {
+    "title": "In the Realm of the Senses",
+    "budget": 0,
+    "gross": 569,
+    "runtime": 109,
+    "directors": [
+      "Nagisa Ōshima"
+    ]
+  },
+  "tt0116253": {
+    "title": "Executive Decision",
+    "budget": 55000000,
+    "gross": 121969216,
+    "runtime": 133,
+    "directors": [
+      "Stuart Baird"
+    ]
+  },
+  "tt0111689": {
+    "title": "What Happened Was...",
+    "budget": 120000,
+    "gross": 141,
+    "runtime": 91,
+    "directors": [
+      "Tom Noonan"
+    ]
+  },
+  "tt0107616": {
+    "title": "Much Ado About Nothing",
+    "budget": 11000000,
+    "gross": 22549338,
+    "runtime": 111,
+    "directors": [
+      "Kenneth Branagh"
+    ]
+  },
+  "tt0107613": {
+    "title": "Mr. Wonderful",
+    "budget": 13000000,
+    "gross": 3125424,
+    "runtime": 98,
+    "directors": [
+      "Anthony Minghella"
+    ]
+  },
+  "tt0107614": {
+    "title": "Mrs. Doubtfire",
+    "budget": 25000000,
+    "gross": 441286195,
+    "runtime": 125,
+    "directors": [
+      "Chris Columbus"
+    ]
+  },
+  "tt0107653": {
+    "title": "Naked",
+    "budget": 0,
+    "gross": 1797195,
+    "runtime": 131,
+    "directors": [
+      "Mike Leigh"
+    ]
+  },
+  "tt0110657": {
+    "title": "The Next Karate Kid",
+    "budget": 12000000,
+    "gross": 15876353,
+    "runtime": 107,
+    "directors": [
+      "Christopher Cain"
+    ]
+  },
+  "tt0110678": {
+    "title": "No Escape",
+    "budget": 20000000,
+    "gross": 15339030,
+    "runtime": 118,
+    "directors": [
+      "Martin Campbell"
+    ]
+  },
+  "tt0107756": {
+    "title": "Orlando",
+    "budget": 4000000,
+    "gross": 5446242,
+    "runtime": 94,
+    "directors": [
+      "Sally Potter"
+    ]
+  },
+  "tt0110687": {
+    "title": "North",
+    "budget": 40000000,
+    "gross": 7182747,
+    "runtime": 87,
+    "directors": [
+      "Rob Reiner"
+    ]
+  },
+  "tt0107808": {
+    "title": "A Perfect World",
+    "budget": 30000000,
+    "gross": 135130999,
+    "runtime": 138,
+    "directors": [
+      "Clint Eastwood"
+    ]
+  },
+  "tt0107822": {
+    "title": "The Piano",
+    "budget": 7000000,
+    "gross": 40185766,
+    "runtime": 121,
+    "directors": [
+      "Jane Campion"
+    ]
+  },
+  "tt0107818": {
+    "title": "Philadelphia",
+    "budget": 26000000,
+    "gross": 206678440,
+    "runtime": 125,
+    "directors": [
+      "Jonathan Demme"
+    ]
+  },
+  "tt0107840": {
+    "title": "Poetic Justice",
+    "budget": 14000000,
+    "gross": 27515786,
+    "runtime": 109,
+    "directors": [
+      "John Singleton"
+    ]
+  },
+  "tt0107889": {
+    "title": "The Program",
+    "budget": 15000000,
+    "gross": 23032565,
+    "runtime": 112,
+    "directors": [
+      "David S. Ward"
+    ]
+  },
+  "tt0111003": {
+    "title": "The Puppet Masters",
+    "budget": 0,
+    "gross": 8647042,
+    "runtime": 109,
+    "directors": [
+      "Stuart Orme"
+    ]
+  },
+  "tt0110939": {
+    "title": "Radioland Murders",
+    "budget": 15000000,
+    "gross": 1316865,
+    "runtime": 108,
+    "directors": [
+      "Mel Smith"
+    ]
+  },
+  "tt0107943": {
+    "title": "The Remains of the Day",
+    "budget": 15000000,
+    "gross": 23240144,
+    "runtime": 134,
+    "directors": [
+      "James Ivory"
+    ]
+  },
+  "tt0110955": {
+    "title": "The Ref",
+    "budget": 11000000,
+    "gross": 11439193,
+    "runtime": 97,
+    "directors": [
+      "Ted Demme"
+    ]
+  },
+  "tt0110971": {
+    "title": "Renaissance Man",
+    "budget": 40000000,
+    "gross": 24332324,
+    "runtime": 128,
+    "directors": [
+      "Penny Marshall"
+    ]
+  },
+  "tt0111001": {
+    "title": "The Road to Wellville",
+    "budget": 25000000,
+    "gross": 6562513,
+    "runtime": 118,
+    "directors": [
+      "Alan Parker"
+    ]
+  },
+  "tt0107969": {
+    "title": "Rising Sun",
+    "budget": 35000000,
+    "gross": 107198790,
+    "runtime": 129,
+    "directors": [
+      "Philip Kaufman"
+    ]
+  },
+  "tt0107978": {
+    "title": "RoboCop 3",
+    "budget": 22000000,
+    "gross": 10696210,
+    "runtime": 104,
+    "directors": [
+      "Fred Dekker"
+    ]
+  },
+  "tt0107977": {
+    "title": "Robin Hood: Men in Tights",
+    "budget": 20000000,
+    "gross": 35739755,
+    "runtime": 104,
+    "directors": [
+      "Mel Brooks"
+    ]
+  },
+  "tt0107983": {
+    "title": "Romeo Is Bleeding",
+    "budget": 11500000,
+    "gross": 3275585,
+    "runtime": 110,
+    "directors": [
+      "Peter Medak"
+    ]
+  },
+  "tt0105275": {
+    "title": "Romper Stomper",
+    "budget": 0,
+    "gross": 175732,
+    "runtime": 94,
+    "directors": [
+      "Geoffrey Wright"
+    ]
+  },
+  "tt0108000": {
+    "title": "Ruby in Paradise",
+    "budget": 800000,
+    "gross": 1001437,
+    "runtime": 114,
+    "directors": [
+      "Victor Nunez"
+    ]
+  },
+  "tt0108002": {
+    "title": "Rudy",
+    "budget": 0,
+    "gross": 22881563,
+    "runtime": 114,
+    "directors": [
+      "David Anspaugh"
+    ]
+  },
+  "tt0105032": {
+    "title": "Savage Nights",
+    "budget": 0,
+    "gross": 662341,
+    "runtime": 126,
+    "directors": [
+      "Cyril Collard"
+    ]
+  },
+  "tt0108052": {
+    "title": "Schindler's List",
+    "budget": 22000000,
+    "gross": 322161245,
+    "runtime": 195,
+    "directors": [
+      "Steven Spielberg"
+    ]
+  },
+  "tt0111094": {
+    "title": "The Scout",
+    "budget": 0,
+    "gross": 2694234,
+    "runtime": 101,
+    "directors": [
+      "Michael Ritchie"
+    ]
+  },
+  "tt0108065": {
+    "title": "Searching for Bobby Fischer",
+    "budget": 12000000,
+    "gross": 7266383,
+    "runtime": 109,
+    "directors": [
+      "Steven Zaillian"
+    ]
+  },
+  "tt0108071": {
+    "title": "The Secret Garden",
+    "budget": 18000000,
+    "gross": 31181665,
+    "runtime": 101,
+    "directors": [
+      "Agnieszka Holland"
+    ]
+  },
+  "tt0111127": {
+    "title": "Serial Mom",
+    "budget": 13000000,
+    "gross": 7825037,
+    "runtime": 95,
+    "directors": [
+      "John Waters"
+    ]
+  },
+  "tt0108101": {
+    "title": "Shadowlands",
+    "budget": 22000000,
+    "gross": 25842377,
+    "runtime": 131,
+    "directors": [
+      "Richard Attenborough"
+    ]
+  },
+  "tt0111143": {
+    "title": "The Shadow",
+    "budget": 25000000,
+    "gross": 48063435,
+    "runtime": 108,
+    "directors": [
+      "Russell Mulcahy"
+    ]
+  },
+  "tt0108122": {
+    "title": "Short Cuts",
+    "budget": 12000000,
+    "gross": 6113462,
+    "runtime": 188,
+    "directors": [
+      "Robert Altman"
+    ]
+  },
+  "tt0111194": {
+    "title": "A Simple Twist of Fate",
+    "budget": 0,
+    "gross": 3430583,
+    "runtime": 106,
+    "directors": [
+      "Gillies MacKinnon"
+    ]
+  },
+  "tt0111201": {
+    "title": "Sirens",
+    "budget": 0,
+    "gross": 7770731,
+    "runtime": 98,
+    "directors": [
+      "John Duigan"
+    ]
+  },
+  "tt0108149": {
+    "title": "Six Degrees of Separation",
+    "budget": 12000000,
+    "gross": 6405918,
+    "runtime": 112,
+    "directors": [
+      "Fred Schepisi"
+    ]
+  },
+  "tt0108162": {
+    "title": "Sliver",
+    "budget": 40000000,
+    "gross": 116300000,
+    "runtime": 107,
+    "directors": [
+      "Phillip Noyce"
+    ]
+  },
+  "tt0108160": {
+    "title": "Sleepless in Seattle",
+    "budget": 21000000,
+    "gross": 227927165,
+    "runtime": 105,
+    "directors": [
+      "Nora Ephron"
+    ]
+  },
+  "tt0083658": {
+    "title": "Blade Runner",
+    "budget": 28000000,
+    "gross": 41818325,
+    "runtime": 117,
+    "directors": [
+      "Ridley Scott"
+    ]
+  },
+  "tt0108174": {
+    "title": "So I Married an Axe Murderer",
+    "budget": 20000000,
+    "gross": 11585483,
+    "runtime": 93,
+    "directors": [
+      "Thomas Schlamme"
+    ]
+  },
+  "tt0108186": {
+    "title": "Son in Law",
+    "budget": 8000000,
+    "gross": 36448400,
+    "runtime": 95,
+    "directors": [
+      "Steve Rash"
+    ]
+  },
+  "tt0108238": {
+    "title": "Striking Distance",
+    "budget": 30000000,
+    "gross": 24107867,
+    "runtime": 102,
+    "directors": [
+      "Rowdy Herrington"
+    ]
+  },
+  "tt0108255": {
+    "title": "Super Mario Bros.",
+    "budget": 48000000,
+    "gross": 20929518,
+    "runtime": 104,
+    "directors": [
+      "Annabel Jankel",
+      "Rocky Morton"
+    ]
+  },
+  "tt0111400": {
+    "title": "Terminal Velocity",
+    "budget": 50000000,
+    "gross": 16487349,
+    "runtime": 102,
+    "directors": [
+      "Deran Sarafian"
+    ]
+  },
+  "tt0111323": {
+    "title": "Surviving the Game",
+    "budget": 7400000,
+    "gross": 7727256,
+    "runtime": 96,
+    "directors": [
+      "Ernest Dickerson"
+    ]
+  },
+  "tt0108328": {
+    "title": "Thirty Two Short Films About Glenn Gould",
+    "budget": 0,
+    "gross": 1319521,
+    "runtime": 98,
+    "directors": [
+      "François Girard"
+    ]
+  },
+  "tt0111418": {
+    "title": "Threesome",
+    "budget": 0,
+    "gross": 14815317,
+    "runtime": 93,
+    "directors": [
+      "Andrew Fleming"
+    ]
+  },
+  "tt0107688": {
+    "title": "The Nightmare Before Christmas",
+    "budget": 18000000,
+    "gross": 108777663,
+    "runtime": 76,
+    "directors": [
+      "Henry Selick"
+    ]
+  },
+  "tt0108333": {
+    "title": "The Three Musketeers",
+    "budget": 30000000,
+    "gross": 53898845,
+    "runtime": 105,
+    "directors": [
+      "Stephen Herek"
+    ]
+  },
+  "tt0108358": {
+    "title": "Tombstone",
+    "budget": 25000000,
+    "gross": 56506116,
+    "runtime": 130,
+    "directors": [
+      "George P. Cosmatos"
+    ]
+  },
+  "tt0108399": {
+    "title": "True Romance",
+    "budget": 13000000,
+    "gross": 13101810,
+    "runtime": 119,
+    "directors": [
+      "Tony Scott"
+    ]
+  },
+  "tt0108515": {
+    "title": "The War Room",
+    "budget": 0,
+    "gross": 901668,
+    "runtime": 96,
+    "directors": [
+      "Chris Hegedus",
+      "D.A. Pennebaker"
+    ]
+  },
+  "tt0110763": {
+    "title": "The Pagemaster",
+    "budget": 27000000,
+    "gross": 13670688,
+    "runtime": 75,
+    "directors": [
+      "Pixote Hunt",
+      "Joe Johnston"
+    ]
+  },
+  "tt0114906": {
+    "title": "Welcome to the Dollhouse",
+    "budget": 800000,
+    "gross": 4569882,
+    "runtime": 88,
+    "directors": [
+      "Todd Solondz"
+    ]
+  },
+  "tt0107002": {
+    "title": "Germinal",
+    "budget": 164000000,
+    "gross": 0,
+    "runtime": 160,
+    "directors": [
+      "Claude Berri"
+    ]
+  },
+  "tt0109403": {
+    "title": "Chasers",
+    "budget": 0,
+    "gross": 1596687,
+    "runtime": 102,
+    "directors": [
+      "Dennis Hopper"
+    ]
+  },
+  "tt0107315": {
+    "title": "Kika",
+    "budget": 0,
+    "gross": 2020357,
+    "runtime": 114,
+    "directors": [
+      "Pedro Almodóvar"
+    ]
+  },
+  "tt0106408": {
+    "title": "Bhaji on the Beach",
+    "budget": 0,
+    "gross": 740827,
+    "runtime": 101,
+    "directors": [
+      "Gurinder Chadha"
+    ]
+  },
+  "tt0110363": {
+    "title": "Little Big League",
+    "budget": 0,
+    "gross": 12267790,
+    "runtime": 119,
+    "directors": [
+      "Andrew Scheinman"
+    ]
+  },
+  "tt0107225": {
+    "title": "Ciao, Professore!",
+    "budget": 0,
+    "gross": 1113435,
+    "runtime": 100,
+    "directors": [
+      "Lina Wertmüller"
+    ]
+  },
+  "tt0110366": {
+    "title": "The Little Rascals",
+    "budget": 23000000,
+    "gross": 67308282,
+    "runtime": 82,
+    "directors": [
+      "Penelope Spheeris"
+    ]
+  },
+  "tt0111252": {
+    "title": "Spanking the Monkey",
+    "budget": 200000,
+    "gross": 1359736,
+    "runtime": 100,
+    "directors": [
+      "David O. Russell"
+    ]
+  },
+  "tt0109120": {
+    "title": "Andre",
+    "budget": 0,
+    "gross": 16820893,
+    "runtime": 94,
+    "directors": [
+      "George Miller"
+    ]
+  },
+  "tt0108059": {
+    "title": "The Escort",
+    "budget": 0,
+    "gross": 147107,
+    "runtime": 96,
+    "directors": [
+      "Ricky Tognazzi"
+    ]
+  },
+  "tt0110892": {
+    "title": "Princess Caraboo",
+    "budget": 0,
+    "gross": 3062530,
+    "runtime": 97,
+    "directors": [
+      "Michael Austin"
+    ]
+  },
+  "tt0112651": {
+    "title": "The Celluloid Closet",
+    "budget": 0,
+    "gross": 1400591,
+    "runtime": 102,
+    "directors": [
+      "Rob Epstein",
+      "Jeffrey Friedman"
+    ]
+  },
+  "tt0109382": {
+    "title": "Dear Diary",
+    "budget": 0,
+    "gross": 173696,
+    "runtime": 100,
+    "directors": [
+      "Nanni Moretti"
+    ]
+  },
+  "tt0112572": {
+    "title": "The Brady Bunch Movie",
+    "budget": 12000000,
+    "gross": 46576136,
+    "runtime": 90,
+    "directors": [
+      "Betty Thomas"
+    ]
+  },
+  "tt0099785": {
+    "title": "Home Alone",
+    "budget": 18000000,
+    "gross": 477383642,
+    "runtime": 103,
+    "directors": [
+      "Chris Columbus"
+    ]
+  },
+  "tt0099653": {
+    "title": "Ghost",
+    "budget": 22000000,
+    "gross": 505703557,
+    "runtime": 126,
+    "directors": [
+      "Jerry Zucker"
+    ]
+  },
+  "tt0103639": {
+    "title": "Aladdin",
+    "budget": 28000000,
+    "gross": 504050219,
+    "runtime": 90,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ]
+  },
+  "tt0103064": {
+    "title": "Terminator 2: Judgment Day",
+    "budget": 102000000,
+    "gross": 517778573,
+    "runtime": 137,
+    "directors": [
+      "James Cameron"
+    ]
+  },
+  "tt0099348": {
+    "title": "Dances with Wolves",
+    "budget": 22000000,
+    "gross": 424208848,
+    "runtime": 181,
+    "directors": [
+      "Kevin Costner"
+    ]
+  },
+  "tt0096895": {
+    "title": "Batman",
+    "budget": 35000000,
+    "gross": 411569241,
+    "runtime": 126,
+    "directors": [
+      "Tim Burton"
+    ]
+  },
+  "tt0102926": {
+    "title": "The Silence of the Lambs",
+    "budget": 19000000,
+    "gross": 273138318,
+    "runtime": 118,
+    "directors": [
+      "Jonathan Demme"
+    ]
+  },
+  "tt0029583": {
+    "title": "Snow White and the Seven Dwarfs",
+    "budget": 1499000,
+    "gross": 185099477,
+    "runtime": 83,
+    "directors": [
+      "William Cottrell",
+      "David Hand",
+      "Wilfred Jackson",
+      "Larry Morey",
+      "Perce Pearce",
+      "Ben Sharpsteen"
+    ]
+  },
+  "tt0101414": {
+    "title": "Beauty and the Beast",
+    "budget": 25000000,
+    "gross": 451291298,
+    "runtime": 84,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ]
+  },
+  "tt0032910": {
+    "title": "Pinocchio",
+    "budget": 2600000,
+    "gross": 121892045,
+    "runtime": 88,
+    "directors": [
+      "Norman Ferguson",
+      "T. Hee",
+      "Wilfred Jackson",
+      "Jack Kinney",
+      "Hamilton Luske",
+      "Bill Roberts",
+      "Ben Sharpsteen"
+    ]
+  },
+  "tt0100405": {
+    "title": "Pretty Woman",
+    "budget": 14000000,
+    "gross": 463406268,
+    "runtime": 119,
+    "directors": [
+      "Garry Marshall"
+    ]
+  },
+  "tt0065214": {
+    "title": "The Wild Bunch",
+    "budget": 6244087,
+    "gross": 640904,
+    "runtime": 135,
+    "directors": [
+      "Sam Peckinpah"
+    ]
+  },
+  "tt0110395": {
+    "title": "Love and a .45",
+    "budget": 0,
+    "gross": 35200,
+    "runtime": 101,
+    "directors": [
+      "C.M. Talkington"
+    ]
+  },
+  "tt0109934": {
+    "title": "A Great Day in Harlem",
+    "budget": 0,
+    "gross": 527034,
+    "runtime": 60,
+    "directors": [
+      "Jean Bach"
+    ]
+  },
+  "tt0117247": {
+    "title": "One Fine Day",
+    "budget": 0,
+    "gross": 97529550,
+    "runtime": 108,
+    "directors": [
+      "Michael Hoffman"
+    ]
+  },
+  "tt0112625": {
+    "title": "Candyman: Farewell to the Flesh",
+    "budget": 6000000,
+    "gross": 13941216,
+    "runtime": 95,
+    "directors": [
+      "Bill Condon"
+    ]
+  },
+  "tt0116282": {
+    "title": "Fargo",
+    "budget": 7000000,
+    "gross": 60611975,
+    "runtime": 98,
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ]
+  },
+  "tt0116552": {
+    "title": "Homeward Bound II: Lost in San Francisco",
+    "budget": 0,
+    "gross": 32772492,
+    "runtime": 88,
+    "directors": [
+      "David R. Ellis"
+    ]
+  },
+  "tt0082509": {
+    "title": "Heavy Metal",
+    "budget": 9300000,
+    "gross": 547563,
+    "runtime": 86,
+    "directors": [
+      "Gerald Potterton",
+      "John Bruno",
+      "John Halas",
+      "Julian Harris",
+      "Jimmy T. Murakami",
+      "Barrie Nelson",
+      "Paul Sabella",
+      "Jack Stokes",
+      "Pino Van Lamsweerde",
+      "Harold Whitaker"
+    ]
+  },
+  "tt0116514": {
+    "title": "Hellraiser: Bloodline",
+    "budget": 4000000,
+    "gross": 9336886,
+    "runtime": 85,
+    "directors": [
+      "Kevin Yagher"
+    ]
+  },
+  "tt0117283": {
+    "title": "The Pallbearer",
+    "budget": 8000000,
+    "gross": 5656388,
+    "runtime": 98,
+    "directors": [
+      "Matt Reeves"
+    ]
+  },
+  "tt0116684": {
+    "title": "Jane Eyre",
+    "budget": 0,
+    "gross": 5200601,
+    "runtime": 112,
+    "directors": [
+      "Franco Zeffirelli"
+    ]
+  },
+  "tt0070506": {
+    "title": "Bread and Chocolate",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 100,
+    "directors": [
+      "Franco Brusati"
+    ]
+  },
+  "tt0113083": {
+    "title": "The Flower of My Secret",
+    "budget": 0,
+    "gross": 1105265,
+    "runtime": 103,
+    "directors": [
+      "Pedro Almodóvar"
+    ]
+  },
+  "tt0065421": {
+    "title": "The Aristocats",
+    "budget": 4000000,
+    "gross": 191000000,
+    "runtime": 78,
+    "directors": [
+      "Wolfgang Reitherman"
+    ]
+  },
+  "tt0118001": {
+    "title": "Two Much",
+    "budget": 24000000,
+    "gross": 1141556,
+    "runtime": 118,
+    "directors": [
+      "Fernando Trueba"
+    ]
+  },
+  "tt0117891": {
+    "title": "A Thin Line Between Love and Hate",
+    "budget": 8000000,
+    "gross": 35599803,
+    "runtime": 108,
+    "directors": [
+      "Martin Lawrence"
+    ]
+  },
+  "tt0116165": {
+    "title": "Ed",
+    "budget": 24000000,
+    "gross": 4422380,
+    "runtime": 94,
+    "directors": [
+      "Bill Couturié"
+    ]
+  },
+  "tt0113613": {
+    "title": "The Last Supper",
+    "budget": 0,
+    "gross": 459749,
+    "runtime": 92,
+    "directors": [
+      "Stacy Title"
+    ]
+  },
+  "tt0117381": {
+    "title": "Primal Fear",
+    "budget": 30000000,
+    "gross": 102616183,
+    "runtime": 129,
+    "directors": [
+      "Gregory Hoblit"
+    ]
+  },
+  "tt0114671": {
+    "title": "Land and Freedom",
+    "budget": 2500000,
+    "gross": 228800,
+    "runtime": 109,
+    "directors": [
+      "Ken Loach"
+    ]
+  },
+  "tt0115509": {
+    "title": "All Dogs Go to Heaven 2",
+    "budget": 0,
+    "gross": 8620678,
+    "runtime": 82,
+    "directors": [
+      "Larry Leker",
+      "Paul Sabella"
+    ]
+  },
+  "tt0112844": {
+    "title": "Denise Calls Up",
+    "budget": 0,
+    "gross": 148121,
+    "runtime": 80,
+    "directors": [
+      "Hal Salwen"
+    ]
+  },
+  "tt0114658": {
+    "title": "Theodore Rex",
+    "budget": 33500000,
+    "gross": 0,
+    "runtime": 92,
+    "directors": [
+      "Jonathan R. Betuel"
+    ]
+  },
+  "tt0116275": {
+    "title": "A Family Thing",
+    "budget": 0,
+    "gross": 10125417,
+    "runtime": 109,
+    "directors": [
+      "Richard Pearce"
+    ]
+  },
+  "tt0113122": {
+    "title": "Frisk",
+    "budget": 0,
+    "gross": 87433,
+    "runtime": 88,
+    "directors": [
+      "Todd Verow"
+    ]
+  },
+  "tt0117608": {
+    "title": "Sgt. Bilko",
+    "budget": 39000000,
+    "gross": 37956793,
+    "runtime": 94,
+    "directors": [
+      "Jonathan Lynn"
+    ]
+  },
+  "tt0113448": {
+    "title": "Jack & Sarah",
+    "budget": 0,
+    "gross": 218626,
+    "runtime": 110,
+    "directors": [
+      "Tim Sullivan"
+    ]
+  },
+  "tt0116414": {
+    "title": "Girl 6",
+    "budget": 12000000,
+    "gross": 4939939,
+    "runtime": 108,
+    "directors": [
+      "Spike Lee"
+    ]
+  },
+  "tt0116095": {
+    "title": "Diabolique",
+    "budget": 0,
+    "gross": 17100266,
+    "runtime": 107,
+    "directors": [
+      "Jeremiah S. Chechik"
+    ]
+  },
+  "tt0113947": {
+    "title": "Nelly & Monsieur Arnaud",
+    "budget": 0,
+    "gross": 955708,
+    "runtime": 106,
+    "directors": [
+      "Claude Sautet"
+    ]
+  },
+  "tt0115956": {
+    "title": "Courage Under Fire",
+    "budget": 46000000,
+    "gross": 100860818,
+    "runtime": 116,
+    "directors": [
+      "Edward Zwick"
+    ]
+  },
+  "tt0117060": {
+    "title": "Mission: Impossible",
+    "budget": 80000000,
+    "gross": 457696391,
+    "runtime": 110,
+    "directors": [
+      "Brian De Palma"
+    ]
+  },
+  "tt0109028": {
+    "title": "Cold Fever",
+    "budget": 130000000,
+    "gross": 0,
+    "runtime": 83,
+    "directors": [
+      "Friðrik Þór Friðriksson"
+    ]
+  },
+  "tt0117071": {
+    "title": "Moll Flanders",
+    "budget": 0,
+    "gross": 3486957,
+    "runtime": 123,
+    "directors": [
+      "Pen Densham"
+    ]
+  },
+  "tt0116136": {
+    "title": "DragonHeart",
+    "budget": 57000000,
+    "gross": 115267375,
+    "runtime": 103,
+    "directors": [
+      "Rob Cohen"
+    ]
+  },
+  "tt0116168": {
+    "title": "Eddie",
+    "budget": 30000000,
+    "gross": 31387164,
+    "runtime": 100,
+    "directors": [
+      "Steve Rash"
+    ]
+  },
+  "tt0116683": {
+    "title": "James and the Giant Peach",
+    "budget": 38000000,
+    "gross": 28947374,
+    "runtime": 79,
+    "directors": [
+      "Henry Selick"
+    ]
+  },
+  "tt0116287": {
+    "title": "Fear",
+    "budget": 0,
+    "gross": 20831000,
+    "runtime": 97,
+    "directors": [
+      "James Foley"
+    ]
+  },
+  "tt0116768": {
+    "title": "Kids in the Hall: Brain Candy",
+    "budget": 0,
+    "gross": 2654308,
+    "runtime": 89,
+    "directors": [
+      "Kelly Makin"
+    ]
+  },
+  "tt0112536": {
+    "title": "Bloodsport 2",
+    "budget": 0,
+    "gross": 684351,
+    "runtime": 90,
+    "directors": [
+      "Alan Mehrez",
+      "Philip Tan"
+    ]
+  },
+  "tt0114787": {
+    "title": "Underground",
+    "budget": 14000000,
+    "gross": 182134,
+    "runtime": 167,
+    "directors": [
+      "Emir Kusturica"
+    ]
+  },
+  "tt0048473": {
+    "title": "Pather Panchali",
+    "budget": 0,
+    "gross": 136293,
+    "runtime": 125,
+    "directors": [
+      "Satyajit Ray"
+    ]
+  },
+  "tt0117128": {
+    "title": "Mystery Science Theater 3000: The Movie",
+    "budget": 0,
+    "gross": 1007306,
+    "runtime": 73,
+    "directors": [
+      "Jim Mallon"
+    ]
+  },
+  "tt0052572": {
+    "title": "The World of Apu",
+    "budget": 0,
+    "gross": 135017,
+    "runtime": 105,
+    "directors": [
+      "Satyajit Ray"
+    ]
+  },
+  "tt0117705": {
+    "title": "Space Jam",
+    "budget": 80000000,
+    "gross": 230594962,
+    "runtime": 88,
+    "directors": [
+      "Joe Pytka"
+    ]
+  },
+  "tt0062711": {
+    "title": "Barbarella",
+    "budget": 9000000,
+    "gross": 1622,
+    "runtime": 98,
+    "directors": [
+      "Roger Vadim"
+    ]
+  },
+  "tt0114307": {
+    "title": "The Run of the Country",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 109,
+    "directors": [
+      "Peter Yates"
+    ]
+  },
+  "tt0108181": {
+    "title": "Some Folks Call It a Sling Blade",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 25,
+    "directors": [
+      "George Hickenlooper"
+    ]
+  },
+  "tt0058898": {
+    "title": "Alphaville",
+    "budget": 220000,
+    "gross": 66651,
+    "runtime": 99,
+    "directors": [
+      "Jean-Luc Godard"
+    ]
+  },
+  "tt0113443": {
+    "title": "It's My Party",
+    "budget": 0,
+    "gross": 622503,
+    "runtime": 110,
+    "directors": [
+      "Randal Kleiser"
+    ]
+  },
+  "tt0114048": {
+    "title": "Operation Dumbo Drop",
+    "budget": 0,
+    "gross": 24670346,
+    "runtime": 107,
+    "directors": [
+      "Simon Wincer"
+    ]
+  },
+  "tt0117104": {
+    "title": "Mrs. Winterbourne",
+    "budget": 25000000,
+    "gross": 10082005,
+    "runtime": 105,
+    "directors": [
+      "Richard Benjamin"
+    ]
+  },
+  "tt0117688": {
+    "title": "Solo",
+    "budget": 19000000,
+    "gross": 5107669,
+    "runtime": 94,
+    "directors": [
+      "Norberto Barba"
+    ]
+  },
+  "tt0117774": {
+    "title": "The Substitute",
+    "budget": 0,
+    "gross": 14818176,
+    "runtime": 114,
+    "directors": [
+      "Robert Mandel"
+    ]
+  },
+  "tt0114736": {
+    "title": "True Crime",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 94,
+    "directors": [
+      "Pat Verducci"
+    ]
+  },
+  "tt0116289": {
+    "title": "Feeling Minnesota",
+    "budget": 0,
+    "gross": 3124440,
+    "runtime": 99,
+    "directors": [
+      "Steven Baigelman"
+    ]
+  },
+  "tt0109593": {
+    "title": "Delta of Venus",
+    "budget": 0,
+    "gross": 63174,
+    "runtime": 102,
+    "directors": [
+      "Zalman King"
+    ]
+  },
+  "tt0112368": {
+    "title": "Angus",
+    "budget": 0,
+    "gross": 4821759,
+    "runtime": 90,
+    "directors": [
+      "Patrick Read Johnson"
+    ]
+  },
+  "tt0115742": {
+    "title": "Boys",
+    "budget": 0,
+    "gross": 516349,
+    "runtime": 86,
+    "directors": [
+      "Stacy Cochran"
+    ]
+  },
+  "tt0117420": {
+    "title": "The Quest",
+    "budget": 30000000,
+    "gross": 57400547,
+    "runtime": 95,
+    "directors": [
+      "Jean-Claude Van Damme"
+    ]
+  },
+  "tt0117107": {
+    "title": "Mulholland Falls",
+    "budget": 29000000,
+    "gross": 11526099,
+    "runtime": 107,
+    "directors": [
+      "Lee Tamahori"
+    ]
+  },
+  "tt0117784": {
+    "title": "Sunset Park",
+    "budget": 0,
+    "gross": 10163782,
+    "runtime": 99,
+    "directors": [
+      "Steve Gomer"
+    ]
+  },
+  "tt0117979": {
+    "title": "The Truth About Cats & Dogs",
+    "budget": 0,
+    "gross": 34861807,
+    "runtime": 97,
+    "directors": [
+      "Michael Lehmann"
+    ]
+  },
+  "tt0095776": {
+    "title": "Oliver & Company",
+    "budget": 31000000,
+    "gross": 74151346,
+    "runtime": 74,
+    "directors": [
+      "George Scribner"
+    ]
+  },
+  "tt0115851": {
+    "title": "Celtic Pride",
+    "budget": 0,
+    "gross": 9255027,
+    "runtime": 91,
+    "directors": [
+      "Tom DeCerchio"
+    ]
+  },
+  "tt0116322": {
+    "title": "Flipper",
+    "budget": 25530000,
+    "gross": 20080020,
+    "runtime": 95,
+    "directors": [
+      "Alan Shapiro"
+    ]
+  },
+  "tt0112817": {
+    "title": "Dead Man",
+    "budget": 9000000,
+    "gross": 1087637,
+    "runtime": 121,
+    "directors": [
+      "Jim Jarmusch"
+    ]
+  },
+  "tt0113362": {
+    "title": "The Horseman on the Roof",
+    "budget": 0,
+    "gross": 1320043,
+    "runtime": 118,
+    "directors": [
+      "Jean-Paul Rappeneau"
+    ]
+  },
+  "tt0108500": {
+    "title": "The Visitors",
+    "budget": 50000000,
+    "gross": 659810,
+    "runtime": 107,
+    "directors": [
+      "Jean-Marie Poiré"
+    ]
+  },
+  "tt0117108": {
+    "title": "Multiplicity",
+    "budget": 45000000,
+    "gross": 21075014,
+    "runtime": 117,
+    "directors": [
+      "Harold Ramis"
+    ]
+  },
+  "tt0113270": {
+    "title": "The Haunted World of Edward D. Wood Jr.",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 89,
+    "directors": [
+      "Brett Thompson"
+    ]
+  },
+  "tt0118114": {
+    "title": "N/A",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 0,
+    "directors": []
+  },
+  "tt0116827": {
+    "title": "Last Dance",
+    "budget": 0,
+    "gross": 5939449,
+    "runtime": 103,
+    "directors": [
+      "Bruce Beresford"
+    ]
+  },
+  "tt0115963": {
+    "title": "The Craft",
+    "budget": 15000000,
+    "gross": 24825844,
+    "runtime": 101,
+    "directors": [
+      "Andrew Fleming"
+    ]
+  },
+  "tt0116448": {
+    "title": "The Great White Hype",
+    "budget": 0,
+    "gross": 8008255,
+    "runtime": 91,
+    "directors": [
+      "Reginald Hudlin"
+    ]
+  },
+  "tt0112701": {
+    "title": "Cold Comfort Farm",
+    "budget": 0,
+    "gross": 5682429,
+    "runtime": 105,
+    "directors": [
+      "John Schlesinger"
+    ]
+  },
+  "tt0116508": {
+    "title": "Heaven's Prisoners",
+    "budget": 25000000,
+    "gross": 5009305,
+    "runtime": 132,
+    "directors": [
+      "Phil Joanou"
+    ]
+  },
+  "tt0117500": {
+    "title": "The Rock",
+    "budget": 75000000,
+    "gross": 335062621,
+    "runtime": 136,
+    "directors": [
+      "Michael Bay"
+    ]
+  },
+  "tt0109592": {
+    "title": "Cemetery Man",
+    "budget": 4000000,
+    "gross": 253986,
+    "runtime": 103,
+    "directors": [
+      "Michele Soavi"
+    ]
+  },
+  "tt0117998": {
+    "title": "Twister",
+    "budget": 92000000,
+    "gross": 494580615,
+    "runtime": 113,
+    "directors": [
+      "Jan de Bont"
+    ]
+  },
+  "tt0115624": {
+    "title": "Barb Wire",
+    "budget": 9000000,
+    "gross": 3793614,
+    "runtime": 98,
+    "directors": [
+      "David Hogan"
+    ]
+  },
+  "tt0113568": {
+    "title": "Ghost in the Shell",
+    "budget": 330000000,
+    "gross": 1280683,
+    "runtime": 83,
+    "directors": [
+      "Mamoru Oshii"
+    ]
+  },
+  "tt0117723": {
+    "title": "Spy Hard",
+    "budget": 18000000,
+    "gross": 26960191,
+    "runtime": 81,
+    "directors": [
+      "Rick Friedberg"
+    ]
+  },
+  "tt0117894": {
+    "title": "Thinner",
+    "budget": 8000000,
+    "gross": 15315484,
+    "runtime": 93,
+    "directors": [
+      "Tom Holland"
+    ]
+  },
+  "tt0117768": {
+    "title": "The Stupids",
+    "budget": 25000000,
+    "gross": 2491989,
+    "runtime": 94,
+    "directors": [
+      "John Landis"
+    ]
+  },
+  "tt0112691": {
+    "title": "Wallace & Gromit: A Close Shave",
+    "budget": 0,
+    "gross": 27034,
+    "runtime": 31,
+    "directors": [
+      "Nick Park"
+    ]
+  },
+  "tt0115571": {
+    "title": "The Arrival",
+    "budget": 25000000,
+    "gross": 14063331,
+    "runtime": 115,
+    "directors": [
+      "David Twohy"
+    ]
+  },
+  "tt0057012": {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "budget": 1800000,
+    "gross": 9820389,
+    "runtime": 95,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0109688": {
+    "title": "Ashes of Time",
+    "budget": 40000000,
+    "gross": 2009694,
+    "runtime": 100,
+    "directors": [
+      "Wong Kar-Wai"
+    ]
+  },
+  "tt0110480": {
+    "title": "Maya Lin: A Strong Clear Vision",
+    "budget": 0,
+    "gross": 62186,
+    "runtime": 105,
+    "directors": [
+      "Freida Lee Mock"
+    ]
+  },
+  "tt0108211": {
+    "title": "Stalingrad",
+    "budget": 20000000,
+    "gross": 152972,
+    "runtime": 134,
+    "directors": [
+      "Joseph Vilsmaier"
+    ]
+  },
+  "tt0117331": {
+    "title": "The Phantom",
+    "budget": 45000000,
+    "gross": 17330678,
+    "runtime": 100,
+    "directors": [
+      "Simon Wincer"
+    ]
+  },
+  "tt0117765": {
+    "title": "Striptease",
+    "budget": 40000000,
+    "gross": 113309743,
+    "runtime": 115,
+    "directors": [
+      "Andrew Bergman"
+    ]
+  },
+  "tt0113280": {
+    "title": "Heavy",
+    "budget": 0,
+    "gross": 941414,
+    "runtime": 105,
+    "directors": [
+      "James Mangold"
+    ]
+  },
+  "tt0116669": {
+    "title": "Jack",
+    "budget": 45000000,
+    "gross": 58620973,
+    "runtime": 113,
+    "directors": [
+      "Francis Ford Coppola"
+    ]
+  },
+  "tt0116594": {
+    "title": "I Shot Andy Warhol",
+    "budget": 0,
+    "gross": 1875527,
+    "runtime": 103,
+    "directors": [
+      "Mary Harron"
+    ]
+  },
+  "tt0070820": {
+    "title": "Journey of the Hyena",
+    "budget": 0,
+    "gross": 180,
+    "runtime": 85,
+    "directors": [
+      "Djibril Diop Mambéty"
+    ]
+  },
+  "tt0063715": {
+    "title": "Spirits of the Dead",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 121,
+    "directors": [
+      "Federico Fellini",
+      "Louis Malle",
+      "Roger Vadim"
+    ]
+  },
+  "tt0117951": {
+    "title": "Trainspotting",
+    "budget": 1500000,
+    "gross": 16992984,
+    "runtime": 93,
+    "directors": [
+      "Danny Boyle"
+    ]
+  },
+  "tt0118523": {
+    "title": "'Til There Was You",
+    "budget": 23000000,
+    "gross": 3525125,
+    "runtime": 113,
+    "directors": [
+      "Scott Winant"
+    ]
+  },
+  "tt0116629": {
+    "title": "Independence Day",
+    "budget": 75000000,
+    "gross": 817400891,
+    "runtime": 145,
+    "directors": [
+      "Roland Emmerich"
+    ]
+  },
+  "tt0117737": {
+    "title": "Stealing Beauty",
+    "budget": 10000000,
+    "gross": 4971949,
+    "runtime": 118,
+    "directors": [
+      "Bernardo Bertolucci"
+    ]
+  },
+  "tt0116277": {
+    "title": "The Fan",
+    "budget": 55000000,
+    "gross": 18626419,
+    "runtime": 116,
+    "directors": [
+      "Tony Scott"
+    ]
+  },
+  "tt0116583": {
+    "title": "The Hunchback of Notre Dame",
+    "budget": 100000000,
+    "gross": 325338851,
+    "runtime": 91,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ]
+  },
+  "tt0115798": {
+    "title": "The Cable Guy",
+    "budget": 47000000,
+    "gross": 102825796,
+    "runtime": 96,
+    "directors": [
+      "Ben Stiller"
+    ]
+  },
+  "tt0116778": {
+    "title": "Kingpin",
+    "budget": 27000000,
+    "gross": 25023434,
+    "runtime": 114,
+    "directors": [
+      "Bobby Farrelly",
+      "Peter Farrelly"
+    ]
+  },
+  "tt0116213": {
+    "title": "Eraser",
+    "budget": 100000000,
+    "gross": 242295562,
+    "runtime": 115,
+    "directors": [
+      "Chuck Russell"
+    ]
+  },
+  "tt0117218": {
+    "title": "The Nutty Professor",
+    "budget": 54000000,
+    "gross": 273961019,
+    "runtime": 95,
+    "directors": [
+      "Tom Shadyac"
+    ]
+  },
+  "tt0111546": {
+    "title": "Un été inoubliable",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 82,
+    "directors": [
+      "Lucian Pintilie"
+    ]
+  },
+  "tt0111237": {
+    "title": "Somebody to Love",
+    "budget": 0,
+    "gross": 18112,
+    "runtime": 102,
+    "directors": [
+      "Alexandre Rockwell"
+    ]
+  },
+  "tt0113610": {
+    "title": "The Last Klezmer: Leopold Kozlowski, His Life and Music",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 85,
+    "directors": [
+      "Yale Strom"
+    ]
+  },
+  "tt0116040": {
+    "title": "Daylight",
+    "budget": 80000000,
+    "gross": 159212469,
+    "runtime": 114,
+    "directors": [
+      "Rob Cohen"
+    ]
+  },
+  "tt0116365": {
+    "title": "The Frighteners",
+    "budget": 30000000,
+    "gross": 29359216,
+    "runtime": 110,
+    "directors": [
+      "Peter Jackson"
+    ]
+  },
+  "tt0116905": {
+    "title": "Lone Star",
+    "budget": 5000000,
+    "gross": 12423265,
+    "runtime": 135,
+    "directors": [
+      "John Sayles"
+    ]
+  },
+  "tt0116493": {
+    "title": "Harriet the Spy",
+    "budget": 12000000,
+    "gross": 26570048,
+    "runtime": 100,
+    "directors": [
+      "Bronwen Hughes"
+    ]
+  },
+  "tt0117333": {
+    "title": "Phenomenon",
+    "budget": 32000000,
+    "gross": 152036382,
+    "runtime": 123,
+    "directors": [
+      "Jon Turteltaub"
+    ]
+  },
+  "tt0118113": {
+    "title": "Walking and Talking",
+    "budget": 1000000,
+    "gross": 1287480,
+    "runtime": 86,
+    "directors": [
+      "Nicole Holofcener"
+    ]
+  },
+  "tt0117628": {
+    "title": "She's the One",
+    "budget": 3500000,
+    "gross": 9538948,
+    "runtime": 96,
+    "directors": [
+      "Edward Burns"
+    ]
+  },
+  "tt0117913": {
+    "title": "A Time to Kill",
+    "budget": 40000000,
+    "gross": 152266007,
+    "runtime": 149,
+    "directors": [
+      "Joel Schumacher"
+    ]
+  },
+  "tt0115530": {
+    "title": "American Buffalo",
+    "budget": 0,
+    "gross": 665450,
+    "runtime": 88,
+    "directors": [
+      "Michael Corrente"
+    ]
+  },
+  "tt0115493": {
+    "title": "Alaska",
+    "budget": 23000000,
+    "gross": 11829959,
+    "runtime": 109,
+    "directors": [
+      "Fraser C. Heston"
+    ]
+  },
+  "tt0116320": {
+    "title": "Fled",
+    "budget": 25000000,
+    "gross": 17193231,
+    "runtime": 98,
+    "directors": [
+      "Kevin Hooks"
+    ]
+  },
+  "tt0116756": {
+    "title": "Kazaam",
+    "budget": 20000000,
+    "gross": 18937262,
+    "runtime": 93,
+    "directors": [
+      "Paul Michael Glaser"
+    ]
+  },
+  "tt0116823": {
+    "title": "Larger Than Life",
+    "budget": 30000000,
+    "gross": 8315693,
+    "runtime": 93,
+    "directors": [
+      "Howard Franklin"
+    ]
+  },
+  "tt0118073": {
+    "title": "A Very Brady Sequel",
+    "budget": 12000000,
+    "gross": 21440752,
+    "runtime": 90,
+    "directors": [
+      "Arlene Sanford"
+    ]
+  },
+  "tt0061495": {
+    "title": "The Collector",
+    "budget": 0,
+    "gross": 7077,
+    "runtime": 86,
+    "directors": [
+      "Éric Rohmer"
+    ]
+  },
+  "tt0110246": {
+    "title": "Kaspar Hauser",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 139,
+    "directors": [
+      "Peter Sehr"
+    ]
+  },
+  "tt0115472": {
+    "title": "The Adventures of Pinocchio",
+    "budget": 25000000,
+    "gross": 15094530,
+    "runtime": 96,
+    "directors": [
+      "Steve Barron"
+    ]
+  },
+  "tt0116707": {
+    "title": "Joe's Apartment",
+    "budget": 13000000,
+    "gross": 4619014,
+    "runtime": 80,
+    "directors": [
+      "John Payson"
+    ]
+  },
+  "tt0116313": {
+    "title": "The First Wives Club",
+    "budget": 26000000,
+    "gross": 181489203,
+    "runtime": 103,
+    "directors": [
+      "Hugh Wilson"
+    ]
+  },
+  "tt0117438": {
+    "title": "Ransom",
+    "budget": 80000000,
+    "gross": 309492681,
+    "runtime": 121,
+    "directors": [
+      "Ron Howard"
+    ]
+  },
+  "tt0116531": {
+    "title": "High School High",
+    "budget": 0,
+    "gross": 21302121,
+    "runtime": 86,
+    "directors": [
+      "Hart Bochner"
+    ]
+  },
+  "tt0116353": {
+    "title": "Foxfire",
+    "budget": 0,
+    "gross": 269300,
+    "runtime": 102,
+    "directors": [
+      "Annette Haywood-Carter"
+    ]
+  },
+  "tt0115857": {
+    "title": "Chain Reaction",
+    "budget": 50000000,
+    "gross": 60209334,
+    "runtime": 107,
+    "directors": [
+      "Andrew Davis"
+    ]
+  },
+  "tt0117008": {
+    "title": "Matilda",
+    "budget": 36000000,
+    "gross": 33463770,
+    "runtime": 98,
+    "directors": [
+      "Danny DeVito"
+    ]
+  },
+  "tt0116191": {
+    "title": "Emma",
+    "budget": 6000000,
+    "gross": 22231658,
+    "runtime": 120,
+    "directors": [
+      "Douglas McGrath"
+    ]
+  },
+  "tt0115986": {
+    "title": "The Crow: City of Angels",
+    "budget": 13000000,
+    "gross": 17917287,
+    "runtime": 84,
+    "directors": [
+      "Tim Pope"
+    ]
+  },
+  "tt0116571": {
+    "title": "House Arrest",
+    "budget": 0,
+    "gross": 7032782,
+    "runtime": 108,
+    "directors": [
+      "Harry Winer"
+    ]
+  },
+  "tt0053459": {
+    "title": "Eyes Without a Face",
+    "budget": 0,
+    "gross": 62793,
+    "runtime": 90,
+    "directors": [
+      "Georges Franju"
+    ]
+  },
+  "tt0117826": {
+    "title": "Bordello of Blood",
+    "budget": 13000000,
+    "gross": 5781045,
+    "runtime": 87,
+    "directors": [
+      "Gilbert Adler"
+    ]
+  },
+  "tt0117718": {
+    "title": "The Spitfire Grill",
+    "budget": 6000000,
+    "gross": 12658486,
+    "runtime": 117,
+    "directors": [
+      "Lee David Zlotoff"
+    ]
+  },
+  "tt0116225": {
+    "title": "Escape from L.A.",
+    "budget": 50000000,
+    "gross": 25477365,
+    "runtime": 101,
+    "directors": [
+      "John Carpenter"
+    ]
+  },
+  "tt0115632": {
+    "title": "Basquiat",
+    "budget": 3300000,
+    "gross": 3046785,
+    "runtime": 107,
+    "directors": [
+      "Julian Schnabel"
+    ]
+  },
+  "tt0117918": {
+    "title": "Tin Cup",
+    "budget": 45000000,
+    "gross": 53854588,
+    "runtime": 135,
+    "directors": [
+      "Ron Shelton"
+    ]
+  },
+  "tt0068646": {
+    "title": "The Godfather",
+    "budget": 6000000,
+    "gross": 250933053,
+    "runtime": 175,
+    "directors": [
+      "Francis Ford Coppola"
+    ]
+  },
+  "tt0104558": {
+    "title": "Police Story 3: Supercop",
+    "budget": 900000,
+    "gross": 16270600,
+    "runtime": 91,
+    "directors": [
+      "Stanley Tong"
+    ]
+  },
+  "tt0115736": {
+    "title": "Bound",
+    "budget": 4500000,
+    "gross": 3804163,
+    "runtime": 109,
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ]
+  },
+  "tt0115836": {
+    "title": "Carpool",
+    "budget": 17000000,
+    "gross": 3325651,
+    "runtime": 89,
+    "directors": [
+      "Arthur Hiller"
+    ]
+  },
+  "tt0116745": {
+    "title": "Kansas City",
+    "budget": 19000000,
+    "gross": 1356828,
+    "runtime": 116,
+    "directors": [
+      "Robert Altman"
+    ]
+  },
+  "tt0119214": {
+    "title": "Gone Fishin'",
+    "budget": 53000000,
+    "gross": 19745922,
+    "runtime": 94,
+    "directors": [
+      "Christopher Cain"
+    ]
+  },
+  "tt0110693": {
+    "title": "Nothing to Lose",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 83,
+    "directors": [
+      "Izidore K. Musallam"
+    ]
+  },
+  "tt0106544": {
+    "title": "Supercop 2",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 104,
+    "directors": [
+      "Stanley Tong"
+    ]
+  },
+  "tt0120004": {
+    "title": "The Relic",
+    "budget": 40000000,
+    "gross": 33956608,
+    "runtime": 110,
+    "directors": [
+      "Peter Hyams"
+    ]
+  },
+  "tt0116654": {
+    "title": "The Island of Dr. Moreau",
+    "budget": 40000000,
+    "gross": 49627779,
+    "runtime": 96,
+    "directors": [
+      "John Frankenheimer",
+      "Richard Stanley"
+    ]
+  },
+  "tt0116311": {
+    "title": "First Kid",
+    "budget": 0,
+    "gross": 26491793,
+    "runtime": 101,
+    "directors": [
+      "David Mickey Evans"
+    ]
+  },
+  "tt0117965": {
+    "title": "The Trigger Effect",
+    "budget": 8000000,
+    "gross": 3622979,
+    "runtime": 94,
+    "directors": [
+      "David Koepp"
+    ]
+  },
+  "tt0115725": {
+    "title": "Bogus",
+    "budget": 30000000,
+    "gross": 4357406,
+    "runtime": 110,
+    "directors": [
+      "Norman Jewison"
+    ]
+  },
+  "tt0115783": {
+    "title": "Bulletproof",
+    "budget": 25000000,
+    "gross": 22611954,
+    "runtime": 84,
+    "directors": [
+      "Ernest Dickerson"
+    ]
+  },
+  "tt0113596": {
+    "title": "The Land Before Time III: The Time of the Great Giving",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 71,
+    "directors": [
+      "Roy Allen Smith"
+    ]
+  },
+  "tt0109001": {
+    "title": "1-900",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 87,
+    "directors": [
+      "Theo van Gogh"
+    ]
+  },
+  "tt0113253": {
+    "title": "Halloween: The Curse of Michael Myers",
+    "budget": 5000000,
+    "gross": 15116634,
+    "runtime": 87,
+    "directors": [
+      "Joe Chappelle"
+    ]
+  },
+  "tt0117991": {
+    "title": "Twelfth Night",
+    "budget": 5000000,
+    "gross": 588621,
+    "runtime": 134,
+    "directors": [
+      "Trevor Nunn"
+    ]
+  },
+  "tt0117093": {
+    "title": "Mother Night",
+    "budget": 6000000,
+    "gross": 403701,
+    "runtime": 114,
+    "directors": [
+      "Keith Gordon"
+    ]
+  },
+  "tt0111019": {
+    "title": "Wild Reeds",
+    "budget": 0,
+    "gross": 807775,
+    "runtime": 110,
+    "directors": [
+      "André Téchiné"
+    ]
+  },
+  "tt0035896": {
+    "title": "For Whom the Bell Tolls",
+    "budget": 3000000,
+    "gross": 0,
+    "runtime": 170,
+    "directors": [
+      "Sam Wood"
+    ]
+  },
+  "tt0032904": {
+    "title": "The Philadelphia Story",
+    "budget": 944000,
+    "gross": 417137,
+    "runtime": 112,
+    "directors": [
+      "George Cukor"
+    ]
+  },
+  "tt0045152": {
+    "title": "Singin' in the Rain",
+    "budget": 2540800,
+    "gross": 2112953,
+    "runtime": 103,
+    "directors": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ]
+  },
+  "tt0043278": {
+    "title": "An American in Paris",
+    "budget": 2723903,
+    "gross": 275781,
+    "runtime": 114,
+    "directors": [
+      "Vincente Minnelli"
+    ]
+  },
+  "tt0050419": {
+    "title": "Funny Face",
+    "budget": 3000000,
+    "gross": 3256,
+    "runtime": 103,
+    "directors": [
+      "Stanley Donen"
+    ]
+  },
+  "tt0054698": {
+    "title": "Breakfast at Tiffany's",
+    "budget": 2500000,
+    "gross": 734410,
+    "runtime": 115,
+    "directors": [
+      "Blake Edwards"
+    ]
+  },
+  "tt0052357": {
+    "title": "Vertigo",
+    "budget": 2479000,
+    "gross": 7999847,
+    "runtime": 128,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0047396": {
+    "title": "Rear Window",
+    "budget": 1000000,
+    "gross": 37918896,
+    "runtime": 112,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0025316": {
+    "title": "It Happened One Night",
+    "budget": 325000,
+    "gross": 18720,
+    "runtime": 105,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0036855": {
+    "title": "Gaslight",
+    "budget": 0,
+    "gross": 2391,
+    "runtime": 114,
+    "directors": [
+      "George Cukor"
+    ]
+  },
+  "tt0025164": {
+    "title": "The Gay Divorcee",
+    "budget": 520000,
+    "gross": 6879,
+    "runtime": 107,
+    "directors": [
+      "Mark Sandrich"
+    ]
+  },
+  "tt0053125": {
+    "title": "North by Northwest",
+    "budget": 3101000,
+    "gross": 209478,
+    "runtime": 136,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0053604": {
+    "title": "The Apartment",
+    "budget": 3000000,
+    "gross": 18783770,
+    "runtime": 125,
+    "directors": [
+      "Billy Wilder"
+    ]
+  },
+  "tt0053291": {
+    "title": "Some Like It Hot",
+    "budget": 2883848,
+    "gross": 213362,
+    "runtime": 121,
+    "directors": [
+      "Billy Wilder"
+    ]
+  },
+  "tt0056923": {
+    "title": "Charade",
+    "budget": 3000000,
+    "gross": 176073,
+    "runtime": 113,
+    "directors": [
+      "Stanley Donen"
+    ]
+  },
+  "tt0034583": {
+    "title": "Casablanca",
+    "budget": 950000,
+    "gross": 4753316,
+    "runtime": 102,
+    "directors": [
+      "Michael Curtiz"
+    ]
+  },
+  "tt0033870": {
+    "title": "The Maltese Falcon",
+    "budget": 375000,
+    "gross": 41894,
+    "runtime": 100,
+    "directors": [
+      "John Huston"
+    ]
+  },
+  "tt0058385": {
+    "title": "My Fair Lady",
+    "budget": 17000000,
+    "gross": 72687237,
+    "runtime": 170,
+    "directors": [
+      "George Cukor"
+    ]
+  },
+  "tt0047437": {
+    "title": "Sabrina",
+    "budget": 2238813,
+    "gross": 4742,
+    "runtime": 113,
+    "directors": [
+      "Billy Wilder"
+    ]
+  },
+  "tt0046250": {
+    "title": "Roman Holiday",
+    "budget": 1500000,
+    "gross": 238203,
+    "runtime": 118,
+    "directors": [
+      "William Wyler"
+    ]
+  },
+  "tt0031580": {
+    "title": "The Little Princess",
+    "budget": 1000000,
+    "gross": 0,
+    "runtime": 93,
+    "directors": [
+      "Walter Lang",
+      "William A. Seiter"
+    ]
+  },
+  "tt0037059": {
+    "title": "Meet Me in St. Louis",
+    "budget": 1700000,
+    "gross": 506401,
+    "runtime": 113,
+    "directors": [
+      "Vincente Minnelli"
+    ]
+  },
+  "tt0032138": {
+    "title": "The Wizard of Oz",
+    "budget": 2777000,
+    "gross": 25637669,
+    "runtime": 102,
+    "directors": [
+      "Victor Fleming",
+      "George Cukor",
+      "Norman Taurog",
+      "Richard Thorpe",
+      "King Vidor"
+    ]
+  },
+  "tt0031381": {
+    "title": "Gone with the Wind",
+    "budget": 3977000,
+    "gross": 402382193,
+    "runtime": 238,
+    "directors": [
+      "Victor Fleming"
+    ]
+  },
+  "tt0084370": {
+    "title": "My Favorite Year",
+    "budget": 7900000,
+    "gross": 20123620,
+    "runtime": 92,
+    "directors": [
+      "Richard Benjamin"
+    ]
+  },
+  "tt0043014": {
+    "title": "Sunset Boulevard",
+    "budget": 1752000,
+    "gross": 339244,
+    "runtime": 110,
+    "directors": [
+      "Billy Wilder"
+    ]
+  },
+  "tt0033467": {
+    "title": "Citizen Kane",
+    "budget": 839727,
+    "gross": 1716484,
+    "runtime": 119,
+    "directors": [
+      "Orson Welles"
+    ]
+  },
+  "tt0062622": {
+    "title": "2001: A Space Odyssey",
+    "budget": 12000000,
+    "gross": 69985100,
+    "runtime": 149,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0042192": {
+    "title": "All About Eve",
+    "budget": 1400000,
+    "gross": 158864,
+    "runtime": 138,
+    "directors": [
+      "Joseph L. Mankiewicz"
+    ]
+  },
+  "tt0032143": {
+    "title": "The Women",
+    "budget": 1688000,
+    "gross": 16161,
+    "runtime": 133,
+    "directors": [
+      "George Cukor"
+    ]
+  },
+  "tt0032976": {
+    "title": "Rebecca",
+    "budget": 1288000,
+    "gross": 114106,
+    "runtime": 130,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0032484": {
+    "title": "Foreign Correspondent",
+    "budget": 1500000,
+    "gross": 782,
+    "runtime": 120,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0038787": {
+    "title": "Notorious",
+    "budget": 2000000,
+    "gross": 122183,
+    "runtime": 102,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0038109": {
+    "title": "Spellbound",
+    "budget": 1696377,
+    "gross": 22621,
+    "runtime": 111,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0050105": {
+    "title": "An Affair to Remember",
+    "budget": 0,
+    "gross": 3873965,
+    "runtime": 115,
+    "directors": [
+      "Leo McCarey"
+    ]
+  },
+  "tt0048728": {
+    "title": "To Catch a Thief",
+    "budget": 2500000,
+    "gross": 12202,
+    "runtime": 106,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0042451": {
+    "title": "Father of the Bride",
+    "budget": 0,
+    "gross": 89,
+    "runtime": 92,
+    "directors": [
+      "Vincente Minnelli"
+    ]
+  },
+  "tt0045537": {
+    "title": "The Band Wagon",
+    "budget": 2169120,
+    "gross": 15009,
+    "runtime": 112,
+    "directors": [
+      "Vincente Minnelli"
+    ]
+  },
+  "tt0031725": {
+    "title": "Ninotchka",
+    "budget": 1365000,
+    "gross": 3536,
+    "runtime": 110,
+    "directors": [
+      "Ernst Lubitsch"
+    ]
+  },
+  "tt0050658": {
+    "title": "Love in the Afternoon",
+    "budget": 2100000,
+    "gross": 718,
+    "runtime": 130,
+    "directors": [
+      "Billy Wilder"
+    ]
+  },
+  "tt0051658": {
+    "title": "Gigi",
+    "budget": 3319355,
+    "gross": 789,
+    "runtime": 115,
+    "directors": [
+      "Vincente Minnelli",
+      "Charles Walters"
+    ]
+  },
+  "tt0032762": {
+    "title": "The Mark of Zorro",
+    "budget": 1000000,
+    "gross": 10248,
+    "runtime": 94,
+    "directors": [
+      "Rouben Mamoulian"
+    ]
+  },
+  "tt0029843": {
+    "title": "The Adventures of Robin Hood",
+    "budget": 1900000,
+    "gross": 5742,
+    "runtime": 102,
+    "directors": [
+      "Michael Curtiz",
+      "William Keighley"
+    ]
+  },
+  "tt0037008": {
+    "title": "Laura",
+    "budget": 1020000,
+    "gross": 2000,
+    "runtime": 88,
+    "directors": [
+      "Otto Preminger",
+      "Rouben Mamoulian"
+    ]
+  },
+  "tt0039420": {
+    "title": "The Ghost and Mrs. Muir",
+    "budget": 0,
+    "gross": 29545,
+    "runtime": 104,
+    "directors": [
+      "Joseph L. Mankiewicz"
+    ]
+  },
+  "tt0029162": {
+    "title": "Lost Horizon",
+    "budget": 4000000,
+    "gross": 0,
+    "runtime": 132,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0035446": {
+    "title": "To Be or Not to Be",
+    "budget": 0,
+    "gross": 1273,
+    "runtime": 99,
+    "directors": [
+      "Ernst Lubitsch"
+    ]
+  },
+  "tt0027125": {
+    "title": "Top Hat",
+    "budget": 609000,
+    "gross": 15092,
+    "runtime": 101,
+    "directors": [
+      "Mark Sandrich"
+    ]
+  },
+  "tt0028010": {
+    "title": "My Man Godfrey",
+    "budget": 656000,
+    "gross": 0,
+    "runtime": 94,
+    "directors": [
+      "Gregory La Cava"
+    ]
+  },
+  "tt0048028": {
+    "title": "East of Eden",
+    "budget": 0,
+    "gross": 50203,
+    "runtime": 118,
+    "directors": [
+      "Elia Kazan"
+    ]
+  },
+  "tt0049261": {
+    "title": "Giant",
+    "budget": 5400000,
+    "gross": 32873644,
+    "runtime": 201,
+    "directors": [
+      "George Stevens"
+    ]
+  },
+  "tt0025878": {
+    "title": "The Thin Man",
+    "budget": 226408,
+    "gross": 0,
+    "runtime": 91,
+    "directors": [
+      "W.S. Van Dyke"
+    ]
+  },
+  "tt0032599": {
+    "title": "His Girl Friday",
+    "budget": 0,
+    "gross": 266,
+    "runtime": 92,
+    "directors": [
+      "Howard Hawks"
+    ]
+  },
+  "tt0048960": {
+    "title": "Around the World in 80 Days",
+    "budget": 6000000,
+    "gross": 42009549,
+    "runtime": 175,
+    "directors": [
+      "Michael Anderson",
+      "John Farrow"
+    ]
+  },
+  "tt0038650": {
+    "title": "It's a Wonderful Life",
+    "budget": 3180000,
+    "gross": 11496793,
+    "runtime": 130,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0031679": {
+    "title": "Mr. Smith Goes to Washington",
+    "budget": 1900000,
+    "gross": 146448,
+    "runtime": 129,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0029947": {
+    "title": "Bringing Up Baby",
+    "budget": 1073000,
+    "gross": 13968,
+    "runtime": 102,
+    "directors": [
+      "Howard Hawks"
+    ]
+  },
+  "tt0034012": {
+    "title": "Penny Serenade",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 119,
+    "directors": [
+      "George Stevens"
+    ]
+  },
+  "tt0041509": {
+    "title": "The Inspector General",
+    "budget": 2873000,
+    "gross": 0,
+    "runtime": 102,
+    "directors": [
+      "Henry Koster"
+    ]
+  },
+  "tt0025586": {
+    "title": "Of Human Bondage",
+    "budget": 403000,
+    "gross": 0,
+    "runtime": 83,
+    "directors": [
+      "John Cromwell"
+    ]
+  },
+  "tt0027893": {
+    "title": "Little Lord Fauntleroy",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 102,
+    "directors": [
+      "John Cromwell"
+    ]
+  },
+  "tt0026029": {
+    "title": "The 39 Steps",
+    "budget": 50000,
+    "gross": 100948,
+    "runtime": 86,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0063350": {
+    "title": "Night of the Living Dead",
+    "budget": 114000,
+    "gross": 240082,
+    "runtime": 96,
+    "directors": [
+      "George A. Romero"
+    ]
+  },
+  "tt0043265": {
+    "title": "The African Queen",
+    "budget": 1000000,
+    "gross": 47265,
+    "runtime": 105,
+    "directors": [
+      "John Huston"
+    ]
+  },
+  "tt0046414": {
+    "title": "Beat the Devil",
+    "budget": 1000000,
+    "gross": 0,
+    "runtime": 89,
+    "directors": [
+      "John Huston"
+    ]
+  },
+  "tt0051459": {
+    "title": "Cat on a Hot Tin Roof",
+    "budget": 3000000,
+    "gross": 1872,
+    "runtime": 108,
+    "directors": [
+      "Richard Brooks"
+    ]
+  },
+  "tt0033891": {
+    "title": "Meet John Doe",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 122,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0022879": {
+    "title": "A Farewell to Arms",
+    "budget": 799520,
+    "gross": 0,
+    "runtime": 80,
+    "directors": [
+      "Frank Borzage"
+    ]
+  },
+  "tt0118927": {
+    "title": "Dangerous Ground",
+    "budget": 0,
+    "gross": 5406742,
+    "runtime": 95,
+    "directors": [
+      "Darrell Roodt"
+    ]
+  },
+  "tt0114007": {
+    "title": "Nothing Personal",
+    "budget": 0,
+    "gross": 40374,
+    "runtime": 86,
+    "directors": [
+      "Thaddeus O'Sullivan"
+    ]
+  },
+  "tt0048491": {
+    "title": "Picnic",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 115,
+    "directors": [
+      "Joshua Logan"
+    ]
+  },
+  "tt0116329": {
+    "title": "Fly Away Home",
+    "budget": 22000000,
+    "gross": 25143818,
+    "runtime": 107,
+    "directors": [
+      "Carroll Ballard"
+    ]
+  },
+  "tt0117357": {
+    "title": "The Pompatus of Love",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 99,
+    "directors": [
+      "Richard Schenkman"
+    ]
+  },
+  "tt0118742": {
+    "title": "Bliss",
+    "budget": 0,
+    "gross": 294064,
+    "runtime": 103,
+    "directors": [
+      "Lance Young"
+    ]
+  },
+  "tt0116442": {
+    "title": "Grace of My Heart",
+    "budget": 5000000,
+    "gross": 660313,
+    "runtime": 116,
+    "directors": [
+      "Allison Anders"
+    ]
+  },
+  "tt0117011": {
+    "title": "Maximum Risk",
+    "budget": 25000000,
+    "gross": 14502483,
+    "runtime": 101,
+    "directors": [
+      "Ringo Lam"
+    ]
+  },
+  "tt0117039": {
+    "title": "Michael Collins",
+    "budget": 25000000,
+    "gross": 11136590,
+    "runtime": 133,
+    "directors": [
+      "Neil Jordan"
+    ]
+  },
+  "tt0115678": {
+    "title": "Big Night",
+    "budget": 4100000,
+    "gross": 12009094,
+    "runtime": 109,
+    "directors": [
+      "Campbell Scott",
+      "Stanley Tucci"
+    ]
+  },
+  "tt0116635": {
+    "title": "Infinity",
+    "budget": 0,
+    "gross": 195170,
+    "runtime": 119,
+    "directors": [
+      "Matthew Broderick"
+    ]
+  },
+  "tt0116830": {
+    "title": "Last Man Standing",
+    "budget": 67000000,
+    "gross": 47267001,
+    "runtime": 101,
+    "directors": [
+      "Walter Hill"
+    ]
+  },
+  "tt0117603": {
+    "title": "Set It Off",
+    "budget": 9000000,
+    "gross": 41590886,
+    "runtime": 123,
+    "directors": [
+      "F. Gary Gray"
+    ]
+  },
+  "tt0115438": {
+    "title": "2 Days in the Valley",
+    "budget": 0,
+    "gross": 11132210,
+    "runtime": 104,
+    "directors": [
+      "John Herzfeld"
+    ]
+  },
+  "tt0116259": {
+    "title": "Extreme Measures",
+    "budget": 38000000,
+    "gross": 17380126,
+    "runtime": 118,
+    "directors": [
+      "Michael Apted"
+    ]
+  },
+  "tt0116421": {
+    "title": "The Glimmer Man",
+    "budget": 45000000,
+    "gross": 20351264,
+    "runtime": 91,
+    "directors": [
+      "John Gray"
+    ]
+  },
+  "tt0116000": {
+    "title": "D3: The Mighty Ducks",
+    "budget": 0,
+    "gross": 22955097,
+    "runtime": 104,
+    "directors": [
+      "Robert Lieberman"
+    ]
+  },
+  "tt0115862": {
+    "title": "The Chamber",
+    "budget": 50000000,
+    "gross": 22540359,
+    "runtime": 113,
+    "directors": [
+      "James Foley"
+    ]
+  },
+  "tt0072653": {
+    "title": "The Apple Dumpling Gang",
+    "budget": 0,
+    "gross": 36853000,
+    "runtime": 100,
+    "directors": [
+      "Norman Tokar"
+    ]
+  },
+  "tt0047977": {
+    "title": "Davy Crockett: King of the Wild Frontier",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 93,
+    "directors": [
+      "Norman Foster"
+    ]
+  },
+  "tt0072951": {
+    "title": "Escape to Witch Mountain",
+    "budget": 0,
+    "gross": 20000000,
+    "runtime": 97,
+    "directors": [
+      "John Hough"
+    ]
+  },
+  "tt0064603": {
+    "title": "The Love Bug",
+    "budget": 0,
+    "gross": 51264022,
+    "runtime": 108,
+    "directors": [
+      "Robert Stevenson"
+    ]
+  },
+  "tt0071607": {
+    "title": "Herbie Rides Again",
+    "budget": 0,
+    "gross": 38229000,
+    "runtime": 88,
+    "directors": [
+      "Robert Stevenson"
+    ]
+  },
+  "tt0050798": {
+    "title": "Old Yeller",
+    "budget": 0,
+    "gross": 91,
+    "runtime": 83,
+    "directors": [
+      "Robert Stevenson"
+    ]
+  },
+  "tt0055277": {
+    "title": "The Parent Trap",
+    "budget": 0,
+    "gross": 29650385,
+    "runtime": 129,
+    "directors": [
+      "David Swift"
+    ]
+  },
+  "tt0054195": {
+    "title": "Pollyanna",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 134,
+    "directors": [
+      "David Swift"
+    ]
+  },
+  "tt0107131": {
+    "title": "Homeward Bound: The Incredible Journey",
+    "budget": 0,
+    "gross": 41833324,
+    "runtime": 84,
+    "directors": [
+      "Duwayne Dunham"
+    ]
+  },
+  "tt0054357": {
+    "title": "Swiss Family Robinson",
+    "budget": 5000000,
+    "gross": 40359745,
+    "runtime": 126,
+    "directors": [
+      "Ken Annakin"
+    ]
+  },
+  "tt0053271": {
+    "title": "The Shaggy Dog",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 104,
+    "directors": [
+      "Charles Barton"
+    ]
+  },
+  "tt0059793": {
+    "title": "That Darn Cat!",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 116,
+    "directors": [
+      "Robert Stevenson"
+    ]
+  },
+  "tt0046672": {
+    "title": "20,000 Leagues Under the Sea",
+    "budget": 9000000,
+    "gross": 746,
+    "runtime": 127,
+    "directors": [
+      "Richard Fleischer"
+    ]
+  },
+  "tt0106611": {
+    "title": "Cool Runnings",
+    "budget": 14000000,
+    "gross": 154856263,
+    "runtime": 98,
+    "directors": [
+      "Jon Turteltaub"
+    ]
+  },
+  "tt0109127": {
+    "title": "Angels in the Outfield",
+    "budget": 24000000,
+    "gross": 50236831,
+    "runtime": 102,
+    "directors": [
+      "William Dear"
+    ]
+  },
+  "tt0063819": {
+    "title": "Winnie the Pooh and the Blustery Day",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 25,
+    "directors": [
+      "Wolfgang Reitherman",
+      "Ben Sharpsteen"
+    ]
+  },
+  "tt0042332": {
+    "title": "Cinderella",
+    "budget": 2900000,
+    "gross": 96384880,
+    "runtime": 74,
+    "directors": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske"
+    ]
+  },
+  "tt0038166": {
+    "title": "The Three Caballeros",
+    "budget": 0,
+    "gross": 7313900,
+    "runtime": 71,
+    "directors": [
+      "Norman Ferguson",
+      "Clyde Geronimi",
+      "Jack Kinney",
+      "Bill Roberts",
+      "Harold Young"
+    ]
+  },
+  "tt0057546": {
+    "title": "The Sword in the Stone",
+    "budget": 3000000,
+    "gross": 12000000,
+    "runtime": 79,
+    "directors": [
+      "Wolfgang Reitherman",
+      "Clyde Geronimi",
+      "David Hand"
+    ]
+  },
+  "tt0102798": {
+    "title": "Robin Hood: Prince of Thieves",
+    "budget": 48000000,
+    "gross": 390493908,
+    "runtime": 143,
+    "directors": [
+      "Kevin Reynolds"
+    ]
+  },
+  "tt0058331": {
+    "title": "Mary Poppins",
+    "budget": 6000000,
+    "gross": 103128540,
+    "runtime": 139,
+    "directors": [
+      "Robert Stevenson"
+    ]
+  },
+  "tt0033563": {
+    "title": "Dumbo",
+    "budget": 950000,
+    "gross": 112581,
+    "runtime": 64,
+    "directors": [
+      "Samuel Armstrong",
+      "Norman Ferguson",
+      "Wilfred Jackson",
+      "Jack Kinney",
+      "Bill Roberts",
+      "Ben Sharpsteen"
+    ]
+  },
+  "tt0076538": {
+    "title": "Pete's Dragon",
+    "budget": 10000000,
+    "gross": 39588000,
+    "runtime": 128,
+    "directors": [
+      "Don Chaffey"
+    ]
+  },
+  "tt0066817": {
+    "title": "Bedknobs and Broomsticks",
+    "budget": 20000000,
+    "gross": 844,
+    "runtime": 117,
+    "directors": [
+      "Ward Kimball",
+      "Robert Stevenson"
+    ]
+  },
+  "tt0043274": {
+    "title": "Alice in Wonderland",
+    "budget": 3000000,
+    "gross": 2507,
+    "runtime": 75,
+    "directors": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske",
+      "Jack Kinney"
+    ]
+  },
+  "tt0082406": {
+    "title": "The Fox and the Hound",
+    "budget": 12000000,
+    "gross": 63456988,
+    "runtime": 83,
+    "directors": [
+      "Ted Berman",
+      "Richard Rich",
+      "Art Stevens",
+      "David Hand",
+      "Wolfgang Reitherman"
+    ]
+  },
+  "tt0059742": {
+    "title": "The Sound of Music",
+    "budget": 8200000,
+    "gross": 161519336,
+    "runtime": 174,
+    "directors": [
+      "Robert Wise"
+    ]
+  },
+  "tt0116361": {
+    "title": "Freeway",
+    "budget": 3000000,
+    "gross": 295493,
+    "runtime": 104,
+    "directors": [
+      "Matthew Bright"
+    ]
+  },
+  "tt0095016": {
+    "title": "Die Hard",
+    "budget": 28000000,
+    "gross": 143651650,
+    "runtime": 132,
+    "directors": [
+      "John McTiernan"
+    ]
+  },
+  "tt0104692": {
+    "title": "The Lawnmower Man",
+    "budget": 10000000,
+    "gross": 32100816,
+    "runtime": 108,
+    "directors": [
+      "Brett Leonard"
+    ]
+  },
+  "tt0117582": {
+    "title": "The Secret Agent",
+    "budget": 7000000,
+    "gross": 106606,
+    "runtime": 95,
+    "directors": [
+      "Christopher Hampton"
+    ]
+  },
+  "tt0117589": {
+    "title": "Secrets & Lies",
+    "budget": 4500000,
+    "gross": 13417292,
+    "runtime": 136,
+    "directors": [
+      "Mike Leigh"
+    ]
+  },
+  "tt0117887": {
+    "title": "That Thing You Do!",
+    "budget": 26000000,
+    "gross": 34585416,
+    "runtime": 108,
+    "directors": [
+      "Tom Hanks"
+    ]
+  },
+  "tt0117924": {
+    "title": "To Gillian on Her 37th Birthday",
+    "budget": 0,
+    "gross": 4189233,
+    "runtime": 93,
+    "directors": [
+      "Michael Pressman"
+    ]
+  },
+  "tt0115640": {
+    "title": "Beautiful Thing",
+    "budget": 0,
+    "gross": 2176488,
+    "runtime": 90,
+    "directors": [
+      "Hettie Macdonald"
+    ]
+  },
+  "tt0116908": {
+    "title": "The Long Kiss Goodnight",
+    "budget": 65000000,
+    "gross": 89456761,
+    "runtime": 121,
+    "directors": [
+      "Renny Harlin"
+    ]
+  },
+  "tt0116409": {
+    "title": "The Ghost and the Darkness",
+    "budget": 55000000,
+    "gross": 38619959,
+    "runtime": 110,
+    "directors": [
+      "Stephen Hopkins"
+    ]
+  },
+  "tt0116913": {
+    "title": "Looking for Richard",
+    "budget": 0,
+    "gross": 1408575,
+    "runtime": 111,
+    "directors": [
+      "Al Pacino"
+    ]
+  },
+  "tt0117958": {
+    "title": "Trees Lounge",
+    "budget": 1300000,
+    "gross": 749741,
+    "runtime": 95,
+    "directors": [
+      "Steve Buscemi"
+    ]
+  },
+  "tt0117202": {
+    "title": "Normal Life",
+    "budget": 0,
+    "gross": 22891,
+    "runtime": 101,
+    "directors": [
+      "John McNaughton"
+    ]
+  },
+  "tt0116404": {
+    "title": "Get on the Bus",
+    "budget": 2400000,
+    "gross": 5754249,
+    "runtime": 120,
+    "directors": [
+      "Spike Lee"
+    ]
+  },
+  "tt0120107": {
+    "title": "Shadow Conspiracy",
+    "budget": 45000000,
+    "gross": 2312463,
+    "runtime": 103,
+    "directors": [
+      "George P. Cosmatos"
+    ]
+  },
+  "tt0116722": {
+    "title": "Jude",
+    "budget": 7000000,
+    "gross": 409144,
+    "runtime": 123,
+    "directors": [
+      "Michael Winterbottom"
+    ]
+  },
+  "tt0116242": {
+    "title": "Everyone Says I Love You",
+    "budget": 20000000,
+    "gross": 9759200,
+    "runtime": 101,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0117509": {
+    "title": "Romeo + Juliet",
+    "budget": 14500000,
+    "gross": 147554998,
+    "runtime": 120,
+    "directors": [
+      "Baz Luhrmann"
+    ]
+  },
+  "tt0117802": {
+    "title": "Swingers",
+    "budget": 200000,
+    "gross": 4555020,
+    "runtime": 96,
+    "directors": [
+      "Doug Liman"
+    ]
+  },
+  "tt0117665": {
+    "title": "Sleepers",
+    "budget": 44000000,
+    "gross": 165615285,
+    "runtime": 147,
+    "directors": [
+      "Barry Levinson"
+    ]
+  },
+  "tt0115491": {
+    "title": "Aladdin and the King of Thieves",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 81,
+    "directors": [
+      "Tad Stones"
+    ]
+  },
+  "tt0029546": {
+    "title": "Shall We Dance",
+    "budget": 991000,
+    "gross": 6662,
+    "runtime": 109,
+    "directors": [
+      "Mark Sandrich"
+    ]
+  },
+  "tt0039286": {
+    "title": "Crossfire",
+    "budget": 250000,
+    "gross": 0,
+    "runtime": 86,
+    "directors": [
+      "Edward Dmytryk"
+    ]
+  },
+  "tt0067992": {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "budget": 3000000,
+    "gross": 2361799,
+    "runtime": 100,
+    "directors": [
+      "Mel Stuart"
+    ]
+  },
+  "tt0055018": {
+    "title": "The Innocents",
+    "budget": 430000,
+    "gross": 30411,
+    "runtime": 100,
+    "directors": [
+      "Jack Clayton"
+    ]
+  },
+  "tt0070707": {
+    "title": "Sleeper",
+    "budget": 2000000,
+    "gross": 18344887,
+    "runtime": 89,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0066808": {
+    "title": "Bananas",
+    "budget": 2000000,
+    "gross": 136200,
+    "runtime": 82,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0095159": {
+    "title": "A Fish Called Wanda",
+    "budget": 7500000,
+    "gross": 62493712,
+    "runtime": 108,
+    "directors": [
+      "Charles Crichton",
+      "John Cleese"
+    ]
+  },
+  "tt0079470": {
+    "title": "Monty Python's Life of Brian",
+    "budget": 4000000,
+    "gross": 20922304,
+    "runtime": 94,
+    "directors": [
+      "Terry Jones"
+    ]
+  },
+  "tt0068334": {
+    "title": "The Candidate",
+    "budget": 1500000,
+    "gross": 0,
+    "runtime": 110,
+    "directors": [
+      "Michael Ritchie"
+    ]
+  },
+  "tt0084865": {
+    "title": "Victor/Victoria",
+    "budget": 0,
+    "gross": 28229440,
+    "runtime": 134,
+    "directors": [
+      "Blake Edwards"
+    ]
+  },
+  "tt0059243": {
+    "title": "The Great Race",
+    "budget": 12000000,
+    "gross": 0,
+    "runtime": 160,
+    "directors": [
+      "Blake Edwards"
+    ]
+  },
+  "tt0052027": {
+    "title": "The Old Man and the Sea",
+    "budget": 5000000,
+    "gross": 67740,
+    "runtime": 86,
+    "directors": [
+      "John Sturges",
+      "Fred Zinnemann"
+    ]
+  },
+  "tt0061418": {
+    "title": "Bonnie and Clyde",
+    "budget": 2500000,
+    "gross": 2895,
+    "runtime": 111,
+    "directors": [
+      "Arthur Penn"
+    ]
+  },
+  "tt0046912": {
+    "title": "Dial M for Murder",
+    "budget": 1400000,
+    "gross": 45313,
+    "runtime": 105,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0092890": {
+    "title": "Dirty Dancing",
+    "budget": 6000000,
+    "gross": 214577242,
+    "runtime": 100,
+    "directors": [
+      "Emile Ardolino"
+    ]
+  },
+  "tt0105236": {
+    "title": "Reservoir Dogs",
+    "budget": 1200000,
+    "gross": 2942225,
+    "runtime": 99,
+    "directors": [
+      "Quentin Tarantino"
+    ]
+  },
+  "tt0091763": {
+    "title": "Platoon",
+    "budget": 6000000,
+    "gross": 138547185,
+    "runtime": 120,
+    "directors": [
+      "Oliver Stone"
+    ]
+  },
+  "tt0098627": {
+    "title": "Weekend at Bernie's",
+    "budget": 0,
+    "gross": 30218387,
+    "runtime": 97,
+    "directors": [
+      "Ted Kotcheff"
+    ]
+  },
+  "tt0103772": {
+    "title": "Basic Instinct",
+    "budget": 49000000,
+    "gross": 352927224,
+    "runtime": 127,
+    "directors": [
+      "Paul Verhoeven"
+    ]
+  },
+  "tt0101761": {
+    "title": "The Doors",
+    "budget": 38000000,
+    "gross": 34516808,
+    "runtime": 140,
+    "directors": [
+      "Oliver Stone"
+    ]
+  },
+  "tt0104036": {
+    "title": "The Crying Game",
+    "budget": 2300000,
+    "gross": 62549086,
+    "runtime": 112,
+    "directors": [
+      "Neil Jordan"
+    ]
+  },
+  "tt0104348": {
+    "title": "Glengarry Glen Ross",
+    "budget": 12500000,
+    "gross": 10726612,
+    "runtime": 100,
+    "directors": [
+      "James Foley"
+    ]
+  },
+  "tt0084707": {
+    "title": "Sophie's Choice",
+    "budget": 12000000,
+    "gross": 30036166,
+    "runtime": 150,
+    "directors": [
+      "Alan J. Pakula"
+    ]
+  },
+  "tt0083866": {
+    "title": "E.T. the Extra-Terrestrial",
+    "budget": 10500000,
+    "gross": 797307407,
+    "runtime": 115,
+    "directors": [
+      "Steven Spielberg"
+    ]
+  },
+  "tt0029992": {
+    "title": "A Christmas Carol",
+    "budget": 0,
+    "gross": 229,
+    "runtime": 69,
+    "directors": [
+      "Edwin L. Marin"
+    ]
+  },
+  "tt0099371": {
+    "title": "Days of Thunder",
+    "budget": 60000000,
+    "gross": 157920733,
+    "runtime": 107,
+    "directors": [
+      "Tony Scott"
+    ]
+  },
+  "tt0092099": {
+    "title": "Top Gun",
+    "budget": 15000000,
+    "gross": 360539543,
+    "runtime": 109,
+    "directors": [
+      "Tony Scott"
+    ]
+  },
+  "tt0048545": {
+    "title": "Rebel Without a Cause",
+    "budget": 1500000,
+    "gross": 224584,
+    "runtime": 111,
+    "directors": [
+      "Nicholas Ray"
+    ]
+  },
+  "tt0044081": {
+    "title": "A Streetcar Named Desire",
+    "budget": 1800000,
+    "gross": 55437,
+    "runtime": 122,
+    "directors": [
+      "Elia Kazan"
+    ]
+  },
+  "tt0115885": {
+    "title": "Children of the Corn IV: The Gathering",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 85,
+    "directors": [
+      "Greg Spence"
+    ]
+  },
+  "tt0102336": {
+    "title": "Loser",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 84,
+    "directors": [
+      "Erik Burke"
+    ]
+  },
+  "tt0117040": {
+    "title": "Microcosmos",
+    "budget": 5000000,
+    "gross": 1433210,
+    "runtime": 80,
+    "directors": [
+      "Claude Nuridsany",
+      "Marie Pérennou"
+    ]
+  },
+  "tt0117284": {
+    "title": "Palookaville",
+    "budget": 0,
+    "gross": 365284,
+    "runtime": 92,
+    "directors": [
+      "Alan Taylor"
+    ]
+  },
+  "tt0116378": {
+    "title": "The Funeral",
+    "budget": 12500000,
+    "gross": 1227553,
+    "runtime": 99,
+    "directors": [
+      "Abel Ferrara"
+    ]
+  },
+  "tt0113057": {
+    "title": "A Single Girl",
+    "budget": 0,
+    "gross": 230049,
+    "runtime": 90,
+    "directors": [
+      "Benoît Jacquot"
+    ]
+  },
+  "tt0116581": {
+    "title": "The Eighth Day",
+    "budget": 25000000,
+    "gross": 33031984,
+    "runtime": 118,
+    "directors": [
+      "Jaco Van Dormael"
+    ]
+  },
+  "tt0112907": {
+    "title": "Drunks",
+    "budget": 0,
+    "gross": 38268,
+    "runtime": 90,
+    "directors": [
+      "Peter Cohn"
+    ]
+  },
+  "tt0117318": {
+    "title": "The People vs. Larry Flynt",
+    "budget": 36000000,
+    "gross": 20300385,
+    "runtime": 130,
+    "directors": [
+      "Miloš Forman"
+    ]
+  },
+  "tt0116422": {
+    "title": "Glory Daze",
+    "budget": 0,
+    "gross": 15134,
+    "runtime": 100,
+    "directors": [
+      "Rich Wilkes"
+    ]
+  },
+  "tt0117320": {
+    "title": "A Perfect Candidate",
+    "budget": 0,
+    "gross": 134485,
+    "runtime": 105,
+    "directors": [
+      "R.J. Cutler",
+      "David Van Taylor"
+    ]
+  },
+  "tt0082846": {
+    "title": "On Golden Pond",
+    "budget": 7500000,
+    "gross": 119285810,
+    "runtime": 109,
+    "directors": [
+      "Mark Rydell"
+    ]
+  },
+  "tt0072081": {
+    "title": "The Return of the Pink Panther",
+    "budget": 5000000,
+    "gross": 41833683,
+    "runtime": 113,
+    "directors": [
+      "Blake Edwards"
+    ]
+  },
+  "tt0101775": {
+    "title": "Drop Dead Fred",
+    "budget": 6788000,
+    "gross": 13884358,
+    "runtime": 103,
+    "directors": [
+      "Ate de Jong"
+    ]
+  },
+  "tt0096754": {
+    "title": "The Abyss",
+    "budget": 70000000,
+    "gross": 90520202,
+    "runtime": 140,
+    "directors": [
+      "James Cameron"
+    ]
+  },
+  "tt0082340": {
+    "title": "Escape from New York",
+    "budget": 6000000,
+    "gross": 25279546,
+    "runtime": 99,
+    "directors": [
+      "John Carpenter"
+    ]
+  },
+  "tt0080749": {
+    "title": "The Fog",
+    "budget": 1100000,
+    "gross": 21448830,
+    "runtime": 89,
+    "directors": [
+      "John Carpenter"
+    ]
+  },
+  "tt0082533": {
+    "title": "The Howling",
+    "budget": 1000000,
+    "gross": 17985893,
+    "runtime": 91,
+    "directors": [
+      "Joe Dante"
+    ]
+  },
+  "tt0091288": {
+    "title": "Jean de Florette",
+    "budget": 0,
+    "gross": 4943088,
+    "runtime": 120,
+    "directors": [
+      "Claude Berri"
+    ]
+  },
+  "tt0091480": {
+    "title": "Manon of the Spring",
+    "budget": 0,
+    "gross": 3941705,
+    "runtime": 113,
+    "directors": [
+      "Claude Berri"
+    ]
+  },
+  "tt0081375": {
+    "title": "Private Benjamin",
+    "budget": 9500000,
+    "gross": 69847348,
+    "runtime": 109,
+    "directors": [
+      "Howard Zieff"
+    ]
+  },
+  "tt0071853": {
+    "title": "Monty Python and the Holy Grail",
+    "budget": 229575,
+    "gross": 2942232,
+    "runtime": 91,
+    "directors": [
+      "Terry Gilliam",
+      "Terry Jones"
+    ]
+  },
+  "tt0116587": {
+    "title": "Hustler White",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 79,
+    "directors": [
+      "Rick Castro",
+      "Bruce LaBruce"
+    ]
+  },
+  "tt0116212": {
+    "title": "Entertaining Angels: The Dorothy Day Story",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 110,
+    "directors": [
+      "Michael Ray Rhodes"
+    ]
+  },
+  "tt0116886": {
+    "title": "The Line King: The Al Hirschfeld Story",
+    "budget": 0,
+    "gross": 50605,
+    "runtime": 86,
+    "directors": [
+      "Susan Warms Dryfoos"
+    ]
+  },
+  "tt0118147": {
+    "title": "When We Were Kings",
+    "budget": 0,
+    "gross": 2789985,
+    "runtime": 88,
+    "directors": [
+      "Leon Gast"
+    ]
+  },
+  "tt0108598": {
+    "title": "Wallace & Gromit: The Wrong Trousers",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 30,
+    "directors": [
+      "Nick Park"
+    ]
+  },
+  "tt0109781": {
+    "title": "Faust",
+    "budget": 0,
+    "gross": 2117923,
+    "runtime": 97,
+    "directors": [
+      "Jan Švankmajer"
+    ]
+  },
+  "tt0084589": {
+    "title": "The Return of Martin Guerre",
+    "budget": 0,
+    "gross": 3723036,
+    "runtime": 112,
+    "directors": [
+      "Daniel Vigne"
+    ]
+  },
+  "tt0034493": {
+    "title": "The Children Are Watching Us",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 84,
+    "directors": [
+      "Vittorio De Sica"
+    ]
+  },
+  "tt0078875": {
+    "title": "The Tin Drum",
+    "budget": 0,
+    "gross": 7469,
+    "runtime": 142,
+    "directors": [
+      "Volker Schlöndorff"
+    ]
+  },
+  "tt0069198": {
+    "title": "The Ruling Class",
+    "budget": 1400000,
+    "gross": 0,
+    "runtime": 154,
+    "directors": [
+      "Peter Medak"
+    ]
+  },
+  "tt0110521": {
+    "title": "Mina Tannenbaum",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 128,
+    "directors": [
+      "Martine Dugowson"
+    ]
+  },
+  "tt0116059": {
+    "title": "Dear God",
+    "budget": 22000000,
+    "gross": 7138523,
+    "runtime": 112,
+    "directors": [
+      "Garry Marshall"
+    ]
+  },
+  "tt0112483": {
+    "title": "Best of the Best 3: No Turning Back",
+    "budget": 0,
+    "gross": 0,
+    "runtime": 90,
+    "directors": [
+      "Phillip Rhee"
+    ]
+  },
+  "tt0103850": {
+    "title": "Bob Roberts",
+    "budget": 3900000,
+    "gross": 4479470,
+    "runtime": 102,
+    "directors": [
+      "Tim Robbins"
+    ]
+  },
+  "tt0095765": {
+    "title": "Cinema Paradiso",
+    "budget": 5000000,
+    "gross": 13502484,
+    "runtime": 174,
+    "directors": [
+      "Giuseppe Tornatore"
+    ]
+  },
+  "tt0097108": {
+    "title": "The Cook, the Thief, His Wife & Her Lover",
+    "budget": 0,
+    "gross": 8527316,
+    "runtime": 124,
+    "directors": [
+      "Peter Greenaway"
+    ]
+  },
+  "tt0101700": {
+    "title": "Delicatessen",
+    "budget": 24000000,
+    "gross": 1804142,
+    "runtime": 99,
+    "directors": [
+      "Marc Caro",
+      "Jean-Pierre Jeunet"
+    ]
+  },
+  "tt0101765": {
+    "title": "The Double Life of Véronique",
+    "budget": 0,
+    "gross": 2176789,
+    "runtime": 98,
+    "directors": [
+      "Krzysztof Kieślowski"
+    ]
+  },
+  "tt0101811": {
+    "title": "Enchanted April",
+    "budget": 0,
+    "gross": 13200170,
+    "runtime": 95,
+    "directors": [
+      "Mike Newell"
+    ]
+  },
+  "tt0050825": {
+    "title": "Paths of Glory",
+    "budget": 935000,
+    "gross": 9307,
+    "runtime": 88,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0102014": {
+    "title": "Hear My Song",
+    "budget": 0,
+    "gross": 4313473,
+    "runtime": 104,
+    "directors": [
+      "Peter Chelsom"
+    ]
+  },
+  "tt0099703": {
+    "title": "The Grifters",
+    "budget": 0,
+    "gross": 13446769,
+    "runtime": 110,
+    "directors": [
+      "Stephen Frears"
+    ]
+  },
+  "tt0116209": {
+    "title": "The English Patient",
+    "budget": 27000000,
+    "gross": 231976425,
+    "runtime": 162,
+    "directors": [
+      "Anthony Minghella"
+    ]
+  },
+  "tt0102426": {
+    "title": "Mediterraneo",
+    "budget": 0,
+    "gross": 4532791,
+    "runtime": 96,
+    "directors": [
+      "Gabriele Salvatores"
+    ]
+  },
+  "tt0097937": {
+    "title": "My Left Foot",
+    "budget": 600000,
+    "gross": 14743391,
+    "runtime": 103,
+    "directors": [
+      "Jim Sheridan"
+    ]
+  },
+  "tt0098724": {
+    "title": "Sex, Lies, and Videotape",
+    "budget": 1200000,
+    "gross": 24743180,
+    "runtime": 100,
+    "directors": [
+      "Steven Soderbergh"
+    ]
+  },
+  "tt0105107": {
+    "title": "Passion Fish",
+    "budget": 3330000,
+    "gross": 4814619,
+    "runtime": 135,
+    "directors": [
+      "John Sayles"
+    ]
+  },
+  "tt0105488": {
+    "title": "Strictly Ballroom",
+    "budget": 3000000,
+    "gross": 11761791,
+    "runtime": 94,
+    "directors": [
+      "Baz Luhrmann"
+    ]
+  },
+  "tt0096257": {
+    "title": "The Thin Blue Line",
+    "budget": 0,
+    "gross": 1209846,
+    "runtime": 101,
+    "directors": [
+      "Errol Morris"
+    ]
+  },
+  "tt0101026": {
+    "title": "Tie Me Up! Tie Me Down!",
+    "budget": 0,
+    "gross": 4089145,
+    "runtime": 101,
+    "directors": [
+      "Pedro Almodóvar"
+    ]
+  },
+  "tt0102370": {
+    "title": "Madonna: Truth or Dare",
+    "budget": 4500000,
+    "gross": 29012935,
+    "runtime": 120,
+    "directors": [
+      "Alek Keshishian"
+    ]
+  },
+  "tt0073486": {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "budget": 3000000,
+    "gross": 109130852,
+    "runtime": 133,
+    "directors": [
+      "Miloš Forman"
+    ]
+  },
+  "tt0100332": {
+    "title": "Paris Is Burning",
+    "budget": 500000,
+    "gross": 3908793,
+    "runtime": 78,
+    "directors": [
+      "Jennie Livingston"
+    ]
+  },
+  "tt0078446": {
+    "title": "Up in Smoke",
+    "budget": 2000000,
+    "gross": 44364244,
+    "runtime": 86,
+    "directors": [
+      "Lou Adler",
+      "Tommy Chong"
+    ]
+  },
+  "tt0080684": {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "budget": 18000000,
+    "gross": 550016086,
+    "runtime": 124,
+    "directors": [
+      "Irvin Kershner"
+    ]
+  },
+  "tt0093779": {
+    "title": "The Princess Bride",
+    "budget": 16000000,
+    "gross": 31048549,
+    "runtime": 98,
+    "directors": [
+      "Rob Reiner"
+    ]
+  },
+  "tt0082971": {
+    "title": "Raiders of the Lost Ark",
+    "budget": 18000000,
+    "gross": 389925971,
+    "runtime": 115,
+    "directors": [
+      "Steven Spielberg"
+    ]
+  },
+  "tt0088846": {
+    "title": "Brazil",
+    "budget": 15000000,
+    "gross": 9953708,
+    "runtime": 132,
+    "directors": [
+      "Terry Gilliam"
+    ]
+  },
+  "tt0090605": {
+    "title": "Aliens",
+    "budget": 18500000,
+    "gross": 131060248,
+    "runtime": 137,
+    "directors": [
+      "James Cameron"
+    ]
+  },
+  "tt0060196": {
+    "title": "The Good, the Bad and the Ugly",
+    "budget": 1200000,
+    "gross": 25279226,
+    "runtime": 178,
+    "directors": [
+      "Sergio Leone"
+    ]
+  },
+  "tt0094336": {
+    "title": "Withnail and I",
+    "budget": 1100000,
+    "gross": 2455690,
+    "runtime": 107,
+    "directors": [
+      "Bruce Robinson"
+    ]
+  },
+  "tt0050083": {
+    "title": "12 Angry Men",
+    "budget": 350000,
+    "gross": 10438,
+    "runtime": 96,
+    "directors": [
+      "Sidney Lumet"
+    ]
+  },
+  "tt0056172": {
+    "title": "Lawrence of Arabia",
+    "budget": 15000000,
+    "gross": 46121992,
+    "runtime": 227,
+    "directors": [
+      "David Lean"
+    ]
+  },
+  "tt0066921": {
+    "title": "A Clockwork Orange",
+    "budget": 2200000,
+    "gross": 27188188,
+    "runtime": 136,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0056592": {
+    "title": "To Kill a Mockingbird",
+    "budget": 2000000,
+    "gross": 611817,
+    "runtime": 129,
+    "directors": [
+      "Robert Mulligan"
+    ]
+  },
+  "tt0078788": {
+    "title": "Apocalypse Now",
+    "budget": 31500000,
+    "gross": 105313123,
+    "runtime": 147,
+    "directors": [
+      "Francis Ford Coppola"
+    ]
+  },
+  "tt0064116": {
+    "title": "Once Upon a Time in the West",
+    "budget": 5000000,
+    "gross": 5439179,
+    "runtime": 145,
+    "directors": [
+      "Sergio Leone"
+    ]
+  },
+  "tt0086190": {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "budget": 32500000,
+    "gross": 482466382,
+    "runtime": 131,
+    "directors": [
+      "Richard Marquand"
+    ]
+  },
+  "tt0093191": {
+    "title": "Wings of Desire",
+    "budget": 0,
+    "gross": 3550207,
+    "runtime": 128,
+    "directors": [
+      "Wim Wenders"
+    ]
+  },
+  "tt0099685": {
+    "title": "GoodFellas",
+    "budget": 25000000,
+    "gross": 47083714,
+    "runtime": 145,
+    "directors": [
+      "Martin Scorsese"
+    ]
+  },
+  "tt0041959": {
+    "title": "The Third Man",
+    "budget": 0,
+    "gross": 1426475,
+    "runtime": 104,
+    "directors": [
+      "Carol Reed"
+    ]
+  },
+  "tt0078748": {
+    "title": "Alien",
+    "budget": 11000000,
+    "gross": 109726643,
+    "runtime": 117,
+    "directors": [
+      "Ridley Scott"
+    ]
+  },
+  "tt0106308": {
+    "title": "Army of Darkness",
+    "budget": 11000000,
+    "gross": 11521123,
+    "runtime": 81,
+    "directors": [
+      "Sam Raimi"
+    ]
+  },
+  "tt0095250": {
+    "title": "The Big Blue",
+    "budget": 80000000,
+    "gross": 3992246,
+    "runtime": 168,
+    "directors": [
+      "Luc Besson"
+    ]
+  },
+  "tt0089881": {
+    "title": "Ran",
+    "budget": 11500000,
+    "gross": 4424869,
+    "runtime": 160,
+    "directors": [
+      "Akira Kurosawa"
+    ]
+  },
+  "tt0097202": {
+    "title": "The Killer",
+    "budget": 0,
+    "gross": 2340425,
+    "runtime": 111,
+    "directors": [
+      "John Woo"
+    ]
+  },
+  "tt0054215": {
+    "title": "Psycho",
+    "budget": 806947,
+    "gross": 32276120,
+    "runtime": 109,
+    "directors": [
+      "Alfred Hitchcock"
+    ]
+  },
+  "tt0080455": {
+    "title": "The Blues Brothers",
+    "budget": 27500000,
+    "gross": 115229890,
+    "runtime": 133,
+    "directors": [
+      "John Landis"
+    ]
+  },
+  "tt0071562": {
+    "title": "The Godfather Part II",
+    "budget": 13000000,
+    "gross": 48209545,
+    "runtime": 202,
+    "directors": [
+      "Francis Ford Coppola"
+    ]
+  },
+  "tt0093058": {
+    "title": "Full Metal Jacket",
+    "budget": 30000000,
+    "gross": 50879079,
+    "runtime": 116,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0104361": {
+    "title": "Wallace & Gromit: A Grand Day Out",
+    "budget": 0,
+    "gross": 95031,
+    "runtime": 23,
+    "directors": [
+      "Nick Park"
+    ]
+  },
+  "tt0097499": {
+    "title": "Henry V",
+    "budget": 9000000,
+    "gross": 10161211,
+    "runtime": 137,
+    "directors": [
+      "Kenneth Branagh"
+    ]
+  },
+  "tt0086879": {
+    "title": "Amadeus",
+    "budget": 18000000,
+    "gross": 52271162,
+    "runtime": 160,
+    "directors": [
+      "Miloš Forman"
+    ]
+  },
+  "tt0045061": {
+    "title": "The Quiet Man",
+    "budget": 1750000,
+    "gross": 0,
+    "runtime": 129,
+    "directors": [
+      "John Ford"
+    ]
+  },
+  "tt0081398": {
+    "title": "Raging Bull",
+    "budget": 18000000,
+    "gross": 23406558,
+    "runtime": 129,
+    "directors": [
+      "Martin Scorsese"
+    ]
+  },
+  "tt0075686": {
+    "title": "Annie Hall",
+    "budget": 4000000,
+    "gross": 38308817,
+    "runtime": 93,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0087843": {
+    "title": "Once Upon a Time in America",
+    "budget": 30000000,
+    "gross": 5476126,
+    "runtime": 229,
+    "directors": [
+      "Sergio Leone"
+    ]
+  },
+  "tt0086197": {
+    "title": "The Right Stuff",
+    "budget": 27000000,
+    "gross": 21192315,
+    "runtime": 193,
+    "directors": [
+      "Philip Kaufman"
+    ]
+  },
+  "tt0079944": {
+    "title": "Stalker",
+    "budget": 1000000,
+    "gross": 454385,
+    "runtime": 162,
+    "directors": [
+      "Andrei Tarkovsky"
+    ]
+  },
+  "tt0082096": {
+    "title": "Das Boot",
+    "budget": 32000000,
+    "gross": 11489279,
+    "runtime": 149,
+    "directors": [
+      "Wolfgang Petersen"
+    ]
+  },
+  "tt0070735": {
+    "title": "The Sting",
+    "budget": 5500000,
+    "gross": 156005969,
+    "runtime": 129,
+    "directors": [
+      "George Roy Hill"
+    ]
+  },
+  "tt0067185": {
+    "title": "Harold and Maude",
+    "budget": 1200000,
+    "gross": 4980,
+    "runtime": 91,
+    "directors": [
+      "Hal Ashby"
+    ]
+  },
+  "tt0103130": {
+    "title": "Trust",
+    "budget": 700000,
+    "gross": 357400,
+    "runtime": 107,
+    "directors": [
+      "Hal Hartley"
+    ]
+  },
+  "tt0050976": {
+    "title": "The Seventh Seal",
+    "budget": 150000,
+    "gross": 335862,
+    "runtime": 96,
+    "directors": [
+      "Ingmar Bergman"
+    ]
+  },
+  "tt0085859": {
+    "title": "Local Hero",
+    "budget": 3000000,
+    "gross": 6020254,
+    "runtime": 111,
+    "directors": [
+      "Bill Forsyth"
+    ]
+  },
+  "tt0088247": {
+    "title": "The Terminator",
+    "budget": 6400000,
+    "gross": 78371200,
+    "runtime": 107,
+    "directors": [
+      "James Cameron"
+    ]
+  },
+  "tt0103873": {
+    "title": "Braindead",
+    "budget": 3000000,
+    "gross": 242623,
+    "runtime": 104,
+    "directors": [
+      "Peter Jackson"
+    ]
+  },
+  "tt0097441": {
+    "title": "Glory",
+    "budget": 18000000,
+    "gross": 26979166,
+    "runtime": 122,
+    "directors": [
+      "Edward Zwick"
+    ]
+  },
+  "tt0079522": {
+    "title": "Manhattan",
+    "budget": 9000000,
+    "gross": 40196866,
+    "runtime": 96,
+    "directors": [
+      "Woody Allen"
+    ]
+  },
+  "tt0100150": {
+    "title": "Miller's Crossing",
+    "budget": 14000000,
+    "gross": 5080409,
+    "runtime": 115,
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ]
+  },
+  "tt0100519": {
+    "title": "Rosencrantz & Guildenstern Are Dead",
+    "budget": 0,
+    "gross": 739104,
+    "runtime": 117,
+    "directors": [
+      "Tom Stoppard"
+    ]
+  },
+  "tt0097165": {
+    "title": "Dead Poets Society",
+    "budget": 16400000,
+    "gross": 235860116,
+    "runtime": 128,
+    "directors": [
+      "Peter Weir"
+    ]
+  },
+  "tt0061722": {
+    "title": "The Graduate",
+    "budget": 3000000,
+    "gross": 105018547,
+    "runtime": 106,
+    "directors": [
+      "Mike Nichols"
+    ]
+  },
+  "tt0052311": {
+    "title": "Touch of Evil",
+    "budget": 829000,
+    "gross": 2285063,
+    "runtime": 95,
+    "directors": [
+      "Orson Welles"
+    ]
+  },
+  "tt0100263": {
+    "title": "La Femme Nikita",
+    "budget": 50000000,
+    "gross": 5018604,
+    "runtime": 117,
+    "directors": [
+      "Luc Besson"
+    ]
+  },
+  "tt0050212": {
+    "title": "The Bridge on the River Kwai",
+    "budget": 3000000,
+    "gross": 27202719,
+    "runtime": 161,
+    "directors": [
+      "David Lean"
+    ]
+  },
+  "tt0056801": {
+    "title": "8½",
+    "budget": 0,
+    "gross": 377823,
+    "runtime": 138,
+    "directors": [
+      "Federico Fellini"
+    ]
+  },
+  "tt0071315": {
+    "title": "Chinatown",
+    "budget": 6000000,
+    "gross": 29232347,
+    "runtime": 130,
+    "directors": [
+      "Roman Polanski"
+    ]
+  },
+  "tt0043456": {
+    "title": "The Day the Earth Stood Still",
+    "budget": 1200000,
+    "gross": 651,
+    "runtime": 92,
+    "directors": [
+      "Robert Wise"
+    ]
+  },
+  "tt0040897": {
+    "title": "The Treasure of the Sierra Madre",
+    "budget": 3000000,
+    "gross": 5014124,
+    "runtime": 126,
+    "directors": [
+      "John Huston"
+    ]
+  },
+  "tt0092610": {
+    "title": "Bad Taste",
+    "budget": 200000,
+    "gross": 0,
+    "runtime": 91,
+    "directors": [
+      "Peter Jackson"
+    ]
+  },
+  "tt0023969": {
+    "title": "Duck Soup",
+    "budget": 0,
+    "gross": 106318,
+    "runtime": 69,
+    "directors": [
+      "Leo McCarey"
+    ]
+  },
+  "tt0081505": {
+    "title": "The Shining",
+    "budget": 19000000,
+    "gross": 50293408,
+    "runtime": 146,
+    "directors": [
+      "Stanley Kubrick"
+    ]
+  },
+  "tt0088794": {
+    "title": "Better Off Dead",
+    "budget": 0,
+    "gross": 10297601,
+    "runtime": 97,
+    "directors": [
+      "Savage Steve Holland"
+    ]
+  },
+  "tt0092005": {
+    "title": "Stand by Me",
+    "budget": 8000000,
+    "gross": 54318325,
+    "runtime": 89,
+    "directors": [
+      "Rob Reiner"
+    ]
+  },
+  "tt0092991": {
+    "title": "Evil Dead II",
+    "budget": 3600000,
+    "gross": 5932279,
+    "runtime": 84,
+    "directors": [
+      "Sam Raimi"
+    ]
+  },
+  "tt0022100": {
+    "title": "M",
+    "budget": 0,
+    "gross": 35566,
+    "runtime": 99,
+    "directors": [
+      "Fritz Lang"
+    ]
+  },
+  "tt0057115": {
+    "title": "The Great Escape",
+    "budget": 4000000,
+    "gross": 232707,
+    "runtime": 172,
+    "directors": [
+      "John Sturges"
+    ]
+  },
+  "tt0077416": {
+    "title": "The Deer Hunter",
+    "budget": 15000000,
+    "gross": 49080334,
+    "runtime": 183,
+    "directors": [
+      "Michael Cimino"
+    ]
+  },
+  "tt0082269": {
+    "title": "Diva",
+    "budget": 0,
+    "gross": 183425,
+    "runtime": 117,
+    "directors": [
+      "Jean-Jacques Beineix"
+    ]
+  },
+  "tt0107048": {
+    "title": "Groundhog Day",
+    "budget": 14600000,
+    "gross": 71108948,
+    "runtime": 101,
+    "directors": [
+      "Harold Ramis"
+    ]
+  },
+  "tt0056218": {
+    "title": "The Manchurian Candidate",
+    "budget": 2200000,
+    "gross": 2758060,
+    "runtime": 126,
+    "directors": [
+      "John Frankenheimer"
+    ]
+  },
+  "tt0105695": {
+    "title": "Unforgiven",
+    "budget": 14400000,
+    "gross": 159167799,
+    "runtime": 130,
+    "directors": [
+      "Clint Eastwood"
+    ]
+  },
+  "tt0100436": {
+    "title": "Pump Up the Volume",
+    "budget": 0,
+    "gross": 11541758,
+    "runtime": 102,
+    "directors": [
+      "Allan Moyle"
+    ]
+  },
+  "tt0036613": {
+    "title": "Arsenic and Old Lace",
+    "budget": 1164000,
+    "gross": 0,
+    "runtime": 118,
+    "directors": [
+      "Frank Capra"
+    ]
+  },
+  "tt0088763": {
+    "title": "Back to the Future",
+    "budget": 19000000,
+    "gross": 392976852,
+    "runtime": 116,
+    "directors": [
+      "Robert Zemeckis"
+    ]
+  },
+  "tt0101921": {
+    "title": "Fried Green Tomatoes",
+    "budget": 11000000,
+    "gross": 119418501,
+    "runtime": 130,
+    "directors": [
+      "Jon Avnet"
+    ]
+  },
+  "tt0066206": {
+    "title": "Patton",
+    "budget": 12000000,
+    "gross": 61749765,
+    "runtime": 172,
+    "directors": [
+      "Franklin J. Schaffner"
+    ]
+  },
+  "tt0090967": {
+    "title": "Down by Law",
+    "budget": 1100000,
+    "gross": 1531577,
+    "runtime": 107,
+    "directors": [
+      "Jim Jarmusch"
+    ]
+  },
+  "tt0094625": {
+    "title": "Akira",
+    "budget": 1100000000,
+    "gross": 3793273,
+    "runtime": 124,
+    "directors": [
+      "Katsuhiro Ōtomo"
+    ]
+  },
+  "tt0091203": {
+    "title": "Highlander",
+    "budget": 16000000,
+    "gross": 6030875,
+    "runtime": 110,
+    "directors": [
+      "Russell Mulcahy"
+    ]
+  },
+  "tt0061512": {
+    "title": "Cool Hand Luke",
+    "budget": 3200000,
+    "gross": 2005,
+    "runtime": 127,
+    "directors": [
+      "Stuart Rosenberg"
+    ]
+  },
+  "tt0102536": {
+    "title": "Night on Earth",
+    "budget": 3500000,
+    "gross": 2115906,
+    "runtime": 129,
+    "directors": [
+      "Jim Jarmusch"
+    ]
+  },
+  "tt0099334": {
+    "title": "Cyrano de Bergerac",
+    "budget": 100000000,
+    "gross": 5822041,
+    "runtime": 137,
+    "directors": [
+      "Jean-Paul Rappeneau"
+    ]
+  },
+  "tt0072431": {
+    "title": "Young Frankenstein",
+    "budget": 2800000,
+    "gross": 86438418,
+    "runtime": 106,
+    "directors": [
+      "Mel Brooks"
+    ]
+  },
+  "tt0101640": {
+    "title": "Raise the Red Lantern",
+    "budget": 0,
+    "gross": 2603061,
+    "runtime": 125,
+    "directors": [
+      "Yimou Zhang"
+    ]
+  },
+  "tt0032553": {
+    "title": "The Great Dictator",
+    "budget": 2000000,
+    "gross": 972212,
+    "runtime": 125,
+    "directors": [
+      "Charles Chaplin"
+    ]
+  },
+  "tt0032455": {
+    "title": "Fantasia",
+    "budget": 2280000,
+    "gross": 76415382,
+    "runtime": 124,
+    "directors": [
+      "James Algar",
+      "Samuel Armstrong",
+      "Ford Beebe Jr.",
+      "Norman Ferguson",
+      "David Hand",
+      "Jim Handley",
+      "T. Hee",
+      "Wilfred Jackson",
+      "Hamilton Luske",
+      "Bill Roberts",
+      "Paul Satterfield",
+      "Ben Sharpsteen"
+    ]
+  },
+  "tt0044706": {
+    "title": "High Noon",
+    "budget": 730000,
+    "gross": 217,
+    "runtime": 85,
+    "directors": [
+      "Fred Zinnemann"
+    ]
+  },
+  "tt0038355": {
+    "title": "The Big Sleep",
+    "budget": 250000,
+    "gross": 54414,
+    "runtime": 114,
+    "directors": [
+      "Howard Hawks"
+    ]
+  },
+  "tt0097493": {
+    "title": "Heathers",
+    "budget": 3000000,
+    "gross": 1169347,
+    "runtime": 103,
+    "directors": [
+      "Michael Lehmann"
+    ]
+  },
+  "tt0081534": {
+    "title": "Somewhere in Time",
+    "budget": 5100000,
+    "gross": 9709597,
+    "runtime": 103,
+    "directors": [
+      "Jeannot Szwarc"
+    ]
+  },
+  "tt0052618": {
+    "title": "Ben-Hur",
+    "budget": 15000000,
+    "gross": 74444716,
+    "runtime": 212,
+    "directors": [
+      "William Wyler"
+    ]
+  },
+  "tt0088258": {
+    "title": "This Is Spinal Tap",
+    "budget": 2500000,
+    "gross": 6051884,
+    "runtime": 82,
+    "directors": [
+      "Rob Reiner"
+    ]
+  },
+  "tt0094006": {
+    "title": "Some Kind of Wonderful",
+    "budget": 0,
+    "gross": 18553948,
+    "runtime": 95,
+    "directors": [
+      "Howard Deutch"
+    ]
+  },
+  "tt0097576": {
+    "title": "Indiana Jones and the Last Crusade",
+    "budget": 48000000,
+    "gross": 474171806,
+    "runtime": 127,
+    "directors": [
+      "Steven Spielberg"
+    ]
+  },
+  "tt0085809": {
+    "title": "Koyaanisqatsi",
+    "budget": 0,
+    "gross": 1728699,
+    "runtime": 86,
+    "directors": [
+      "Godfrey Reggio"
+    ]
+  },
+  "tt0078841": {
+    "title": "Being There",
+    "budget": 0,
+    "gross": 30180155,
+    "runtime": 130,
+    "directors": [
+      "Hal Ashby"
+    ]
+  },
+  "tt0083987": {
+    "title": "Gandhi",
+    "budget": 22000000,
+    "gross": 52769114,
+    "runtime": 191,
+    "directors": [
+      "Richard Attenborough"
+    ]
+  },
+  "tt0096332": {
+    "title": "The Unbearable Lightness of Being",
+    "budget": 17000000,
+    "gross": 10006806,
+    "runtime": 171,
+    "directors": [
+      "Philip Kaufman"
+    ]
+  },
+  "tt0091867": {
+    "title": "A Room with a View",
+    "budget": 3000000,
+    "gross": 24580738,
+    "runtime": 117,
+    "directors": [
+      "James Ivory"
+    ]
+  },
+  "tt0089886": {
+    "title": "Real Genius",
+    "budget": 8000000,
+    "gross": 12952019,
+    "runtime": 108,
+    "directors": [
+      "Martha Coolidge"
+    ]
+  },
+  "tt0084503": {
+    "title": "Pink Floyd: The Wall",
+    "budget": 12000000,
+    "gross": 22282724,
+    "runtime": 95,
+    "directors": [
+      "Alan Parker"
+    ]
+  },
+  "tt0087553": {
+    "title": "The Killing Fields",
+    "budget": 14400000,
+    "gross": 34700291,
+    "runtime": 141,
+    "directors": [
+      "Roland Joffé"
+    ]
+  },
+  "tt0089606": {
+    "title": "My Life as a Dog",
+    "budget": 0,
+    "gross": 8349284,
+    "runtime": 101,
+    "directors": [
+      "Lasse Hallström"
+    ]
+  },
+  "tt0049223": {
+    "title": "Forbidden Planet",
+    "budget": 1900000,
+    "gross": 1477,
+    "runtime": 98,
+    "directors": [
+      "Fred M. Wilcox"
+    ]
+  }
+}

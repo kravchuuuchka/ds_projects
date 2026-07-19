@@ -1,0 +1,29 @@
+{
+  "862": {
+    "title": "Toy Story",
+    "budget": 30000000,
+    "gross": 401157969,
+    "runtime": 81,
+    "directors": [
+      "John Lasseter"
+    ]
+  },
+  "8844": {
+    "title": "Jumanji",
+    "budget": 65000000,
+    "gross": 262821940,
+    "runtime": 104,
+    "directors": [
+      "Joe Johnston"
+    ]
+  },
+  "15602": {
+    "title": "Grumpier Old Men",
+    "budget": 25000000,
+    "gross": 71518503,
+    "runtime": 101,
+    "directors": [
+      "Howard Deutch"
+    ]
+  }
+}
